@@ -1,0 +1,98 @@
+{
+	"welcome": {
+		"top": "An ever evolving",
+		"bottom": "Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join us every Saturday night for live DJs!",
+			"Get all station announcements at the Bass Station Discord: https://discord.gg/bassstationvr"
+		]
+	},
+	"event": {
+		"top": "Tonight we're the wall to wall",
+		"bottom": "(Drum and) Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"For the benefit of your fellow musical travelers, please mind your avatar performance!",
+			"Get all station announcements at the Bass Station Discord: https://discord.gg/bassstationvr"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1725155994,
+		"performers": [
+			{
+				"name": "Thunder_Kick",
+				"startTime": 1725156000,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Our first stopping service to Oldschool DNB",
+					"Hitting Things Hard at 175 Times Per Minute",
+					"Follow me at https://www.twitch.tv/thundykick"
+				]
+			},
+			{
+				"name": "V[AI]RUS",
+				"startTime": 1725159600,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Calling at Breakcore and DnB",
+					"*dial-up noises* 'processing...'",
+					"Follow me at https://twitter.com/v_ai_rus"
+				]
+			},
+			{
+				"name": "DJ Liquid Bass",
+				"startTime": 1725163200,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Express service to Drum and Bass only!"
+				]
+			},
+			{
+				"name": "Bassdrop",
+				"startTime": 1725166800,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"All aboard for Monstercat DnB!",
+					"'Remember, no man is a failure who has friends.'",
+					"Follow me on Twitter @CeleronTheProto"
+				]
+			},
+			{
+				"name": "Subverja",
+				"startTime": 1725168720,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final train to... yes, you guessed it, Drum and Bass!"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1725174000,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This party terminates here. We wish you the best with your onward journey!",
+					"See you all next week!"
+				]
+			}
+		],
+		"closeTime": 1725168720,
+		"ticker": [
+			"Tonight we've got Drum and Bass playing all night! We totally didn't plan this we promise.",
+			"Things may be a little strange or different! We're in our beta version! Let us know if anything strange happens. Well, stranger than normal anyway...",
+			"Join us for the latest news and updates at https://discord.gg/bassstationvr"
+		]
+	}
+}
