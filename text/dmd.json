@@ -9,10 +9,13 @@
 		]
 	},
 	"event": {
-		"top": "Tonight we're the wall to wall",
-		"bottom": "(Drum and) Bass Station!",
+		"top": "The Bass Station welcomes",
+		"bottom": "Transient",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
+			"Exploring a different venue every week...",
+			"Join the Transient Group and Discord at https://vrc.group/TRNSNT.8650",
+			"Follow us on Twitter @TransientGroup",
 			"For the benefit of your fellow musical travelers, please mind your avatar performance!",
 			"Get all station announcements at the Bass Station Discord: https://discord.gg/bassstationvr"
 		]
@@ -24,62 +27,42 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1725155994,
+		"displayStartTime": 1725576300,
 		"performers": [
 			{
-				"name": "Thunder_Kick",
-				"startTime": 1725156000,
-				"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Our first stopping service to Oldschool DNB",
-					"Hitting Things Hard at 175 Times Per Minute",
-					"Follow me at https://www.twitch.tv/thundykick"
-				]
-			},
-			{
 				"name": "V[AI]RUS",
-				"startTime": 1725159600,
+				"startTime": 1725577200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at Breakcore and DnB",
-					"*dial-up noises* 'processing...'",
+					"Our Bass Station house DJ!",
 					"Follow me at https://twitter.com/v_ai_rus"
 				]
 			},
 			{
-				"name": "DJ Liquid Bass",
-				"startTime": 1725163200,
+				"name": "ChaosWicker",
+				"startTime": 1725582600,
 				"delayMins": 0,
 				"genre": "N/A",
-				"ticker": [
-					"Express service to Drum and Bass only!"
-				]
+				"ticker": []
 			},
 			{
-				"name": "Bassdrop",
-				"startTime": 1725166800,
+				"name": "Jyoshu",
+				"startTime": 1725588000,
 				"delayMins": 0,
 				"genre": "N/A",
-				"ticker": [
-					"All aboard for Monstercat DnB!",
-					"'Remember, no man is a failure who has friends.'",
-					"Follow me on Twitter @CeleronTheProto"
-				]
+				"ticker": []
 			},
 			{
-				"name": "Subverja",
-				"startTime": 1725168720,
+				"name": "Outlandish",
+				"startTime": 1725593400,
 				"delayMins": 0,
 				"genre": "N/A",
-				"ticker": [
-					"Final train to... yes, you guessed it, Drum and Bass!"
-				]
+				"ticker": []
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1725174000,
+				"startTime": 1725598800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -88,11 +71,11 @@
 				]
 			}
 		],
-		"closeTime": 1725168720,
+		"closeTime": 1725599700,
 		"ticker": [
-			"Tonight we've got Drum and Bass playing all night! We totally didn't plan this we promise.",
-			"Things may be a little strange or different! We're in our beta version! Let us know if anything strange happens. Well, stranger than normal anyway...",
-			"Join us for the latest news and updates at https://discord.gg/bassstationvr"
+			"Exploring a different venue every week...",
+			"Join the Transient Group and Discord at https://vrc.group/TRNSNT.8650",
+			"Follow us on Twitter @TransientGroup"
 		]
 	}
 }
