@@ -1,23 +1,21 @@
 {
 	"welcome": {
-		"top": "An ever evolving",
+		"top": "Welcome to the",
 		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Join us every Saturday night for live DJs!",
-			"Get all station announcements at the Bass Station Discord: https://discord.gg/bassstationvr"
+			"Get all station announcements via our Discord and the VRChat group. Use the link buttons on the station concourse!"
 		]
 	},
 	"event": {
-		"top": "The Bass Station welcomes",
-		"bottom": "Transient",
+		"top": "Don't look now, its time for",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Exploring a different venue every week...",
-			"Join the Transient Group and Discord at https://vrc.group/TRNSNT.8650",
-			"Follow us on Twitter @TransientGroup",
+			"Please remember to clean up all oozing ichors and mellifluous oozes you may emanate to avoid accidents.",
 			"For the benefit of your fellow musical travelers, please mind your avatar performance!",
-			"Get all station announcements at the Bass Station Discord: https://discord.gg/bassstationvr"
+			"Get all station announcements via our Discord and the VRChat group. Use the link buttons on the station concourse!"
 		]
 	},
 	"info": {
@@ -27,42 +25,61 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1725576300,
+		"displayStartTime": 1725759900,
 		"performers": [
 			{
-				"name": "V[AI]RUS",
-				"startTime": 1725577200,
+				"name": "Liquid Bass",
+				"startTime": 1707424500,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"First stop to Nu Disco!",
+					"Follow me at https://linktr.ee/djliquidbass"
+				]
+			},
+			{
+				"name": "Wrath",
+				"startTime": 1725764400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Our Bass Station house DJ!",
+					"Non-stop service to Dubstep",
+					"Follow me at https://www.youtube.com/@DJ_Wrath46"
+				]
+			},
+			{
+				"name": "Ayto",
+				"startTime": 1725768000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Calling at Drum and Bass",
+					"Follow me at https://www.mixcloud.com/Ayto8"
+				]
+			},
+			{
+				"name": "Element Jonny",
+				"startTime": 1725771600,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Express service to Happy Hardcore and Hyperpop",
+					"Follow me at https://www.twitch.tv/elementjonny"
+				]
+			},
+			{
+				"name": "V[AI]RUS",
+				"startTime": 1725775200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final train, calling at Frenchcore and Uptempo.",
 					"Follow me at https://twitter.com/v_ai_rus"
 				]
 			},
 			{
-				"name": "ChaosWicker",
-				"startTime": 1725582600,
-				"delayMins": 0,
-				"genre": "N/A",
-				"ticker": []
-			},
-			{
-				"name": "Jyoshu",
-				"startTime": 1725588000,
-				"delayMins": 0,
-				"genre": "N/A",
-				"ticker": []
-			},
-			{
-				"name": "Outlandish",
-				"startTime": 1725593400,
-				"delayMins": 0,
-				"genre": "N/A",
-				"ticker": []
-			},
-			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1725598800,
+				"startTime": 1725778800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -71,11 +88,10 @@
 				]
 			}
 		],
-		"closeTime": 1725599700,
+		"closeTime": 1725779700,
 		"ticker": [
-			"Exploring a different venue every week...",
-			"Join the Transient Group and Discord at https://vrc.group/TRNSNT.8650",
-			"Follow us on Twitter @TransientGroup"
+			"Please mind the strange creatures found at Platform 2 making strange noises known as 'music', they may attack if provoked.",
+			"Get all station announcements via our Discord and the VRChat group. Use the link buttons on the station concourse!"
 		]
 	}
 }
