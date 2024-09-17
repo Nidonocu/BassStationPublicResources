@@ -9,7 +9,7 @@
 		]
 	},
 	"event": {
-		"top": "Don't look now, its time for",
+		"top": "You are at",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
@@ -25,61 +25,21 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1725759900,
+		"displayStartTime": 1726536300,
 		"performers": [
 			{
-				"name": "Liquid Bass",
-				"startTime": 1707424500,
+				"name": "Hdorriker",
+				"startTime": 1726536300,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"First stop to Nu Disco!",
-					"Follow me at https://linktr.ee/djliquidbass"
-				]
-			},
-			{
-				"name": "Wrath",
-				"startTime": 1725764400,
-				"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Non-stop service to Dubstep",
-					"Follow me at https://www.youtube.com/@DJ_Wrath46"
-				]
-			},
-			{
-				"name": "Ayto",
-				"startTime": 1725768000,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Calling at Drum and Bass",
-					"Follow me at https://www.mixcloud.com/Ayto8"
-				]
-			},
-			{
-				"name": "Element Jonny",
-				"startTime": 1725771600,
-				"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Express service to Happy Hardcore and Hyperpop",
-					"Follow me at https://www.twitch.tv/elementjonny"
-				]
-			},
-			{
-				"name": "V[AI]RUS",
-				"startTime": 1725775200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final train, calling at Frenchcore and Uptempo.",
-					"Follow me at https://twitter.com/v_ai_rus"
+					"Calling at strange honks and clanking noises.",
+					"There is no buffet car on this service."
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1725778800,
+				"startTime": 1726536300,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -88,7 +48,7 @@
 				]
 			}
 		],
-		"closeTime": 1725779700,
+		"closeTime": 1726538400,
 		"ticker": [
 			"Please mind the strange creatures found at Platform 2 making strange noises known as 'music', they may attack if provoked.",
 			"Get all station announcements via our Discord and the VRChat group. Use the link buttons on the station concourse!"
