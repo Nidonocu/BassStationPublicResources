@@ -4,18 +4,18 @@
 		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join us every Saturday night for live DJs!",
-			"Get all station announcements via our Discord and the VRChat group. Use the link buttons on the station concourse!"
+			"Return every Saturday night for live DJs!",
+			"Join our Discord and the VRChat group using the link buttons on the station concourse!"
 		]
 	},
 	"event": {
-		"top": "You are at",
-		"bottom": "The Bass Station!",
+		"top": "It's the Furry Event Community",
+		"bottom": "RAVE NIGHT",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Please remember to clean up all oozing ichors and mellifluous oozes you may emanate to avoid accidents.",
+			"Did you know F.E.C. stands for truth, justice and the Amer-... wait a second, none of these start with the letters F, E or C....",
 			"For the benefit of your fellow musical travelers, please mind your avatar performance!",
-			"Get all station announcements via our Discord and the VRChat group. Use the link buttons on the station concourse!"
+			"Get all station announcements via the Bass Station Discord and the VRChat group. Use the link buttons on the station concourse!"
 		]
 	},
 	"info": {
@@ -25,32 +25,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1726536300,
+		"displayStartTime": 1726706700,
 		"performers": [
 			{
-				"name": "Hdorriker",
-				"startTime": 1726537074,
+				"name": "DJ Tsiran",
+				"startTime": 1726707600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at strange honks and clanking noises.",
+					"First train calling at, Progressive House",
 					"There is no buffet car on this service."
 				]
 			},
 			{
+				"name": "Midnight City",
+				"startTime": 1726711200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This service is calling at Drum and Bass.",
+					"There is no quiet coach on this service... or anywhere in a eight mile radius."
+				]
+			},
+			{
+				"name": "DJ Nikko Cat",
+				"startTime": 1726714800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final train, calling at Hardstyle.",
+					"Please mind The Gap .... I hear they have a sale on jeans."
+				]
+			},
+			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1726538340,
+				"startTime": 1726718400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This party terminates here. We wish you the best with your onward journey!",
-					"See you all next week!"
+					"This event terminates here. We wish you the best with your onward journey!",
+					"See you all next time!"
 				]
 			}
 		],
-		"closeTime": 1726538400,
+		"closeTime": 1726719300,
 		"ticker": [
-			"Please mind the strange creatures found at Platform 2 making strange noises known as 'music', they may attack if provoked.",
+			"For more FEC event information, checkout their Discord or VRChat group details on the information posters!",
 			"Get all station announcements via our Discord and the VRChat group. Use the link buttons on the station concourse!"
 		]
 	}
