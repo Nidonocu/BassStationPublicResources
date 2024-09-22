@@ -5,17 +5,17 @@
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Return every Saturday night for live DJs!",
-			"Join our Discord and the VRChat group using the link buttons on the station concourse!"
+			"Join our Discord and the VRChat group using the buttons on the station concourse!"
 		]
 	},
 	"event": {
-		"top": "It's the Furry Event Community",
-		"bottom": "RAVE NIGHT",
+		"top": "It's the last night of summer at...",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Did you know F.E.C. stands for truth, justice and the Amer-... wait a second, none of these start with the letters F, E or C....",
-			"For the benefit of your fellow musical travelers, please mind your avatar performance!",
-			"Get all station announcements via the Bass Station Discord and the VRChat group. Use the link buttons on the station concourse!"
+			"Please do not attempt to retrieve items dropped below the platform, they are ours now.",
+			"Remember to remain internally moist and hydrate at regular intervals throughout your journey today.",
+			"Get all station announcements via our Discord and the VRChat group. Use the buttons on the station concourse!"
 		]
 	},
 	"info": {
@@ -25,53 +25,74 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1726706700,
+		"displayStartTime": 1726969500,
 		"performers": [
 			{
-				"name": "DJ Tsiran",
-				"startTime": 1726707600,
+				"name": "Wrath",
+				"startTime": 1726970400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"First train calling at, Progressive House",
-					"There is no buffet car on this service."
+					"First train calling at both Psytrance and Techno.",
+					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
 				]
 			},
 			{
-				"name": "Midnight City",
-				"startTime": 1726711200,
+				"name": "Fear the Feer",
+				"startTime": 1726974000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This service is calling at Drum and Bass.",
-					"There is no quiet coach on this service... or anywhere in a eight mile radius."
+					"This service is calling at: House, only.",
+					"Follow Feer at https://twitter.com/RaveTheFeer"
 				]
 			},
 			{
-				"name": "DJ Nikko Cat",
-				"startTime": 1726714800,
+				"name": "Ovtlvndish",
+				"startTime": 1726977600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final train, calling at Hardstyle.",
-					"Please mind The Gap .... I hear they have a sale on jeans."
+					"Please welcome our new DJ playing their first night at the Bass Station proper!",
+					"This new DJ will be taking you to Tech House and Bass House!",
+					"Follow Ovtlvndish at https://twitter.com/Outland1shVR"
+				]
+			},
+			{
+				"name": "Japhet",
+				"startTime": 1726981200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Express service to: Mainstage",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at https://twitter.com/MSGspike"
+				]
+			},
+			{
+				"name": "Liquid Bass",
+				"startTime": 1726984800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final train, calling at Oldschool Hardstyle.",
+					"Follow Liquid at https://linktr.ee/djliquidbass"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1726718400,
+				"startTime": 1726988400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here. We wish you the best with your onward journey!",
-					"See you all next time!"
+					"See you all next week!"
 				]
 			}
 		],
-		"closeTime": 1726719300,
+		"closeTime": 1726989300,
 		"ticker": [
-			"For more FEC event information, checkout their Discord or VRChat group details on the information posters!",
-			"Get all station announcements via our Discord and the VRChat group. Use the link buttons on the station concourse!"
+			"Get all station announcements via our Discord and the VRChat group. Use the buttons on the station concourse!"
 		]
 	}
 }
