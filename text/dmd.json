@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "It's the last night of summer at...",
+		"top": "Don't look now, you're at...",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Please do not attempt to retrieve items dropped below the platform, they are ours now.",
+			"The ampwave that runs this LED sign is powered by french toast, and the odd Gregg's sausage, bean and cheese pasty. Other pasty is also acceptable as bribes.",
 			"Remember to remain internally moist and hydrate at regular intervals throughout your journey today.",
 			"Get all station announcements via our Discord and the VRChat group. Use the buttons on the station concourse!"
 		]
@@ -25,63 +25,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1726969500,
+		"displayStartTime": 1727574300,
 		"performers": [
 			{
-				"name": "Wrath",
-				"startTime": 1726970400,
+				"name": "Jay Cee Beats",
+				"startTime": 1727575200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"First train calling at both Psytrance and Techno.",
-					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+					"Please welcome newest DJ! Taking us tonight to both Hardcore and Frenchcore!",
+					"Follow Jaycee at https://www.youtube.com/@Jayceebeatsmusic1988"
 				]
 			},
 			{
-				"name": "Fear the Feer",
-				"startTime": 1726974000,
+				"name": "Liquid Bass",
+				"startTime": 1727578800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This service is calling at: House, only.",
-					"Follow Feer at https://twitter.com/RaveTheFeer"
+					"Calling tonight at Hardstyle, only.",
+					"Follow Liquid at https://linktr.ee/djliquidbass"
 				]
 			},
 			{
 				"name": "Ovtlvndish",
-				"startTime": 1726977600,
+				"startTime": 1727582400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our new DJ playing their first night at the Bass Station proper!",
-					"This new DJ will be taking you to Tech House and Bass House!",
+					"This service is calling at Garage House and UK Garage.",
+					"However, despite that this DJ is playing Garage, please note that there is no parking permitted anywhere on the station concourse. Except maybe for Vibe Car.",
 					"Follow Ovtlvndish at https://twitter.com/Outland1shVR"
 				]
 			},
 			{
 				"name": "Japhet",
-				"startTime": 1726981200,
+				"startTime": 1727586000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Express service to: Mainstage",
+					"Express service to: Mainstage House",
 					"'Remember to be the change you want to see'",
 					"Follow Japhet at https://twitter.com/MSGspike"
 				]
 			},
 			{
-				"name": "Liquid Bass",
-				"startTime": 1726984800,
+				"name": "V[AI]RUS",
+				"startTime": 1727589600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final train, calling at Oldschool Hardstyle.",
-					"Follow Liquid at https://linktr.ee/djliquidbass"
+					"Final train, calling at Rawtempo and return service to Frenchcore. We've come full circle (line)!",
+					"Follow V[AI]RUS at https://twitter.com/v_ai_rus"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1726988400,
+				"startTime": 1727593200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -90,7 +90,7 @@
 				]
 			}
 		],
-		"closeTime": 1726989300,
+		"closeTime": 1727594100,
 		"ticker": [
 			"Get all station announcements via our Discord and the VRChat group. Use the buttons on the station concourse!"
 		]
