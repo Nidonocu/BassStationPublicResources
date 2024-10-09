@@ -9,13 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "You're at the Bass Station for",
-		"bottom": "Extended Play!",
+		"top": "Looking out! Spoopy levels rising! It's",
+		"bottom": "Club Fallback!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Tonight all DJs are going long! That's 90 minutes of non-stop music each!",
-			"Caution, Spoopy levels are rising, report any Poopergeist activity to station staff.",
-			"Get all station announcements via our Discord and the VRChat group. Use the buttons on the station concourse!"
+			"Find out when the next Club Fallback will be via our VRChat Group at https://vrc.group/FLLBCK.3832",
+			"Things are getting pretty spooky here at the Bass Station! Hope you see you back this Saturday at the ghostly uprising continues~"
 		]
 	},
 	"info": {
@@ -25,66 +24,51 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1728179100,
+		"displayStartTime": 1728607500,
 		"performers": [
 			{
-				"name": "Wrath",
-				"startTime": 1728180000,
+				"name": "Pastel Folf",
+				"startTime": 1728608400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This first train is for: Dubstep!",
-					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+					"First service this evening, calling at the Electro House."
 				]
 			},
 			{
-				"name": "A.V.E.S. Protocol",
-				"startTime": 1728185400,
+				"name": "Sundra",
+				"startTime": 1728612000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Direct service to EDM, only.",
-					"'Hold birb gentle like hamburger'",
-					"Follow Aves at https://twitter.com/DJ_Aves_"
+					"Express train to Hardstyle."
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1728190800,
+				"name": "Beeb",
+				"startTime": 1728615600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Express service to: Mainstage",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at https://twitter.com/MSGspike"
-				]
-			},
-			{
-				"name": "Ovtlvndish",
-				"startTime": 1728196200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final train, calling at Liquid DNB, and Dancefloor DNB.",
-					"Follow Ovtlvndish at https://twitter.com/Outland1shVR"
+					"Final train, calling at Chill Techno, only."
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1728201600,
+				"startTime": 1728619200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here. We wish you the best with your onward journey!",
-					"See you all next week!"
+					"See you all next time!"
 				]
 			}
 		],
 		"closeTime": 1728202500,
 		"ticker": [
-			"Tonight we're showing off our extended, enormous... play times. That's 90 minutes of music from every DJ!",
-			"Hmm.. did anyone else feel the ground shake? I wonder if there's anything new upstairs...",
-			"Get all station announcements via our Discord and the VRChat group. Use the buttons on the station concourse!"
+			"Welcome back to Club Fallback! Please mind the gap between the train and the music's drop.",
+			"If you manage to beat any of our ghosts, remember to save the new ones to your Controller Pak.",
+			"Find out when the next Club Fallback will be via our VRChat Group at https://vrc.group/FLLBCK.3832"
 		]
 	}
 }
