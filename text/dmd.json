@@ -9,13 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "It's too late now, you're at the",
-		"bottom": "~Halloween Bass Station~",
+		"top": "Don't look behind you, its...",
+		"bottom": "~FEC Rave Night!~",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Don't pass on too soon~! Stick around till late for a special LIVE performance by our fearless leader V(AI)RUS at ACFI!",
-			"Don't become a desiccated husk just yet, remember to hydrate often~!",
-			"Haunt our Discord and the VRChat group for the latest updates!"
+			"Keep your spirits up with regular water breaks~!",
+			"Let's split up gang! But don't worry, we'll keep in touch at the FEC Discord! Check the link from the VRC Group: FURRY.9622"
 		]
 	},
 	"info": {
@@ -25,73 +24,49 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1728776700,
+		"displayStartTime": 1729125900,
 		"performers": [
 			{
-				"name": "JayCeeBeats {Delayed}",
-				"startTime": 1728777600,
+				"name": "DJ Foxy",
+				"startTime": 1729126800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Let's wake the dead and start off with some Tech House!",
-					"Follow Jaycee at https://www.youtube.com/@Jayceebeatsmusic1988"
+					"Beginning your trip to the underworld via Hardstyle!"
 				]
 			},
 			{
-				"name": "Wrath",
-				"startTime": 1728783000,
+				"name": "Alasky",
+				"startTime": 1729130400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Demonic devilish Dubstep now departing!",
-					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+					"Is that thumping the still living heart of your victim? If not, it's probably... some Drum and Bass!"
 				]
 			},
 			{
-				"name": "Ovtlvndish",
-				"startTime": 1728788400,
+				"name": "Oyem8",
+				"startTime": 1729134000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Don't go in to the light, stay dancing under ours with some UK Bass/Speed House!",
-					"Follow me at https://twitter.com/Outland1shVR"
-				]
-			},
-			{
-				"name": "Japhet",
-				"startTime": 1728793800,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Our resident skull DJ rises to bring us back to some Mainstage~",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at https://twitter.com/MSGspike"
-				]
-			},
-			{
-				"name": "V[AI]RUS - LIVE FROM ACFI!",
-				"startTime": 1728799200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"V[AI]RUS escaped to Alamo City Furry Invasion! We've gone live to their on stage performance!",
-					"Follow V[AI]RUS at https://twitter.com/v_ai_rus"
+					"Who knows what to expect in the dark, or the DJ that plays... Multigenre~!"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1728802800,
+				"startTime": 1729137600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here. Goodnight out there..... whatever you are~",
-					"See you all next week!"
+					"See you all next time!"
 				]
 			}
 		],
-		"closeTime": 1728803700,
+		"closeTime": 1729138500,
 		"ticker": [
-			"Please note that the glowing ectoplasm is a known carcinogen in the State of California.",
+			"Please be mindful of wet ghostly goop that might be found on the station today. We'd hate for you to have an... unexpected trip~",
 			"Some services may be delayed due to ~Late~ passengers."
 		]
 	}
