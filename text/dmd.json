@@ -9,12 +9,13 @@
 		]
 	},
 	"event": {
-		"top": "Don't look behind you, its...",
-		"bottom": "~FEC Rave Night!~",
+		"top": "It's.. It's.. ALIVE!",
+		"bottom": "~Halloween Bass Station~",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Keep your spirits up with regular water breaks~!",
-			"Let's split up gang! But don't worry, we'll keep in touch at the FEC Discord! Check the link from the VRC Group: FURRY.9622"
+			"Please do not attempt the break the Control room window with discarded skulls. Again.",
+			"Don't become a desiccated husk just yet, remember to hydrate often~!",
+			"Haunt our Discord and the VRChat group for the latest updates!"
 		]
 	},
 	"info": {
@@ -24,50 +25,73 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1729125900,
+		"displayStartTime": 1729381500,
 		"performers": [
 			{
-				"name": "DJ Foxy",
-				"startTime": 1729126800,
+				"name": "Oktopu5",
+				"startTime": 1729382400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Beginning your trip to the underworld via Hardstyle!"
+					"Reanimate your body to some Hard Trance!",
+					"Follow Oktopu5 at https://www.youtube.com/@Oktopu5"
 				]
 			},
 			{
-				"name": "Alasky",
-				"startTime": 1729130400,
+				"name": "PandaTron",
+				"startTime": 1729387800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Is that thumping the still living heart of your victim? If not, it's probably... some Drum and Bass!"
+					"Please welcome a new DJ making their first departure from the Bass Station! Today they'll be calling at both Techno and Mashups!",
+					"Follow PandaTron at https://www.mixcloud.com/panda-tron/"
 				]
 			},
 			{
-				"name": "Oyem8",
-				"startTime": 1729134000,
+				"name": "BassDemolitia",
+				"startTime": 1729393200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Who knows what to expect in the dark, or the DJ that plays... Multigenre~!"
+					"There are no jump scares permitted anywhere on this station, or on this service bound for Main Stage and Electro House."
+				]
+			},
+			{
+				"name": "Japhet",
+				"startTime": 1729398600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"All attempts to prevent the rising of our resident skull creature have failed, and so he has returned to terrorise us with... Uplifting Trance...?",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at https://twitter.com/MSGspike"
+				]
+			},
+			{
+				"name": "V[AI]RUS - ACFI REPLAY!",
+				"startTime": 1729404000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Now with 85% less technical difficulties! We're replaying V[AI]RUS' live set from Alamo City Furry Invasion last week!",
+					"Follow V[AI]RUS at https://twitter.com/v_ai_rus"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1729137600,
+				"startTime": 1729407600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here. Goodnight out there..... whatever you are~",
-					"See you all next time!"
+					"See you all next week!"
 				]
 			}
 		],
-		"closeTime": 1729138500,
+		"closeTime": 1729408500,
 		"ticker": [
-			"Please be mindful of wet ghostly goop that might be found on the station today. We'd hate for you to have an... unexpected trip~",
-			"Some services may be delayed due to ~Late~ passengers."
+			"Only licensed spirits are served at the Intoxication station. Spirits without a license may obtain one at the customer service desk.",
+			"Were-Passengers are reminded that if they feel the uncontrollable urge to howl, to please do so in-tune with the current track."
 		]
 	}
 }
