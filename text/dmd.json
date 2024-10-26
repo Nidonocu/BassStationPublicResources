@@ -9,12 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "It's.. It's.. ALIVE!",
+		"top": "Going bump in the night at...",
 		"bottom": "~Halloween Bass Station~",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Please do not attempt the break the Control room window with discarded skulls. Again.",
 			"Don't become a desiccated husk just yet, remember to hydrate often~!",
+			"We've moved on to a better place.... Bluesky! Follow us @bassstationvr.bsky.social",
 			"Haunt our Discord and the VRChat group for the latest updates!"
 		]
 	},
@@ -25,73 +25,67 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1729381500,
+		"displayStartTime": 1729986300,
 		"performers": [
 			{
-				"name": "Oktopu5",
-				"startTime": 1729382400,
+				"name": "Mellow",
+				"startTime": 1729987200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Reanimate your body to some Hard Trance!",
-					"Follow Oktopu5 at https://www.youtube.com/@Oktopu5"
+					"First train, calling at Midtempo!",
+					"If you are suffering from Deja Vu, yes it is 1AM again. Don't worry, you're just in the UK (sorry) and the clocks have gone back again."
 				]
 			},
 			{
-				"name": "PandaTron",
-				"startTime": 1729387800,
+				"name": "Bassdrop",
+				"startTime": 1729996200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome a new DJ making their first departure from the Bass Station! Today they'll be calling at both Techno and Mashups!",
-					"Follow PandaTron at https://www.mixcloud.com/panda-tron/"
+					"Prepare to depart this world... on platform 2 for this train calling at Drum And Bass.",
+					"'Remember, no man is a failure who has friends.'",
+					"Follow me on Twitter @CeleronTheProto & Bluesky @celerontheprotogen.bsky.social"
 				]
 			},
 			{
-				"name": "BassDemolitia",
-				"startTime": 1729393200,
+				"name": "A.V.E.S. Protocol",
+				"startTime": 1730001600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"There are no jump scares permitted anywhere on this station, or on this service bound for Main Stage and Electro House."
+					"The delayed 11AM train is now arriving and calling at House only.",
+					"'Hold birb gentle like hamburger'",
+					"Follow Aves on Twitter at @DJ_Aves_ or Bluesky @dj-aves.bsky.social"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1729398600,
+				"name": "V[AI]RUS",
+				"startTime": 1730007000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"All attempts to prevent the rising of our resident skull creature have failed, and so he has returned to terrorise us with... Uplifting Trance...?",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at https://twitter.com/MSGspike"
-				]
-			},
-			{
-				"name": "V[AI]RUS - ACFI REPLAY!",
-				"startTime": 1729404000,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Now with 85% less technical difficulties! We're replaying V[AI]RUS' live set from Alamo City Furry Invasion last week!",
-					"Follow V[AI]RUS at https://twitter.com/v_ai_rus"
+					"Your final chance to escape... calling at Frenchcore and Uptempo.",
+					"*dial-up noises* 'processing...'",
+					"Follow V[AI]RUS on Twitter @v_ai_rus and Bluesky @vairus.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1729407600,
+				"startTime": 1730012400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here. Goodnight out there..... whatever you are~",
-					"See you all next week!"
+					"See you all next week as we try and clean up all this blue goop."
 				]
 			}
 		],
-		"closeTime": 1729408500,
+		"closeTime": 1730013300,
 		"ticker": [
-			"Only licensed spirits are served at the Intoxication station. Spirits without a license may obtain one at the customer service desk.",
-			"Were-Passengers are reminded that if they feel the uncontrollable urge to howl, to please do so in-tune with the current track."
+			"All passengers are reminded to not smooch the werewolves without asking first, thank you.",
+			"Please ensure your entire soul is contained within the train car before the doors close to avoid accidents.",
+			"We've moved on to a better place.... Bluesky! Follow us @bassstationvr.bsky.social"
 		]
 	}
 }
