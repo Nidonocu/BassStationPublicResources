@@ -28,12 +28,13 @@
 		"displayStartTime": 1729986300,
 		"performers": [
 			{
-				"name": "Mellow",
+				"name": "Liquid Bass",
 				"startTime": 1729987200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"First train, calling at Midtempo!",
+					"Liquid Bass is now arriving... to the rescue! The previously planned service by Mellow has been cancelled due to technical difficulties! Sorry about that!",
+					"Follow Liquid at https://linktr.ee/djliquidbass",
 					"If you are suffering from Deja Vu, yes it is 1AM again. Don't worry, you're just in the UK (sorry) and the clocks have gone back again."
 				]
 			},
