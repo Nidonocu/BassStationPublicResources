@@ -9,13 +9,13 @@
 		]
 	},
 	"event": {
-		"top": "Going bump in the night at...",
+		"top": "Join us for one final haunt at",
 		"bottom": "~Halloween Bass Station~",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Don't become a desiccated husk just yet, remember to hydrate often~!",
 			"We've moved on to a better place.... Bluesky! Follow us @bassstationvr.bsky.social",
-			"Haunt our Discord and the VRChat group for the latest updates!"
+			"We appreciate your patience in cleaning up the goop leaks over this last month. The culprit has been found and we are re-burying him as we speak."
 		]
 	},
 	"info": {
@@ -25,55 +25,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1729986300,
+		"displayStartTime": 1730591100,
 		"performers": [
 			{
-				"name": "Liquid Bass",
-				"startTime": 1729987200,
+				"name": "Thunder_Kick",
+				"startTime": 1730592000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Liquid Bass is now arriving... to the rescue! The previously planned service by Mellow has been cancelled due to technical difficulties! Sorry about that!",
-					"Follow Liquid at https://linktr.ee/djliquidbass",
-					"If you are suffering from Deja Vu, yes it is 1AM again. Don't worry, you're just in the UK (sorry) and the clocks have gone back again."
+					"Welcome tonight to the dearly departed... and those departing now from platform 2 for Drum and Bass!",
+					"'Rolled a drum kit off the hill. Sounded jazzy'",
+					"Follow Thunder_Kick at https://www.twitch.tv/thundykick"
 				]
 			},
 			{
-				"name": "Bassdrop",
-				"startTime": 1729996200,
+				"name": "CosmicWinds",
+				"startTime": 1730597400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Prepare to depart this world... on platform 2 for this train calling at Drum And Bass.",
-					"'Remember, no man is a failure who has friends.'",
-					"Follow me on Twitter @CeleronTheProto & Bluesky @celerontheprotogen.bsky.social"
+					"Please can all passengers, living or dead, welcome our first newcomer to Bass Station this evening!",
+					"This new DJ is a direct service to Bass House!"
 				]
 			},
 			{
-				"name": "A.V.E.S. Protocol",
-				"startTime": 1730001600,
+				"name": "PandaTron",
+				"startTime": 1730602800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"The delayed 11AM train is now arriving and calling at House only.",
-					"'Hold birb gentle like hamburger'",
-					"Follow Aves on Twitter at @DJ_Aves_ or Bluesky @dj-aves.bsky.social"
+					"This DJ will warm you to your very soul as they are timetabled to Freestyle!",
+					"Follow PandaTron at mixcloud.com/panda-tron"
 				]
 			},
 			{
-				"name": "V[AI]RUS",
-				"startTime": 1730007000,
+				"name": "Senky",
+				"startTime": 1730608200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Your final chance to escape... calling at Frenchcore and Uptempo.",
-					"*dial-up noises* 'processing...'",
-					"Follow V[AI]RUS on Twitter @v_ai_rus and Bluesky @vairus.bsky.social"
+					"It is time for our final destination and our second newcomer, please welcome them to their first time playing at the Bass Station!",
+					"This dragon is an express service to Techno."
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1730012400,
+				"startTime": 1730613600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -82,10 +79,9 @@
 				]
 			}
 		],
-		"closeTime": 1730013300,
+		"closeTime": 1730614500,
 		"ticker": [
-			"All passengers are reminded to not smooch the werewolves without asking first, thank you.",
-			"Please ensure your entire soul is contained within the train car before the doors close to avoid accidents.",
+			"Please ensure you have all tickets to the afterlife ready for inspection. Fare dodgers will be fed to the Poopergeist.",
 			"We've moved on to a better place.... Bluesky! Follow us @bassstationvr.bsky.social"
 		]
 	}
