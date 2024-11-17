@@ -9,8 +9,8 @@
 		]
 	},
 	"event": {
-		"top": "Normal service now resumes at",
-		"bottom": "The Bass Station",
+		"top": "It's time to relax at...",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Check out our new wall art around the station! Some old 1.0 favs return and new pieces by Flightlessbird3!",
@@ -24,43 +24,43 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1731199500,
+		"displayStartTime": 1731804300,
 		"performers": [
 			{
-				"name": "DJ Keppy",
-				"startTime": 1730592000,
+				"name": "Wrath",
+				"startTime": 1731805200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"First train tonight departing for Hardstyle",
-					"Follow Keppy at https://www.twitch.tv/keppyroo"
+					"First train tonight departing for Dubstep",
+					"'If  you have to burn it all, then let it burn.'",
+					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
 				]
 			},
 			{
-				"name": "Bassdrop",
-				"startTime": 1731205800,
+				"name": "A.V.E.S. Protocol",
+				"startTime": 1731810600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"For those who missed the first train, this DJ is now also bound for Hardstyle!",
-					"'Remember, no man is a failure who has friends.'",
-					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social or Twitter @CeleronTheProto"
+					"Now arriving at uhh... Hardstyle I guess!",
+					"'Hold birb gentle like hamburger'",
+					"Follow Aves @dj-aves.bsky.social or @DJ_Aves_ on Twitter"
 				]
 			},
 			{
-				"name": "Subverja",
-				"startTime": 1731211200,
+				"name": "V[AI]RUS",
+				"startTime": 1731816000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Now departing from Platform 2, this DJ is a direct service to Drum and Bass",
-					"'Long live DnB'",
-					"Follow Subverga on Bluesky @subverja.bsky.social or Twitter @subverja"
+					"This DJ is calling at Hardcore and then heading under the Channel Tunnel to Frenchcore!",
+					"Follow V[AI]RUS on Twitter @v_ai_rus and Bluesky @vairus.bsky.social"
 				]
 			},
 			{
 				"name": "Japhet",
-				"startTime": 1731216600,
+				"startTime": 1731821400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -71,7 +71,7 @@
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1731222000,
+				"startTime": 1731826800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -80,7 +80,7 @@
 				]
 			}
 		],
-		"closeTime": 1731222900,
+		"closeTime": 1731827700,
 		"ticker": [
 			"Passengers are reminded to remain hydrated at all times and shower the DJ with good vibes and your emotes at frequent intervals.",
 			"We're now on Bluesky! Follow us @bassstationvr.bsky.social"
