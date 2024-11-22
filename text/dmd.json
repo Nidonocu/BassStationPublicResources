@@ -9,12 +9,13 @@
 		]
 	},
 	"event": {
-		"top": "It's time to relax at...",
-		"bottom": "The Bass Station!",
+		"top": "We're Bass'ically Unstoppable!",
+		"bottom": "** 0P470P14 **",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Check out our new wall art around the station! Some old 1.0 favs return and new pieces by Flightlessbird3!",
-			"We are now on the nicer website! Use the new button on the station concourse and follow us @bassstationvr.bsky.social"
+			"Invite your friends, make some new ones and don't forget to RAVE!",
+			"Visit https://opaxas.carrd.co for a link to 0P4 X45 at your preferred social media!",
+			"Welcome aboard at the Bass Station to our new visitors today! Use the links on the settings panel to follow for us for more events here at the station!"
 		]
 	},
 	"info": {
@@ -24,66 +25,71 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1731804300,
+		"displayStartTime": 1732311600,
 		"performers": [
 			{
-				"name": "Wrath",
-				"startTime": 1731805200,
+				"name": "MissStabby",
+				"startTime": 1732312800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"First train tonight departing for Dubstep",
-					"'If  you have to burn it all, then let it burn.'",
-					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+					"First DJ tonight departing for Happy Hardcore, Frenchcore and J-Core!",
+					"Follow MissStabby at twitch.tv/missstabby"
 				]
 			},
 			{
-				"name": "A.V.E.S. Protocol",
-				"startTime": 1731810600,
+				"name": "Shadowform",
+				"startTime": 1732316400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Now arriving at uhh... Hardstyle I guess!",
-					"'Hold birb gentle like hamburger'",
-					"Follow Aves @dj-aves.bsky.social or @DJ_Aves_ on Twitter"
+					"This DJ is calling at, Hardstyle Only!"
 				]
 			},
 			{
-				"name": "V[AI]RUS",
-				"startTime": 1731816000,
+				"name": "KTZLRMZ",
+				"startTime": 1732320000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This DJ is calling at Hardcore and then heading under the Channel Tunnel to Frenchcore!",
-					"Follow V[AI]RUS on Twitter @v_ai_rus and Bluesky @vairus.bsky.social"
+					"Now boarding for a Qlimax Hommage!",
+					"Follow KTZLRMZ at twitch.tv/maxe_killermiez or youtube.com/DerMiezMiez"
 				]
 			},
 			{
-				"name": "Japhet - Extended!",
-				"startTime": 1731821400,
+				"name": "DJ Pineapple",
+				"startTime": 1732323600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Our final train this evening with an express service to Mainstage",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social or Twitter @MSGspike"
+					"Express service to Drum and Bass!",
+					"Follow Pineapple at twitch.tv/kirrlaos"
+				]
+			},
+			{
+				"name": "BASSDEMOLITIA",
+				"startTime": 1732327200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Our final DJ, calling at Mainstage and Electro House!"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1731828600,
+				"startTime": 1732330800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here. We wish you the best with your onward musical journey!",
-					"See you all next week!"
+					"See you all next time!"
 				]
 			}
 		],
-		"closeTime": 1731829500,
+		"closeTime": 1732331700,
 		"ticker": [
-			"Passengers are reminded to remain hydrated at all times and shower the DJ with good vibes and your emotes at frequent intervals.",
-			"We're now on Bluesky! Follow us @bassstationvr.bsky.social"
+			"Party hard, drink responsibly, and mind the drop!",
+			"Visit https://opaxas.carrd.co for a link to 0P4 X45 at your fav social media!"
 		]
 	}
 }

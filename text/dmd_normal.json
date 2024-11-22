@@ -1,0 +1,89 @@
+{
+	"welcome": {
+		"top": "Welcome to",
+		"bottom": "The Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join us for live DJs mixing every Saturday night!",
+			"Follow us on Bluesky for all event announcements!"
+		]
+	},
+	"event": {
+		"top": "It's time to relax at...",
+		"bottom": "The Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Check out our new wall art around the station! Some old 1.0 favs return and new pieces by Flightlessbird3!",
+			"We are now on the nicer website! Use the new button on the station concourse and follow us @bassstationvr.bsky.social"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1731804300,
+		"performers": [
+			{
+				"name": "Wrath",
+				"startTime": 1731805200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"First train tonight departing for Dubstep",
+					"'If  you have to burn it all, then let it burn.'",
+					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+				]
+			},
+			{
+				"name": "A.V.E.S. Protocol",
+				"startTime": 1731810600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Now arriving at uhh... Hardstyle I guess!",
+					"'Hold birb gentle like hamburger'",
+					"Follow Aves @dj-aves.bsky.social or @DJ_Aves_ on Twitter"
+				]
+			},
+			{
+				"name": "V[AI]RUS",
+				"startTime": 1731816000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This DJ is calling at Hardcore and then heading under the Channel Tunnel to Frenchcore!",
+					"Follow V[AI]RUS on Twitter @v_ai_rus and Bluesky @vairus.bsky.social"
+				]
+			},
+			{
+				"name": "Japhet - Extended!",
+				"startTime": 1731821400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Our final train this evening with an express service to Mainstage",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social or Twitter @MSGspike"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1731828600,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here. We wish you the best with your onward musical journey!",
+					"See you all next week!"
+				]
+			}
+		],
+		"closeTime": 1731829500,
+		"ticker": [
+			"Passengers are reminded to remain hydrated at all times and shower the DJ with good vibes and your emotes at frequent intervals.",
+			"We're now on Bluesky! Follow us @bassstationvr.bsky.social"
+		]
+	}
+}
