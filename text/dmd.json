@@ -9,13 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "We're Bass'ically Unstoppable!",
-		"bottom": "** 0P470P14 **",
+		"top": "Due to poor weather, we are the",
+		"bottom": "Bass Replacement Service",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Invite your friends, make some new ones and don't forget to RAVE!",
-			"Visit https://opaxas.carrd.co for a link to 0P4 X45 at your preferred social media!",
-			"Welcome aboard at the Bass Station to our new visitors today! Use the links on the settings panel to follow for us for more events here at the station!"
+			"Check out our new wall art around the station! Some old 1.0 favs return and new pieces by Flightlessbird3!",
+			"We are now on the nicer website! Use the new button on the station concourse and follow us @bassstationvr.bsky.social"
 		]
 	},
 	"info": {
@@ -25,71 +24,67 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1732311600,
+		"displayStartTime": 1732405500,
 		"performers": [
 			{
-				"name": "MissStabby",
-				"startTime": 1732312800,
+				"name": "Whitty",
+				"startTime": 1732406400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"First DJ tonight departing for Happy Hardcore, Frenchcore and J-Core!",
-					"Follow MissStabby at twitch.tv/missstabby"
+					"Our first train tonight, destination Psytrance via Melodic Bass.",
+					"Just here to vibe~",
+					"Follow Whitty at mixcloud.com/WhittyCat"
 				]
 			},
 			{
-				"name": "Shadowform",
-				"startTime": 1732316400,
+				"name": "CACKLECORE",
+				"startTime": 1732411800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This DJ is calling at, Hardstyle Only!"
+					"Non-stop service to Tearout!",
+					"Want to keep that body moving? Be sure to check out our DJ's work as an instructor at twitch.tv/soaringfitness too!"
 				]
 			},
 			{
-				"name": "KTZLRMZ",
-				"startTime": 1732320000,
+				"name": "Bassdrop",
+				"startTime": 1732417200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Now boarding for a Qlimax Hommage!",
-					"Follow KTZLRMZ at twitch.tv/maxe_killermiez or youtube.com/DerMiezMiez"
+					"Direct train to Drum and Bass",
+					"'Chimken numgies plz'",
+					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social or Twitter @CeleronTheProto"
+
 				]
 			},
 			{
-				"name": "DJ Pineapple",
-				"startTime": 1732323600,
+				"name": "Japhet (Weather Permitting)",
+				"startTime": 1732422600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Express service to Drum and Bass!",
-					"Follow Pineapple at twitch.tv/kirrlaos"
-				]
-			},
-			{
-				"name": "BASSDEMOLITIA",
-				"startTime": 1732327200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Our final DJ, calling at Mainstage and Electro House!"
+					"Our final train this evening with an express service to Mainstage House... assuming he's not been washed away.",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social or Twitter @MSGspike"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1732330800,
+				"startTime": 1732428000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here. We wish you the best with your onward musical journey!",
-					"See you all next time!"
+					"See you all next week!"
 				]
 			}
 		],
-		"closeTime": 1732331700,
+		"closeTime": 1732428900,
 		"ticker": [
-			"Party hard, drink responsibly, and mind the drop!",
-			"Visit https://opaxas.carrd.co for a link to 0P4 X45 at your fav social media!"
+			"Passengers are reminded to remain hydrated at all times and shower the DJ with good vibes and your emotes at frequent intervals.",
+			"We're now on Bluesky! Follow us @bassstationvr.bsky.social"
 		]
 	}
 }
