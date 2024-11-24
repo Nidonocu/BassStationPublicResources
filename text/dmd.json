@@ -61,7 +61,7 @@
 			},
 			{
 				"name": "V[AI]RUS",
-				"startTime": 1732424400,
+				"startTime": 1732426200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -71,7 +71,7 @@
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1732424400,
+				"startTime": 1732431600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -80,7 +80,7 @@
 				]
 			}
 		],
-		"closeTime": 1732430700,
+		"closeTime": 1732432500,
 		"ticker": [
 			"Passengers are reminded to remain hydrated at all times and shower the DJ with good vibes and your emotes at frequent intervals.",
 			"We're now on Bluesky! Follow us @bassstationvr.bsky.social"
