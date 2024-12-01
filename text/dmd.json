@@ -9,12 +9,13 @@
 		]
 	},
 	"event": {
-		"top": "Due to poor weather, we are the",
-		"bottom": "Bass Replacement Service",
+		"top": "Warm up and dance at the",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Check out our new wall art around the station! Some old 1.0 favs return and new pieces by Flightlessbird3!",
-			"We are now on the nicer website! Use the new button on the station concourse and follow us @bassstationvr.bsky.social"
+			"We are now on the nicer website! Use the new button on the station concourse and follow us @bassstationvr.bsky.social",
+			"The Christmas countdown stars tomorrow! Check back next week for a festive update!"
 		]
 	},
 	"info": {
@@ -24,54 +25,54 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1732405500,
+		"displayStartTime": 1733013900,
 		"performers": [
 			{
-				"name": "Whitty",
-				"startTime": 1732406400,
+				"name": "ttofu",
+				"startTime": 1733014800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Our first train tonight, destination Psytrance via Melodic Bass.",
-					"Just here to vibe~",
-					"Follow Whitty at mixcloud.com/WhittyCat"
+					"Please welcome our first new DJ of the night! They're setting off to both Uptempo and Rawtempo!",
+					":3",
+					"Follow ttofu at https://linktr.ee/ttofu"
 				]
 			},
 			{
-				"name": "CACKLECORE",
-				"startTime": 1732411800,
+				"name": "A.V.E.S. Protocol",
+				"startTime": 1733020200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Non-stop service to Tearout!",
-					"Want to keep that body moving? Be sure to check out our DJ's work as an instructor at twitch.tv/soaringfitness too!"
+					"Express service to Hardstyle and friends",
+					"'It's Time!'",
+					"Follow Aves @dj-aves.bsky.social or @DJ_Aves_ on Twitter"
 				]
 			},
 			{
-				"name": "Bassdrop",
-				"startTime": 1732417200,
+				"name": "ARGENT",
+				"startTime": 1733025600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Direct train to Drum and Bass",
-					"'Chimken numgies plz'",
-					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social or Twitter @CeleronTheProto"
+					"Welcome our second new DJ of the night! They're taking us to Psytrance!",
+					"*Inspiring Hellhound Noises*"
 
 				]
 			},
 			{
 				"name": "V[AI]RUS",
-				"startTime": 1732426200,
+				"startTime": 1733031000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Emergency replacement DJ through the Channel Tunnel to... Baguette Music.",
-					"Follow V[AI]RUS on Twitter @v_ai_rus and Bluesky @vairus.bsky.social"
+					"Our final service, ending up at Frenchcore... probably.",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social and Twitter @v_ai_rus"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1732431600,
+				"startTime": 1733036400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -80,10 +81,11 @@
 				]
 			}
 		],
-		"closeTime": 1732432500,
+		"closeTime": 1733037300,
 		"ticker": [
 			"Passengers are reminded to remain hydrated at all times and shower the DJ with good vibes and your emotes at frequent intervals.",
-			"We're now on Bluesky! Follow us @bassstationvr.bsky.social"
+			"We're now on Bluesky! Follow us @bassstationvr.bsky.social",
+			"Please welcome our two new DJs playing tonight!"
 		]
 	}
 }
