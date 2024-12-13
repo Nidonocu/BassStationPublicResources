@@ -9,12 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Bass Station wishes you all",
-		"bottom": "A Merry Christmas!",
+		"top": "Seasons's Greetings from",
+		"bottom": "Club Fallback",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"From all our station staff, builders, moderators and DJs, we wish you all a warm and joyful December. Thank you all for your visits throughout the year. <3",
-			"Follow us for all the Holiday and New Year events on Bluesky: @bassstationvr.bsky.social"
+			"Come in from the cold and spread some holiday cheer to see us to the weekend!",
+			"Be sure to join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	},
 	"info": {
@@ -24,67 +24,50 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1733618700,
+		"displayStartTime": 1734054300,
 		"performers": [
 			{
-				"name": "MeOwOgai",
-				"startTime": 1733619600,
+				"name": "Wildf1re",
+				"startTime": 1734055200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Rerouted through the Woodline Line, this DJ is heading for Forest Psytrance!",
-					"'I am a husky'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"Follow Wildf1re at soundcloud.com/wild-fire-362162345"
 				]
 			},
 			{
-				"name": "Wrath",
-				"startTime": 1733625000,
+				"name": "Cheap Thrill",
+				"startTime": 1734058800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Board now at Platform 2 for Psytrance.",
-					"'For the Republic!'",
-					"Follow Wrath at youtube.com/@DJ_Wrath46"
+					"Follow Cheap Thrill on Twitter @chp_thrll"
 				]
 			},
 			{
-				"name": "PandaTron",
-				"startTime": 1733630400,
+				"name": "Funnel Vision",
+				"startTime": 1734062400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This DJ is calling at Melodic House and Techno!",
-					"'I’m so confused lol'",
-					"Follow PandaTron at mixcloud.com/panda-tron"
-				]
-			},
-			{
-				"name": "Cacklecore",
-				"startTime": 1733635800,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Our final train this evening, calling at Tearout only!",
-					"'Stop trying to make 'tearout' a thing!'",
-					"Check out our DJ's work as an instructor at twitch.tv/soaringfitness"
+					"Follow Funnel Vision on Bluesky @funnelvisionvrc.bsky.social and mixcloud.com/FunnelVissionVRC"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1733641200,
+				"startTime": 1734066000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here. We wish a very festive... going to sleep!",
-					"See you all next week!"
+					"This event terminates here. Best wishes to you all over the festive season!",
+					"See you all next time!"
 				]
 			}
 		],
-		"closeTime": 1733642100,
+		"closeTime": 1734066900,
 		"ticker": [
-			"Subwoofers are reminded to use caution when dancing this evening due to ice and snow around the station!",
-			"In case of too much festive cheer, 'Bah! Humbug!' hats are available upon request (while stocks last)."
+			"Best wishes from everyone at Club Fallback and Bass Station to all of you this evening!",
+			"Remember to stay hydrated and provide even more snowflakes for the DJs!"
 		]
 	}
 }
