@@ -9,11 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Seasons's Greetings from",
+		"top": "Seasons' Greetings from",
 		"bottom": "Club Fallback",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Come in from the cold and spread some holiday cheer to see us to the weekend!",
+			"Please, do not, the christmas tree. It's not insured.",
 			"Be sure to join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	},
