@@ -9,13 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Seasons' Greetings from",
-		"bottom": "Club Fallback",
+		"top": "Bass Station wishes you all",
+		"bottom": "A Merry Christmas!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Come in from the cold and spread some holiday cheer to see us to the weekend!",
-			"Please, do not, the christmas tree. It's not insured.",
-			"Be sure to join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"From all our station staff, builders, moderators and DJs, we wish you all a warm and joyful December. Thank you all for your visits throughout the year. <3",
+			"Follow us for all the Holiday and New Year events on Bluesky: @bassstationvr.bsky.social"
 		]
 	},
 	"info": {
@@ -25,50 +24,69 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1734054300,
+		"displayStartTime": 1734223500,
 		"performers": [
 			{
-				"name": "Wildf1re",
-				"startTime": 1734055200,
+				"name": "Thunder_Kick",
+				"startTime": 1734224400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Wildf1re at soundcloud.com/wild-fire-362162345"
+					"This DJ is now departing from Platform 2 to Hardcore!",
+					"'And suddenly Paul shows up...'",
+					"Follow Thunder_Kick at twitch.tv/thundykick"
 				]
 			},
 			{
-				"name": "Cheap Thrill",
-				"startTime": 1734058800,
+				"name": "Oktopu5",
+				"startTime": 1734229800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Cheap Thrill on Twitter @chp_thrll"
+					"Boarding now for: Hard Trance",
+					"'did you try turning it off and on again?'",
+					"Follow Oktopu5 at youtube.com/@Oktopu5"
 				]
 			},
 			{
-				"name": "Funnel Vision",
-				"startTime": 1734062400,
+				"name": "PandaTron",
+				"startTime": 1734235200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Funnel Vision on Bluesky @funnelvisionvrc.bsky.social and mixcloud.com/FunnelVissionVRC"
+					"This is the delayed 11PM EST DJ, calling at Melodic House and Techno.",
+					"This service was delayed by approximately: 10,080 minutes. This was due to: VRCDN refusing to deliver the required Bamboo leaves for our DJ to play.",
+					"'I’m so confused lol'",
+					"Follow PandaTron at mixcloud.com/panda-tron"
+				]
+			},
+			{
+				"name": "Cacklecore",
+				"startTime": 1734240600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This is the delayed, 12:30AM EST DJ, calling at Tearout only",
+					"This service was delayed due to: VRCDN suffering an hysterical pregnancy that nobody thought was that funny.",
+					"'Stop trying to make 'tearout' a thing!'",
+					"Check out our DJ's work as an instructor at twitch.tv/soaringfitness"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1734066000,
+				"startTime": 1734246000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here. Best wishes to you all over the festive season!",
-					"See you all next time!"
+					"This event terminates here. We wish a very festive... bedtime!",
+					"See you all next week!"
 				]
 			}
 		],
-		"closeTime": 1734066900,
+		"closeTime": 1734246900,
 		"ticker": [
-			"Best wishes from everyone at Club Fallback and Bass Station to all of you this evening!",
-			"Remember to stay hydrated and provide even more snowflakes for the DJs!"
+			"Subwoofers are reminded that any unattended cookies for Santa left on the station may be destroyed (humanely) by Station security (who have not been fed yet).",
+			"In case of VRCDN going down again, please collect a complimentary pitchfork and torch from the upper level before rioting."
 		]
 	}
 }
