@@ -1,7 +1,7 @@
 {
 	"welcome": {
-		"top": "Merry Christmas from",
-		"bottom": "The Bass Station!",
+		"top": "RAVENSITY & Bass Station present",
+		"bottom": "Test Sign",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Join us over the festive period for live DJs mixing every Saturday night!",
@@ -9,10 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Bass Station wishes you all",
-		"bottom": "A Merry Christmas!",
+		"top": "RAVENSITY & Bass Station present",
+		"bottom": "Bass For Boobs!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
+			"Welcome to our special pop-up event! Bass for Boobs!",
 			"From all our station staff, builders, moderators and DJs, we wish you all a warm and joyful December. Thank you all for your visits throughout the year. <3",
 			"Follow us for all the Holiday and New Year events on Bluesky: @bassstationvr.bsky.social"
 		]
