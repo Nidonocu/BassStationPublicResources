@@ -1,7 +1,7 @@
 {
 	"welcome": {
-		"top": "RAVENSITY & Bass Station present",
-		"bottom": "Test Sign",
+		"top": "Merry Christmas from",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Join us over the festive period for live DJs mixing every Saturday night!",
@@ -13,9 +13,8 @@
 		"bottom": "Bass For Boobs!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Welcome to our special pop-up event! Bass for Boobs!",
-			"From all our station staff, builders, moderators and DJs, we wish you all a warm and joyful December. Thank you all for your visits throughout the year. <3",
-			"Follow us for all the Holiday and New Year events on Bluesky: @bassstationvr.bsky.social"
+			"Welcome to our special Hardstyle pop-up event! Bass for Boobs! Raising money for Breast Cancer Research!",
+			"Please take a few moment during you evening to donate to at https://gofund.me/a87b8e29"
 		]
 	},
 	"info": {
@@ -25,69 +24,78 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1734223500,
+		"displayStartTime": 1734828300,
 		"performers": [
 			{
-				"name": "Thunder_Kick",
-				"startTime": 1734224400,
+				"name": "ttofu",
+				"startTime": 1734829200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This DJ is now departing from Platform 2 to Hardcore!",
-					"'And suddenly Paul shows up...'",
-					"Follow Thunder_Kick at twitch.tv/thundykick"
-				]
-			},
-			{
-				"name": "Oktopu5",
-				"startTime": 1734229800,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Boarding now for: Hard Trance",
-					"'did you try turning it off and on again?'",
-					"Follow Oktopu5 at youtube.com/@Oktopu5"
+					"Our first DJ this evening, calling at Uptempo and Rawtempo.",
+					"Follow ttofu at https://linktr.ee/ttofu"
 				]
 			},
 			{
 				"name": "PandaTron",
-				"startTime": 1734235200,
+				"startTime": 1734832800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This is the delayed 11PM EST DJ, calling at Melodic House and Techno.",
-					"This service was delayed by approximately: 10,080 minutes. This was due to: VRCDN refusing to deliver the required Bamboo leaves for our DJ to play.",
-					"'I’m so confused lol'",
+					"Now boarding to Hardcore and Happy Hardcore! :) :) :)",
 					"Follow PandaTron at mixcloud.com/panda-tron"
 				]
 			},
 			{
-				"name": "Cacklecore",
-				"startTime": 1734240600,
+				"name": "DJ Niko Cat",
+				"startTime": 1734836400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": []
+			},
+			{
+				"name": "Bassdrop",
+				"startTime": 1734840000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This is the delayed, 12:30AM EST DJ, calling at Tearout only",
-					"This service was delayed due to: VRCDN suffering an hysterical pregnancy that nobody thought was that funny.",
-					"'Stop trying to make 'tearout' a thing!'",
-					"Check out our DJ's work as an instructor at twitch.tv/soaringfitness"
+					"Calling at: Hardstyle and Uptempo.",
+					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social or Twitter @CeleronTheProto"
+				]
+			},
+			{
+				"name": "Subverja",
+				"startTime": 1734843600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow Subverga on Bluesky @subverja.bsky.social or Twitter @subverja"
+				]
+			},
+			{
+				"name": "Liquid Bass",
+				"startTime": 1734847200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final express service calling at Hard Techno only!",
+					"Follow Liquid at https://linktr.ee/djliquidbass"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1734246000,
+				"startTime": 1734850800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here. We wish a very festive... bedtime!",
-					"See you all next week!"
+					"This event terminates here. Please donate if you haven't already at https://gofund.me/a87b8e29",
+					"See you all at the New Year Event!"
 				]
 			}
 		],
-		"closeTime": 1734246900,
+		"closeTime": 1734851700,
 		"ticker": [
-			"Subwoofers are reminded that any unattended cookies for Santa left on the station may be destroyed (humanely) by Station security (who have not been fed yet).",
-			"In case of VRCDN going down again, please collect a complimentary pitchfork and torch from the upper level before rioting."
+			"We're raising money for Breast Cancer Research! Please remember to visit https://gofund.me/a87b8e29 and donate if you can!"
 		]
 	}
 }
