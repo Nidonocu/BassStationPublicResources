@@ -9,12 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "RAVENSITY & Bass Station present",
-		"bottom": "Bass For Boobs!",
+		"top": "2024 is now departing from",
+		"bottom": "The Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Welcome to our special Hardstyle pop-up event! Bass for Boobs! Raising money for Breast Cancer Research!",
-			"Please take a few moment during you evening to donate to at https://gofund.me/a87b8e29"
+			"Out with the old and in with the new... DJs! Tonight we have all newer players!",
+			"Join us on December 30th, New Year's Eve and New Year's Day at Omega XXV Marathon! An Interlopr, Bass Station, Transient and Hex Furry Fest cross-over event! Raising money for the Trevor Project."
 		]
 	},
 	"info": {
@@ -24,78 +24,68 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1734828300,
+		"displayStartTime": 1735433100,
 		"performers": [
 			{
-				"name": "ttofu",
-				"startTime": 1734829200,
+				"name": "Pibb",
+				"startTime": 1735434000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Our first DJ this evening, calling at Uptempo and Rawtempo.",
-					"Follow ttofu at https://linktr.ee/ttofu"
+					"Please welcome our first new to the Station DJ!",
+					"Calling at Hard Techno, Raw, Bass House and Big House.",
+					"Follow Pibb at linktr.ee/DrPepperFerret"
 				]
 			},
 			{
-				"name": "PandaTron",
-				"startTime": 1734832800,
+				"name": "Juicy Sushi",
+				"startTime": 1735439400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Now boarding to Hardcore and Happy Hardcore! :) :) :)",
-					"Follow PandaTron at mixcloud.com/panda-tron"
+					"Please welcome our second new Station DJ tonight!",
+					"Calling at Trance and Hard Trance!",
+					"Follow Juicy Sushi on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "DJ Niko Cat",
-				"startTime": 1734836400,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": []
-			},
-			{
-				"name": "Bassdrop",
-				"startTime": 1734840000,
+				"name": "Senky",
+				"startTime": 1735444800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at: Hardstyle and Uptempo.",
-					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social or Twitter @CeleronTheProto"
+					"Returning for their second trip from the Station, this DJ is calling at Techno and Bass House.",
+					"Follow Senky at youtube.com/@SenkyDragon"
 				]
 			},
 			{
-				"name": "Subverja",
-				"startTime": 1734843600,
+				"name": "Funnel Vision",
+				"startTime": 1735450200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Subverga on Bluesky @subverja.bsky.social or Twitter @subverja"
-				]
-			},
-			{
-				"name": "Liquid Bass",
-				"startTime": 1734847200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final express service calling at Hard Techno only!",
-					"Follow Liquid at https://linktr.ee/djliquidbass"
+					"Seen here before for Club Fallback, please welcome this DJ for their first Bass Station night proper!",
+					"Our final train tonight, and of the year! Calling at Trance and Psytrance.",
+					"'One year of grooving down, many more to go!'",
+					"Follow Funnel Vision on Bluesky @funnelvisionvrc.bsky.social and mixcloud.com/FunnelVissionVRC"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1734850800,
+				"startTime": 1735455600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here. Please donate if you haven't already at https://gofund.me/a87b8e29",
-					"See you all at the New Year Event!"
+					"This event terminates here. We wish you all a Happy New Year!",
+					"See you all at the Omega XXV Marathon event!"
 				]
 			}
 		],
-		"closeTime": 1734851700,
+		"closeTime": 1735456500,
 		"ticker": [
-			"We're raising money for Breast Cancer Research! Please remember to visit https://gofund.me/a87b8e29 and donate if you can!"
+			"Our final Bass Station night of the year! So long 2024!",
+			"All passengers are reminded to feed the hungry ampwaves any spare transistors you might have on your person. Those big teeth sure do go cronch-cronch.",
+			"Check out the poster for our New Year's Eve crossover event! Running Dec 30th to Jan 1st!"
 		]
 	}
 }
