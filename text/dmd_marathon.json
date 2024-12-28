@@ -1,0 +1,36 @@
+{
+    "messages": {
+        "pre": "Welcome to Omega XXV! This event will start at:",
+        "inter": "That's it for today! We'll be back tomorrow at:",
+        "post": "Welcome to the world which hosted Omega XXV Marathon. The event is now over! Join the groups with the buttons below for news of our next events!"
+    },
+    "displayActive": [
+        {
+            "start": 1735424050,
+            "end": 1735434000
+        }
+    ],
+    "performers": [
+        {
+            "name": "Pulse*R",
+            "startTime": 1735426800,
+            "genre": "Bass House",
+            "team": "",
+            "VJ": "",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Closing",
+            "startTime": 1735432200,
+            "genre": "",
+            "team": "",
+            "VJ": "",
+            "LD": ""
+        }
+    ],
+    "charity": {
+        "title": "Supporting The Trevor Project",
+        "body": "Larger Body Text Goes here\nIt has line breaks.",
+        "url": "https://tiltify.com/@interlopr/omega-xxv-vr"
+    }
+}
