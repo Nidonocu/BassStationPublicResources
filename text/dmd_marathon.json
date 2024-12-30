@@ -12,6 +12,7 @@
         {
             "start": 1735675200,
             "end": 1735719300
+                   
         },
         {
             "start": 1735760700,
@@ -100,7 +101,7 @@
             "LD": "Kuropper"
         },
         {
-            "name": "Closing",
+            "name": "Closing till tomorrow",
             "startTime": 1735628400,
             "genre": "",
             "team": 0,
@@ -168,7 +169,7 @@
             "name": "Whitty",
             "startTime": 1735701000,
             "genre": "Multigenre",
-            "team": 0,
+            "team": 3,
             "VJ": "Whitty",
             "LD": "Lirodon"
         },
@@ -205,7 +206,7 @@
             "LD": "Kuropper"
         },
         {
-            "name": "Closing",
+            "name": "Closing till tomorrow",
             "startTime": 1735719000,
             "genre": "",
             "team": 0,
@@ -220,6 +221,86 @@
             "team": 1,
             "VJ": "",
             "LD": "Lirodon"
+        },
+        {
+            "name": "Squidd",
+            "startTime": 1735765200,
+            "genre": "Drum and Bass",
+            "team": 3,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "TIM3K33P3R",
+            "startTime": 1735768800,
+            "genre": "Heavy Bass",
+            "team": 3,
+            "VJ": "Lirodon",
+            "LD": ""
+        },
+        {
+            "name": "Vapor",
+            "startTime": 1735772400,
+            "genre": "Colour Bass & Dubstep",
+            "team": 2,
+            "VJ": "Lirodon",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Paris01",
+            "startTime": 1735776000,
+            "genre": "Techno",
+            "team": 4,
+            "VJ": "Paris01",
+            "LD": ""
+        },
+        {
+            "name": "Liquid Bass",
+            "startTime": 1735779600,
+            "genre": "Underground Techno & Trance",
+            "team": 0,
+            "VJ": "Liquid Bass",
+            "LD": ""
+        },
+        {
+            "name": "DRACONIUM",
+            "startTime": 1735783200,
+            "genre": "Heavy Bass",
+            "team": 0,
+            "VJ": "DRACONIUM",
+            "LD": ""
+        },
+        {
+            "name": "Japhet",
+            "startTime": 1735786800,
+            "genre": "Mainstage",
+            "team": 2,
+            "VJ": "Japhet",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "ChaosWicker",
+            "startTime": 1735790400,
+            "genre": "EDM & Phonk",
+            "team": 4,
+            "VJ": "ChaosWicker",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Korroki Aternak",
+            "startTime": 1735794000,
+            "genre": "Dark Bass & Tearout",
+            "team": 0,
+            "VJ": "Korroki Aternak",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "The End!",
+            "startTime": 1735797600,
+            "genre": "",
+            "team": 0,
+            "VJ": "",
+            "LD": ""
         }
     ],
     "charity": {
