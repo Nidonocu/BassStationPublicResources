@@ -1,23 +1,23 @@
 {
     "messages": {
-        "pre": "Welcome to Omega XXV! This event will start at:",
-        "inter": "That's it for today! We'll be back tomorrow at:",
+        "pre": "Welcome to Omega XXV! This event will start at: ",
+        "inter": "That's it for today! We'll be back tomorrow at: ",
         "post": "The event is now over! Thank you for coming!"
     },
     "displayActive": [
         {
-            "start": 1735565386,
-            "end": 1735572586
+            "start": 1735570200,
+            "end": 1735570800
         },
         {
-            "start": 1735599600,
-            "end": 1735610400
+            "start": 1735571100,
+            "end": 1735571400
         }
     ],
     "performers": [
         {
             "name": "Test DJ",
-            "startTime": 1735565782,
+            "startTime": 1735570260,
             "genre": "Test Genre",
             "team": 0,
             "VJ": "",
@@ -25,7 +25,7 @@
         },
         {
             "name": "Pulse*R",
-            "startTime": 1735601400,
+            "startTime": 1735571160,
             "genre": "Bass House",
             "team": 2,
             "VJ": "",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Closing",
-            "startTime": 1735605000,
+            "startTime": 1735571400,
             "genre": "",
             "team": 0,
             "VJ": "",
