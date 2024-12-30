@@ -15,7 +15,7 @@
             "name": "Pulse*R",
             "startTime": 1735601400,
             "genre": "Bass House",
-            "team": "",
+            "team": 2,
             "VJ": "",
             "LD": "Lirodon"
         },
@@ -23,7 +23,7 @@
             "name": "Closing",
             "startTime": 1735605000,
             "genre": "",
-            "team": "",
+            "team": 0,
             "VJ": "",
             "LD": ""
         }
