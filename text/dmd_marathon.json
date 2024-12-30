@@ -2,41 +2,114 @@
     "messages": {
         "pre": "Welcome to Omega XXV! This event will start at: ",
         "inter": "That's it for today! We'll be back tomorrow at: ",
-        "post": "The event is now over! Thank you for coming!"
+        "post": "The event is now over! Happy New Year!"
     },
     "displayActive": [
         {
-            "start": 1735570200,
-            "end": 1735570800
+            "start": 1735588800,
+            "end": 1735628700
         },
         {
-            "start": 1735571100,
-            "end": 1735571400
+            "start": 1735675200,
+            "end": 1735719300
         }
     ],
     "performers": [
         {
-            "name": "Test DJ",
-            "startTime": 1735570260,
-            "genre": "Test Genre",
+            "name": "Pulse*R",
+            "startTime": 1735592400,
+            "genre": "Bass House",
+            "team": 0,
+            "VJ": "Pulse*R",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Goggs",
+            "startTime": 1735596000,
+            "genre": "Funky House & EDM",
+            "team": 0,
+            "VJ": "DJ Snow Wolf",
+            "LD": "DJ Snow Wolf"
+        },
+        {
+            "name": "Trey Husk",
+            "startTime": 1735599600,
+            "genre": "Progressive House, Trance & Electro",
+            "team": 1,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Howell",
+            "startTime": 1735603200,
+            "genre": "Genrefluid",
+            "team": 1,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Draven",
+            "startTime": 1735606800,
+            "genre": "Color Bass & Melodic Riddim",
+            "team": 0,
+            "VJ": "Captivated",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Shrooky",
+            "startTime": 1735610400,
+            "genre": "Cyberpunk",
+            "team": 1,
+            "VJ": "Shrooky",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "b1tcr4sh",
+            "startTime": 1735614000,
+            "genre": "Breakbeat & Footwork",
+            "team": 2,
+            "VJ": "b1tcr4sh",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "DJ Nikko Cat",
+            "startTime": 1735617600,
+            "genre": "Hardstyle",
+            "team": 0,
+            "VJ": "Rae",
+            "LD": "Rae"
+        },
+        {
+            "name": "Ovtlvndish",
+            "startTime": 1735621200,
+            "genre": "Hardstyle & Rawstyle",
+            "team": 4,
+            "VJ": "Rae",
+            "LD": "Rae"
+        },
+        {
+            "name": "DJ Senah",
+            "startTime": 1735624800,
+            "genre": "Bass House",
+            "team": 0,
+            "VJ": "DJ Senah",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Closing",
+            "startTime": 1735628400,
+            "genre": "",
             "team": 0,
             "VJ": "",
             "LD": ""
         },
+
         {
-            "name": "Pulse*R",
-            "startTime": 1735571160,
-            "genre": "Bass House",
+            "name": "PandaTron",
+            "startTime": 1735675800,
+            "genre": "Various",
             "team": 2,
-            "VJ": "",
-            "LD": "Lirodon"
-        },
-        {
-            "name": "Closing",
-            "startTime": 1735571400,
-            "genre": "",
-            "team": 0,
-            "VJ": "",
+            "VJ": "PandaTron",
             "LD": ""
         }
     ],
