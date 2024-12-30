@@ -12,6 +12,10 @@
         {
             "start": 1735675200,
             "end": 1735719300
+        },
+        {
+            "start": 1735760700,
+            "end": 1735801200
         }
     ],
     "performers": [
@@ -111,6 +115,111 @@
             "team": 2,
             "VJ": "PandaTron",
             "LD": ""
+        },
+        {
+            "name": "KTZLRMZ",
+            "startTime": 1735679400,
+            "genre": "Hardstyle",
+            "team": 4,
+            "VJ": "KTZLRMZ",
+            "LD": ""
+        },
+        {
+            "name": "Lirodon",
+            "startTime": 1735683000,
+            "genre": "Hardstyle & Rawphoric",
+            "team": 0,
+            "VJ": "Lirodon",
+            "LD": ""
+        },
+        {
+            "name": "Wrath",
+            "startTime": 1735686600,
+            "genre": "Riddim, Tearout & Dubstep",
+            "team": 0,
+            "VJ": "Wrath",
+            "LD": ""
+        },
+        {
+            "name": "ManicLandIzzy",
+            "startTime": 1735690200,
+            "genre": "Cybergoth",
+            "team": 4,
+            "VJ": "ManicLandIzzy",
+            "LD": ""
+        },
+        {
+            "name": "Zenko",
+            "startTime": 1735693680,
+            "genre": "Trap, House & Jersey",
+            "team": 0,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Goggles",
+            "startTime": 1735697160,
+            "genre": "Mainstage",
+            "team": 0,
+            "VJ": "ThistleBunny",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Whitty",
+            "startTime": 1735701000,
+            "genre": "Multigenre",
+            "team": 0,
+            "VJ": "Whitty",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "ALASKY",
+            "startTime": 1735704300,
+            "genre": "Drum and Bass",
+            "team": 1,
+            "VJ": "ALASKY",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "DJ Foxy",
+            "startTime": 1735708200,
+            "genre": "I Will Prevail: The Final Chapter (Hardstyle)",
+            "team": 3,
+            "VJ": "Lirodon",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "DJ Sundra",
+            "startTime": 1735711800,
+            "genre": "Hardstyle & Hard Dance",
+            "team": 3,
+            "VJ": "DJ Sundra",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Brick",
+            "startTime": 1735715400,
+            "genre": "Multigenre",
+            "team": 0,
+            "VJ": "Brick",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Closing",
+            "startTime": 1735719000,
+            "genre": "",
+            "team": 0,
+            "VJ": "",
+            "LD": ""
+        },
+
+        {
+            "name": "Thunder_Kick",
+            "startTime": 1735761600,
+            "genre": "Hardcore",
+            "team": 1,
+            "VJ": "",
+            "LD": "Lirodon"
         }
     ],
     "charity": {
