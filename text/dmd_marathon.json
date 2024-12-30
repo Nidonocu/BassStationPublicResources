@@ -2,15 +2,27 @@
     "messages": {
         "pre": "Welcome to Omega XXV! This event will start at:",
         "inter": "That's it for today! We'll be back tomorrow at:",
-        "post": "Welcome to the world which hosted Omega XXV Marathon. The event is now over! Join the groups with the buttons below for news of our next events!"
+        "post": "The event is now over! Thank you for coming!"
     },
     "displayActive": [
+        {
+            "start": 1735565386,
+            "end": 1735572586
+        },
         {
             "start": 1735599600,
             "end": 1735610400
         }
     ],
     "performers": [
+        {
+            "name": "Test DJ",
+            "startTime": 1735565782,
+            "genre": "Test Genre",
+            "team": 0,
+            "VJ": "",
+            "LD": ""
+        },
         {
             "name": "Pulse*R",
             "startTime": 1735601400,
