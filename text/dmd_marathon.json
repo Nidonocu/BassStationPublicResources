@@ -1,7 +1,7 @@
 {
     "messages": {
         "pre": "Welcome to Omega XXV! This event will start at: ",
-        "inter": "That's it for today! We'll be back tomorrow at: ",
+        "inter": "That's it for today! We'll be back at: ",
         "post": "The event is now over! Happy New Year!"
     },
     "displayActive": [
