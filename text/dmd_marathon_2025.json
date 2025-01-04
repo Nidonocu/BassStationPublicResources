@@ -1,0 +1,311 @@
+{
+    "messages": {
+        "pre": "Welcome to Omega XXV! This event will start at: ",
+        "inter": "That's it for today! We'll be back at: ",
+        "post": "The event is now over! Happy New Year!"
+    },
+    "displayActive": [
+        {
+            "start": 1735588800,
+            "end": 1735629300
+        },
+        {
+            "start": 1735675200,
+            "end": 1735719600
+                   
+        },
+        {
+            "start": 1735760700,
+            "end": 1735798500
+        }
+    ],
+    "performers": [
+        {
+            "name": "Pulse*R",
+            "startTime": 1735592400,
+            "genre": "Bass House",
+            "team": 0,
+            "VJ": "Pulse*R",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Goggs",
+            "startTime": 1735596000,
+            "genre": "Funky House & EDM",
+            "team": 0,
+            "VJ": "DJ Snow Wolf",
+            "LD": "DJ Snow Wolf"
+        },
+        {
+            "name": "Trey Husk",
+            "startTime": 1735599600,
+            "genre": "Progressive House, Trance & Electro",
+            "team": 1,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Howell",
+            "startTime": 1735603200,
+            "genre": "Genrefluid",
+            "team": 1,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Draven",
+            "startTime": 1735606800,
+            "genre": "Color Bass & Melodic Riddim",
+            "team": 0,
+            "VJ": "Captivated",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Shrooky",
+            "startTime": 1735610400,
+            "genre": "Cyberpunk",
+            "team": 1,
+            "VJ": "Shrooky",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "b1tcr4sh",
+            "startTime": 1735614000,
+            "genre": "Breakbeat & Footwork",
+            "team": 2,
+            "VJ": "b1tcr4sh",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "DJ Nikko Cat",
+            "startTime": 1735617600,
+            "genre": "Hardstyle",
+            "team": 0,
+            "VJ": "Rae",
+            "LD": "Rae"
+        },
+        {
+            "name": "Ovtlvndish",
+            "startTime": 1735621200,
+            "genre": "Hardstyle & Rawstyle",
+            "team": 4,
+            "VJ": "Ovtlvndish",
+            "LD": ""
+        },
+        {
+            "name": "DJ Senah",
+            "startTime": 1735624800,
+            "genre": "Bass House",
+            "team": 0,
+            "VJ": "DJ Senah",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Closing till tomorrow",
+            "startTime": 1735628400,
+            "genre": "",
+            "team": 0,
+            "VJ": "",
+            "LD": ""
+        },
+
+        {
+            "name": "PandaTron",
+            "startTime": 1735675800,
+            "genre": "Various",
+            "team": 2,
+            "VJ": "PandaTron",
+            "LD": ""
+        },
+        {
+            "name": "KTZLRMZ",
+            "startTime": 1735679400,
+            "genre": "Hardstyle",
+            "team": 4,
+            "VJ": "KTZLRMZ",
+            "LD": ""
+        },
+        {
+            "name": "Lirodon",
+            "startTime": 1735683000,
+            "genre": "Hardstyle & Rawphoric",
+            "team": 0,
+            "VJ": "Lirodon",
+            "LD": ""
+        },
+        {
+            "name": "Wrath",
+            "startTime": 1735686600,
+            "genre": "Riddim, Tearout & Dubstep",
+            "team": 0,
+            "VJ": "Wrath",
+            "LD": ""
+        },
+        {
+            "name": "ManicLandIzzy",
+            "startTime": 1735690200,
+            "genre": "Cybergoth",
+            "team": 4,
+            "VJ": "ManicLandIzzy",
+            "LD": ""
+        },
+        {
+            "name": "Zenko",
+            "startTime": 1735693680,
+            "genre": "Trap, House & Jersey",
+            "team": 0,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Goggles",
+            "startTime": 1735697160,
+            "genre": "Mainstage",
+            "team": 0,
+            "VJ": "ThistleBunny",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Whitty",
+            "startTime": 1735701000,
+            "genre": "Multigenre",
+            "team": 3,
+            "VJ": "Whitty",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "ALASKY",
+            "startTime": 1735704300,
+            "genre": "Drum and Bass",
+            "team": 1,
+            "VJ": "ALASKY",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "DJ Foxy",
+            "startTime": 1735708200,
+            "genre": "I Will Prevail: The Final Chapter (Hardstyle)",
+            "team": 3,
+            "VJ": "Lirodon",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "DJ Sundra",
+            "startTime": 1735711800,
+            "genre": "Hardstyle & Hard Dance",
+            "team": 3,
+            "VJ": "DJ Sundra",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Brick",
+            "startTime": 1735715400,
+            "genre": "Multigenre",
+            "team": 0,
+            "VJ": "Brick",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Closing till tomorrow",
+            "startTime": 1735719000,
+            "genre": "",
+            "team": 0,
+            "VJ": "",
+            "LD": ""
+        },
+
+        {
+            "name": "Thunder_Kick",
+            "startTime": 1735761600,
+            "genre": "Hardcore",
+            "team": 1,
+            "VJ": "",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Squidd",
+            "startTime": 1735765200,
+            "genre": "Drum and Bass",
+            "team": 3,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "TIM3K33P3R",
+            "startTime": 1735768800,
+            "genre": "Heavy Bass",
+            "team": 3,
+            "VJ": "Lirodon",
+            "LD": ""
+        },
+        {
+            "name": "Vapor",
+            "startTime": 1735772400,
+            "genre": "Colour Bass & Dubstep",
+            "team": 2,
+            "VJ": "Lirodon",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Paris01",
+            "startTime": 1735776000,
+            "genre": "Techno",
+            "team": 4,
+            "VJ": "Paris01",
+            "LD": ""
+        },
+        {
+            "name": "Liquid Bass",
+            "startTime": 1735779600,
+            "genre": "Underground Techno & Trance",
+            "team": 0,
+            "VJ": "Liquid Bass",
+            "LD": ""
+        },
+        {
+            "name": "DRACONIUM",
+            "startTime": 1735783200,
+            "genre": "Heavy Bass",
+            "team": 0,
+            "VJ": "DRACONIUM",
+            "LD": ""
+        },
+        {
+            "name": "Japhet",
+            "startTime": 1735786800,
+            "genre": "Mainstage",
+            "team": 2,
+            "VJ": "Japhet",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Fovero",
+            "startTime": 1735790400,
+            "genre": "Drum and Bass & Neurofunk",
+            "team": 0,
+            "VJ": "",
+            "LD": ""
+        },
+        {
+            "name": "Korroki Aternak",
+            "startTime": 1735794000,
+            "genre": "Dark Bass & Tearout",
+            "team": 0,
+            "VJ": "Korroki Aternak",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "The End!",
+            "startTime": 1735797600,
+            "genre": "",
+            "team": 0,
+            "VJ": "",
+            "LD": ""
+        }
+    ],
+    "charity": {
+        "title": "Supporting The Trevor Project",
+        "body": "The Trevor Project is the leading suicide prevention and crisis intervention organization for lesbian, gay, bisexual, transgender, queer, and questioning (LGBTQ+) young people.\nThey work to save young lives by providing support through free and confidential suicide prevention and crisis intervention programs on platforms where young people spend their time: a 24/7 phone lifeline, chat, text, and through TrevorSpace. They also provide public education, engage in advocacy efforts, and develop research.\n\nYour donation can really help make a difference to the lives of LGBTQ+ people in need.",
+        "url": "https://tiltify.com/@interlopr/omega-xxv-vr"
+    }
+}
