@@ -1,20 +1,19 @@
 {
 	"welcome": {
-		"top": "Merry Christmas from",
+		"top": "Happy New Year from",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join us over the festive period for live DJs mixing every Saturday night!",
-			"Best wishes from all our station staff, mods and DJs to all our subwoofers!"
+			"Join us for live DJs mixing every Saturday night!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
 		]
 	},
 	"event": {
-		"top": "2024 is now departing from",
-		"bottom": "The Bass Station",
+		"top": "We're not here! The event is at",
+		"bottom": "Omega XXV!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Out with the old and in with the new... DJs! Tonight we have all newer players!",
-			"Join us on December 30th, New Year's Eve and New Year's Day at Omega XXV Marathon! An Interlopr, Bass Station, Transient and Hex Furry Fest cross-over event! Raising money for the Trevor Project."
+			"You're at the wrong world this week! Check the Bass Station group for the right one!"
 		]
 	},
 	"info": {
@@ -24,68 +23,29 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1735433100,
+		"displayStartTime": 1736038500,
 		"performers": [
 			{
-				"name": "Pibb",
-				"startTime": 1735434000,
+				"name": "Omega XXV Takeover",
+				"startTime": 1736038800,
                         	"delayMins": 0,
 				"genre": "N/A",
-				"ticker": [
-					"Please welcome our first new to the Station DJ!",
-					"Calling at Hard Techno, Raw, Bass House and Big House.",
-					"Follow Pibb at linktr.ee/DrPepperFerret"
-				]
-			},
-			{
-				"name": "Juicy Sushi",
-				"startTime": 1735439400,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Please welcome our second new Station DJ tonight!",
-					"Calling at Trance and Hard Trance!",
-					"Follow Juicy Sushi on Bluesky @yuudokukawa.bsky.social"
-				]
-			},
-			{
-				"name": "Senky",
-				"startTime": 1735444800,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Returning for their second trip from the Station, this DJ is calling at Techno and Bass House.",
-					"Follow Senky at youtube.com/@SenkyDragon"
-				]
-			},
-			{
-				"name": "Funnel Vision",
-				"startTime": 1735450200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Seen here before for Club Fallback, please welcome this DJ for their first Bass Station night proper!",
-					"Our final train tonight, and of the year! Calling at Trance and Psytrance.",
-					"'One year of grooving down, many more to go!'",
-					"Follow Funnel Vision on Bluesky @funnelvisionvrc.bsky.social and mixcloud.com/FunnelVissionVRC"
-				]
+				"ticker": []
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1735456932,
+				"startTime": 1736060400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here. We wish you all a Happy New Year!",
-					"See you all at the Omega XXV Marathon event!"
+					"See you all next week!"
 				]
 			}
 		],
-		"closeTime": 1735458300,
+		"closeTime": 1736061000,
 		"ticker": [
-			"Our final Bass Station night of the year! So long 2024!",
-			"All passengers are reminded to feed the hungry ampwaves any spare transistors you might have on your person. Those big teeth sure do go cronch-cronch.",
-			"Check out the poster for our New Year's Eve crossover event! Running Dec 30th to Jan 1st!"
+			"You're at the wrong world this week! Check the Bass Station group for the right one!"
 		]
 	}
 }
