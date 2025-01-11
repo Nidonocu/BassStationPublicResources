@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Who let you all in early?! It's",
-		"bottom": "The Bass Station",
+		"top": "Welcome back for 2025 to...",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Welcome to our first Friday night event of the year! Join us today and tomorrow for live mixes!",
+			"It's night two and we've got many more DJs for you today!",
 			"Please can all passengers be mindful of on-going station improvements and resist the urge to use construction cones as a hat. Thank you."
 		]
 	},
@@ -24,65 +24,64 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1736556300,
+		"displayStartTime": 1736642700,
 		"performers": [
 			{
-				"name": "DJ Tasha Nicole",
-				"startTime": 1736557200,
+				"name": "Raff Surion",
+				"startTime": 1736643600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our first new DJ tonight, calling at Hard Techno and Hardstyle!",
-					"'I'm DJ Tasha and now it's your problem!'",
-					"Follow DJ Tasha on Bluesky @djtasha.bsky.social"
+					"Please welcome our first new DJ tonight!",
+					"'I'M THE ONE WHO BREAKS!!!'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1736562600,
+				"name": "Liquid Bass",
+				"startTime": 1736649000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Experience the taste of music with JuicySushi'",
-					"Follow Juicy Sushi on Bluesky @yuudokukawa.bsky.social"
+					"'Muziek is geen geluid, het is een gevoel. Laat je meevoeren en ontdek de grenzen van de bass met Liquid Bass.'",
+					"Follow Liquid at https://linktr.ee/djliquidbass"
 				]
 			},
 			{
-				"name": "Yomi",
-				"startTime": 1736568000,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1736654400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our second new DJ tonight!",
-					"'I've seen God in some dirty faces'",
-					"Follow Yomi on Twitter @YomiVR"
+					"Please welcome our second new DJ tonight! Now departing for Happy Hardcore! :)",
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
-				"name": "Oktopu5",
-				"startTime": 1736573400,
+				"name": "Japhet",
+				"startTime": 1736659800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now boarding...",
-					"'did you try turning it off and on again?'",
-					"Follow Oktopu5 at youtube.com/@Oktopu5"
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1736578800,
+				"startTime": 1736665200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"Check back tomorrow for more Bass Station!"
+					"See you all next weekend!"
 				]
 			}
 		],
-		"closeTime": 1736579700,
+		"closeTime": 1736666100,
 		"ticker": [
-			"This Bass Station is comprised of two coaches... I mean, evenings! That's right, two of them!",
+			"This Bass Station is comprised of two coaches... I mean, evenings! That's right, two of them! We're now running Fridays and Saturdays!",
 			"Check out our posters at spawn or at the back wall of the station concourse for our full timetable this weekend!"
 		]
 	}
