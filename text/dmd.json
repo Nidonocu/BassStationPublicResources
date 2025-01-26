@@ -24,52 +24,50 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1737765900,
+		"displayStartTime": 1737853259,
 		"performers": [
 			{
-				"name": "ttofu",
-				"startTime": 1737766800,
+				"name": "Spineshatter",
+				"startTime": 1737853260,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					":3",
-					"Follow ttofu at https://linktr.ee/ttofu"
+					"'Mom pick me up i'm scared'"
 				]
 			},
 			{
-				"name": "Liquid Bass",
-				"startTime": 1737772200,
+				"name": "DJ JuicySushi",
+				"startTime": 1737855000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Not to be confused with Solid or Gas Bass'",
-					"Follow Liquid at https://linktr.ee/djliquidbass"
+					"'Some Juicy Hardstyle how about'",
+					"Follow Juicy Sushi on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "Yomi",
-				"startTime": 1737777600,
+				"name": "DJ Kandiwolf",
+				"startTime": 1737860400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Better than sliced bread!'",
-					"Follow Yomi on Twitter @YomiVR"
+					"'Still barking at the postman!'",
 				]
 			},
 			{
-				"name": "Funnel Vision",
-				"startTime": 1737783000,
+				"name": "MeOwOgai",
+				"startTime": 1737865800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now boarding...",
-					"'Bird up!'",
-					"Follow Funnel Vision on Bluesky @funnelvisionvrc.bsky.social and mixcloud.com/FunnelVissionVRC"
+					"'There are no clean huskies'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1737788400,
+				"startTime": 1737871200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -78,7 +76,7 @@
 				]
 			}
 		],
-		"closeTime": 1737789300,
+		"closeTime": 1737872100,
 		"ticker": [
 			"This Bass Station is comprised of two coaches... I mean, evenings! That's right, two of them! We're now running Fridays and Saturdays!",
 			"Check out our posters at spawn or at the back wall of the station concourse for our full timetable this weekend!"
