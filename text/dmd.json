@@ -1,6 +1,6 @@
 {
 	"welcome": {
-		"top": "Happy New Year from",
+		"top": "Welcome to the",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "All aboard!",
+		"top": "Come in from the cold to",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"It's night two and we've got many more DJs for you today!",
+			"Night one of two, is ready for you!",
 			"Please can all passengers be mindful of on-going station improvements and resist the urge to use construction cones as a hat. Thank you."
 		]
 	},
@@ -24,59 +24,60 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1737853259,
+		"displayStartTime": 1738370700,
 		"performers": [
 			{
-				"name": "Spineshatter",
-				"startTime": 1737853260,
+				"name": "The White Crayon",
+				"startTime": 1738371600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Mom pick me up i'm scared'"
+					"'You gotta live life like a sandwich. No matter which way you flip it, the bread always come first.'",
+					"Follow White at https://linktr.ee/thewhitecrayon"
 				]
 			},
 			{
-				"name": "DJ JuicySushi",
-				"startTime": 1737855000,
+				"name": "Liquid Bass",
+				"startTime": 1738377000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Some Juicy Hardstyle how about'",
-					"Follow Juicy Sushi on Bluesky @yuudokukawa.bsky.social"
+					"'Time to dig deep into the underground'",
+					"Follow Liquid at https://linktr.ee/djliquidbass"
 				]
 			},
 			{
-				"name": "DJ Kandiwolf",
-				"startTime": 1737864000,
+				"name": "DJ Juicy Sushi",
+				"startTime": 1738382400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Still barking at the postman!'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "MeOwOgai",
-				"startTime": 1737869400,
+				"name": "Japhet",
+				"startTime": 1738387800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now boarding...",
-					"'There are no clean huskies'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1737874800,
+				"startTime": 1738393200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you all next weekend!"
+					"Come back tomorrow for more live music!"
 				]
 			}
 		],
-		"closeTime": 1737875700,
+		"closeTime": 1738394100,
 		"ticker": [
 			"This Bass Station is comprised of two coaches... I mean, evenings! That's right, two of them! We're now running Fridays and Saturdays!",
 			"Check out our posters at spawn or at the back wall of the station concourse for our full timetable this weekend!"
