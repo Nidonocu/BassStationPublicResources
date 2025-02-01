@@ -13,7 +13,7 @@
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Night one of two, is ready for you!",
+			"Night two, electric boogaloo~",
 			"Please can all passengers be mindful of on-going station improvements and resist the urge to use construction cones as a hat. Thank you."
 		]
 	},
@@ -24,60 +24,56 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1738370700,
+		"displayStartTime": 1738457100,
 		"performers": [
 			{
-				"name": "The White Crayon",
-				"startTime": 1738371600,
+				"name": "MeOwOgai",
+				"startTime": 1738458000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'You gotta live life like a sandwich. No matter which way you flip it, the bread always come first.'",
-					"Follow White at https://linktr.ee/thewhitecrayon"
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
-				"name": "Liquid Bass",
-				"startTime": 1738377000,
+				"name": "Raff Surion",
+				"startTime": 1738463400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Time to dig deep into the underground'",
-					"Follow Liquid at https://linktr.ee/djliquidbass"
 				]
 			},
 			{
-				"name": "DJ Juicy Sushi",
-				"startTime": 1738382400,
+				"name": "Pibb",
+				"startTime": 1738468800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"Follow Pibb at linktr.ee/DrPepperFerret"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1738387800,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1738474200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now boarding...",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1738393200,
+				"startTime": 1738479600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"Come back tomorrow for more live music!"
+					"See you next week for more live music!"
 				]
 			}
 		],
-		"closeTime": 1738394100,
+		"closeTime": 1738480500,
 		"ticker": [
 			"This Bass Station is comprised of two coaches... I mean, evenings! That's right, two of them! We're now running Fridays and Saturdays!",
 			"Check out our posters at spawn or at the back wall of the station concourse for our full timetable this weekend!"
