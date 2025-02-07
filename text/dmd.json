@@ -13,7 +13,7 @@
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Night two, electric boogaloo~",
+			"DJs are reminded to collect their bass after dropping it, or it may be destroyed by the security services.",
 			"Please can all passengers be mindful of on-going station improvements and resist the urge to use construction cones as a hat. Thank you."
 		]
 	},
@@ -24,59 +24,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1738457100,
+		"displayStartTime": 1738975500,
 		"performers": [
 			{
-				"name": "MeOwOgai",
-				"startTime": 1738458000,
+				"name": "Whitty",
+				"startTime": 1738976400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"Just here to vibe~",
+					"Follow Whitty at mixcloud.com/WhittyCat"
 				]
 			},
 			{
-				"name": "Raff Surion",
-				"startTime": 1738463400,
+				"name": "BassDemolitia",
+				"startTime": 1738981800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
+					"'The mind is everything; what you think, you become.'",
+					"Follow BassDemolitia on Twitter @RDovaus"
 				]
 			},
 			{
-				"name": "Pibb",
-				"startTime": 1738468800,
+				"name": "Wrath",
+				"startTime": 1738987200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Pibb at linktr.ee/DrPepperFerret"
+					"'Accept the challenge, no matter the odds!'",
+					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
 				]
 			},
 			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1738474200,
+				"name": "Japhet",
+				"startTime": 1738992600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night now boarding...",
-					"Follow Kandi at twitch.tv/djkandiwolf"
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1738479600,
+				"startTime": 1738998000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you next week for more live music!"
+					"See you tomorrow evening!"
 				]
 			}
 		],
-		"closeTime": 1738480500,
+		"closeTime": 1738998900,
 		"ticker": [
-			"This Bass Station is comprised of two coaches... I mean, evenings! That's right, two of them! We're now running Fridays and Saturdays!",
-			"Check out our posters at spawn or at the back wall of the station concourse for our full timetable this weekend!"
+			"Buy one, get one free! Bass Station is now on Fridays and Saturdays!",
+			"Be sure to join our VRChat Group to see when our instances are live!"
 		]
 	}
 }
