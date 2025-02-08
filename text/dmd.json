@@ -24,60 +24,60 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1738975500,
+		"displayStartTime": 1739061900,
 		"performers": [
 			{
-				"name": "Whitty",
-				"startTime": 1738976400,
+				"name": "DJ Juicy Sushi",
+				"startTime": 1739062800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Just here to vibe~",
-					"Follow Whitty at mixcloud.com/WhittyCat"
+					"'time to catch the train to Dystopia'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "BassDemolitia",
-				"startTime": 1738981800,
+				"name": "Bassdrop",
+				"startTime": 1739068200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'The mind is everything; what you think, you become.'",
-					"Follow BassDemolitia on Twitter @RDovaus"
+					"'Chimken numgies plz'",
+					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social"
 				]
 			},
 			{
-				"name": "Wrath",
-				"startTime": 1738987200,
+				"name": "Kro",
+				"startTime": 1739073600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Accept the challenge, no matter the odds!'",
-					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+					"'Who is amen and what are they breaking??'",
+					"Follow Kro at https://socials.kroren.art"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1738992600,
+				"name": "V[AI]RUS",
+				"startTime": 1739079000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"'Suffering... Lamentation... The worst is yet to come...' - Sefa Vlaarkamp",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1738998000,
+				"startTime": 1739084400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you tomorrow evening!"
+					"See you next week!"
 				]
 			}
 		],
-		"closeTime": 1738998900,
+		"closeTime": 1739085300,
 		"ticker": [
 			"Buy one, get one free! Bass Station is now on Fridays and Saturdays!",
 			"Be sure to join our VRChat Group to see when our instances are live!"
