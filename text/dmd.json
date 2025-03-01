@@ -24,59 +24,59 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1740790485,
+		"displayStartTime": 1740876300,
 		"performers": [
 			{
-				"name": "MeOwOgai",
-				"startTime": 1740790800,
+				"name": "Raff Surion",
+				"startTime": 1740877200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'I'm a husky, I have paws'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"'I'm blaming auto correct on that. @.@'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "SOLSTICE",
-				"startTime": 1740796200,
+				"name": "AmberFlame",
+				"startTime": 1740882600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please give a warm welcome to SOLSTICE and their first time riding at the Bass Station!"
+					"'we back at it again at Krispy Kreme'",
+					"Follow AmberFlame at linktr.ee/amberflames"
 				]
 			},
 			{
-				"name": "DJ Juicy Sushi",
-				"startTime": 1740801600,
+				"name": "Element Jonny",
+				"startTime": 1740888000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'something fishy is going on here!!'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"Follow Jonny at https://www.twitch.tv/elementjonny"
 				]
 			},
 			{
-				"name": "The White Crayon",
-				"startTime": 1740807000,
+				"name": "Funnel Vision",
+				"startTime": 1740893400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Now boarding, our final DJ of the night!",
-					"Follow White at https://linktr.ee/thewhitecrayon"
+					"The last train of the evening is now departing.",
+					"Follow Funnel Vision on Bluesky @funnelvisionvrc.bsky.social and mixcloud.com/FunnelVissionVR"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1740812400,
+				"startTime": 1740898800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you tomorrow for more DJs!"
+					"See you next week!"
 				]
 			}
 		],
-		"closeTime": 1740813300,
+		"closeTime": 1740899700,
 		"ticker": [
 			"Buy one, get one free! Bass Station is now on Fridays and Saturdays!",
 			"Be sure to join our VRChat Group to see when our instances are live!"
