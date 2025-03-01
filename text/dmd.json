@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Ethically sourced and home grown",
+		"top": "Press X to enter the",
 		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Any protogens found unattended on the station concourse will be confiscated and have Windows 11 installed on them.",
+			"This is where the funny words would go... if I could think of any...",
 			"Please can all passengers be mindful of on-going station improvements and resist the urge to use construction cones as a hat. Thank you."
 		]
 	},
@@ -24,59 +24,59 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1740271500,
+		"displayStartTime": 1740790485,
 		"performers": [
 			{
-				"name": "AmberFlame",
-				"startTime": 1740272400,
+				"name": "MeOwOgai",
+				"startTime": 1740790800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our first DJ tonight and their first time playing at The Bass Station, Amber Flame!",
-					"Follow AmberFlame at linktr.ee/amberflames"
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1740277800,
+				"name": "SOLSTICE",
+				"startTime": 1740796200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Kandi at twitch.tv/djkandiwolf"
+					"Please give a warm welcome to SOLSTICE and their first time riding at the Bass Station!"
 				]
 			},
 			{
-				"name": "V[AI]RUS",
-				"startTime": 1740283200,
+				"name": "DJ Juicy Sushi",
+				"startTime": 1740801600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Voted 'Most Stinky Fish' Award three years running.",
-					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
+					"'something fishy is going on here!!'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "Funnel Vision",
-				"startTime": 1740288600,
+				"name": "The White Crayon",
+				"startTime": 1740807000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Now boarding, our final DJ of the night!",
-					"Follow Funnel Vision on Bluesky @funnelvisionvrc.bsky.social and mixcloud.com/FunnelVissionVRC"
+					"Follow White at https://linktr.ee/thewhitecrayon"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1740294000,
+				"startTime": 1740812400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you next week!"
+					"See you tomorrow for more DJs!"
 				]
 			}
 		],
-		"closeTime": 1740294900,
+		"closeTime": 1740813300,
 		"ticker": [
 			"Buy one, get one free! Bass Station is now on Fridays and Saturdays!",
 			"Be sure to join our VRChat Group to see when our instances are live!"
