@@ -9,8 +9,8 @@
 		]
 	},
 	"event": {
-		"top": "Press X to enter the",
-		"bottom": "Bass Station!",
+		"top": "You've arrived at",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"This is where the funny words would go... if I could think of any...",
@@ -24,62 +24,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1740876300,
+		"displayStartTime": 1741394700,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1740877200,
+				"name": "MeOwOgai",
+				"startTime": 1741395600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'I'm blaming auto correct on that. @.@'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"'Japhet lives!'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
 				"name": "AmberFlame",
-				"startTime": 1740882600,
+				"startTime": 1741401000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'we back at it again at Krispy Kreme'",
+					"'we on the usb now'",
 					"Follow AmberFlame at linktr.ee/amberflames"
 				]
 			},
 			{
-				"name": "Element Jonny",
-				"startTime": 1740888000,
+				"name": "DJ Juicy Sushi",
+				"startTime": 1741406400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Jonny at https://www.twitch.tv/elementjonny"
+					"'fishiest of fridays!!!'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "Funnel Vision",
-				"startTime": 1740893400,
+				"name": "Japhet",
+				"startTime": 1741411800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"The last train of the evening is now departing.",
-					"Follow Funnel Vision on Bluesky @funnelvisionvrc.bsky.social and mixcloud.com/FunnelVissionVR"
+					"Board now for our final DJ of the evening!",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1740898800,
+				"startTime": 1741417200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you next week!"
+					"See you tomorrow for more music!"
 				]
 			}
 		],
-		"closeTime": 1740899700,
+		"closeTime": 1741418100,
 		"ticker": [
-			"Buy one, get one free! Bass Station is now on Fridays and Saturdays!",
-			"Be sure to join our VRChat Group to see when our instances are live!"
+			"I've been told it's Macaroni March, I presume that means we eat lots of pasta? ... Wait, what do you mean I misheard?"
 		]
 	}
 }
