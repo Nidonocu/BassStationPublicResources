@@ -13,8 +13,7 @@
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"This is where the funny words would go... if I could think of any...",
-			"Please can all passengers be mindful of on-going station improvements and resist the urge to use construction cones as a hat. Thank you."
+			"Have you found the elusive seventh traffic cone? Win a prize if you do!"
 		]
 	},
 	"info": {
@@ -24,61 +23,61 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1741394700,
+		"displayStartTime": 1741481100,
 		"performers": [
 			{
-				"name": "MeOwOgai",
-				"startTime": 1741395600,
+				"name": "BassDemolitia",
+				"startTime": 1741482000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Japhet lives!'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"'The mind is everything; what you think, you become.'",
+					"Follow BassDemolitia on Twitter @RDovaus"
 				]
 			},
 			{
-				"name": "AmberFlame",
-				"startTime": 1741401000,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1741487400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'we on the usb now'",
-					"Follow AmberFlame at linktr.ee/amberflames"
+					"'Is that happy hardcore? No THIS is happy hardcore!'",
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1741406400,
+				"name": "PandaTron",
+				"startTime": 1741492800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'fishiest of fridays!!!'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"'Did Captain Crunch ever return those kids?'",
+					"Follow PandaTron at mixcloud.com/panda-tron"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1741411800,
+				"name": "V[AI]RUS",
+				"startTime": 1741498200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Board now for our final DJ of the evening!",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"Please wish our fish the best as they prepare for a move! No more shark till May! D:",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1741417200,
+				"startTime": 1741503600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you tomorrow for more music!"
+					"See you next week for more live DJs!"
 				]
 			}
 		],
-		"closeTime": 1741418100,
+		"closeTime": 1741504500,
 		"ticker": [
 			"I've been told it's Macaroni March, I presume that means we eat lots of pasta? ... Wait, what do you mean I misheard?"
 		]
