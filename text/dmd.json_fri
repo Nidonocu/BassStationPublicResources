@@ -23,63 +23,62 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1742082300,
+		"displayStartTime": 1741995900,
 		"performers": [
 			{
-				"name": "ttofu",
-				"startTime": 1742083200,
+				"name": "Raff Surion",
+				"startTime": 1741996800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Dear listeners. Meow.'",
-					"Follow ttofu at https://linktr.ee/ttofu"
+					"'Woof Woof bark Woof'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1742088600,
+				"name": "Alasky",
+				"startTime": 1742002200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'entering shark infested waters'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"'174/4'",
+					"Visit Alasky's site at www.laskar.is"
 				]
 			},
 			{
-				"name": "Subverja",
-				"startTime": 1742094000,
+				"name": "Pibb",
+				"startTime": 1742007600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Stay hydrated! OR ELSE!!'",
-					"Follow Subverga on Bluesky @subverja.bsky.social or Twitter @subverja"
+					"'By the power of high fructose corn syrup!'",
+					"Follow Pibb at linktr.ee/DrPepperFerret"
 				]
 			},
 			{
-				"name": "BassDemolitia",
-				"startTime": 1742099400,
+				"name": "DJ_MEGA",
+				"startTime": 1742013000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Board now for our final DJ of the evening!",
-					"'Sometimes the best you can do is survive'",
-					"Follow BassDemolitia on Twitter @RDovaus"
+					"'Acoustic structural test underway'",
+					"Follow DJ_MEGA at youtube.com/@djmega888"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1742104800,
+				"startTime": 1742018400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you tomorrow for more music!"
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1742105700,
+		"closeTime": 1742019300,
 		"ticker": [
-			"-- Please enjoy each DJ equally. --"
+			"Please enjoy each DJ equally."
 		]
 	}
 }
