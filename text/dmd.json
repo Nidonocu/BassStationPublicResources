@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "We're departing exactly on time",
-		"bottom": "at the Bass Station!",
+		"top": "Bounce on down to Springtime at",
+		"bottom": "the Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"New construction efforts are underway and coming soon!"
+			"New things are coming real soon now! Promise! Pinky swear!"
 		]
 	},
 	"info": {
@@ -23,63 +23,62 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1742082300,
+		"displayStartTime": 1742600700,
 		"performers": [
 			{
-				"name": "ttofu",
-				"startTime": 1742083200,
+				"name": "Bassdrop",
+				"startTime": 1742601600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Dear listeners. Meow.'",
-					"Follow ttofu at https://linktr.ee/ttofu"
+					"'The reason we don't have a slip n slide'",
+					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social"
 				]
 			},
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1742088600,
+				"name": "Solstice",
+				"startTime": 1742607000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'entering shark infested waters'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"'Music will always unite us'"
 				]
 			},
 			{
-				"name": "Subverja",
-				"startTime": 1742094000,
+				"name": "Kro",
+				"startTime": 1742612400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Stay hydrated! OR ELSE!!'",
-					"Follow Subverga on Bluesky @subverja.bsky.social or Twitter @subverja"
+					"'I'm out here playing minesweeper without the flags'",
+					"Follow Kro at https://socials.kroren.art"
 				]
 			},
 			{
-				"name": "BassDemolitia",
-				"startTime": 1742099400,
+				"name": "Japhet",
+				"startTime": 1742617800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Board now for our final DJ of the evening!",
-					"'Sometimes the best you can do is survive'",
-					"Follow BassDemolitia on Twitter @RDovaus"
+					"Final DJ of the night is now boarding...",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1742104800,
+				"startTime": 1742623200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you tomorrow for more music!"
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1742105700,
+		"closeTime": 1742624100,
 		"ticker": [
-			"-- Please enjoy each DJ equally. --"
+			"VRChat Beta uses are reminded to take cool sweeping drone shots of the club at all times."
 		]
 	}
 }

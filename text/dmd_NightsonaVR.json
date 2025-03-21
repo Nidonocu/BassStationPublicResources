@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Welcome to",
-		"bottom": "NightsonaVR",
+		"top": "Awoominati Presents",
+		"bottom": "Rise of Dogma",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Presented by Awoominati"
+			"Hosted by, The Bass Station."
 		]
 	},
 	"info": {
@@ -40,7 +40,7 @@
 				"ticker": []
 			},
 			{
-				"name": "Alex Graey",
+				"name": "Alex Gray",
 				"startTime": 1743973200,
                         	"delayMins": 0,
 				"genre": "N/A",
@@ -101,7 +101,7 @@
 		],
 		"closeTime": 1743992100,
 		"ticker": [
-			"Welcome to NightsonaVR, by Awoominati"
+			"Awoominati Presents: Rise of Dogma"
 		]
 	}
 }
