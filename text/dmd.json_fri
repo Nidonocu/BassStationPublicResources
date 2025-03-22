@@ -23,52 +23,51 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1742687100,
+		"displayStartTime": 1742600700,
 		"performers": [
 			{
-				"name": "MeOwOgai",
-				"startTime": 1742688000,
+				"name": "Bassdrop",
+				"startTime": 1742601600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Trust in Trance'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"'The reason we don't have a slip n slide'",
+					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social"
 				]
 			},
 			{
-				"name": "Raff Surion",
-				"startTime": 1742693400,
+				"name": "Solstice",
+				"startTime": 1742607000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Woof bark woof woof bark!'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"'Music will always unite us'"
 				]
 			},
 			{
-				"name": "Alasky",
-				"startTime": 1742698800,
+				"name": "Kro",
+				"startTime": 1742612400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Fresh beats from the farmer's market!'",
-					"Visit Alasky's site at www.laskar.is"
+					"'I'm out here playing minesweeper without the flags'",
+					"Follow Kro at https://socials.kroren.art"
 				]
 			},
 			{
-				"name": "Pibb",
-				"startTime": 1742704200,
+				"name": "Japhet",
+				"startTime": 1742617800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Board now for our final DJ of the evening!",
-					"'Proudly powered by sugar!'",
-					"Follow Pibb at linktr.ee/DrPepperFerret"
+					"Final DJ of the night is now boarding...",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1742709600,
+				"startTime": 1742623200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -77,7 +76,7 @@
 				]
 			}
 		],
-		"closeTime": 1742710500,
+		"closeTime": 1742624100,
 		"ticker": [
 			"VRChat Beta uses are reminded to take cool sweeping drone shots of the club at all times."
 		]
