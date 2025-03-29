@@ -9,11 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Bounce on down to Springtime at",
+		"top": "Choo-choo chooose",
 		"bottom": "the Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"New things are coming real soon now! Promise! Pinky swear!"
+			"The only thing sleeping down here is the railway sleepers.",
+			"Did you join the VRChat Group yet? Yes? Good."
 		]
 	},
 	"info": {
@@ -23,11 +24,11 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1743205500,
+		"displayStartTime": 1743291900,
 		"performers": [
 			{
 				"name": "MeOwOgai",
-				"startTime": 1743120000,
+				"startTime": 1743292800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -37,7 +38,7 @@
 			},
 			{
 				"name": "Raff Surion",
-				"startTime": 1742693400,
+				"startTime": 1743298200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -47,7 +48,7 @@
 			},
 			{
 				"name": "Alasky",
-				"startTime": 1742698800,
+				"startTime": 1743303600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -57,7 +58,7 @@
 			},
 			{
 				"name": "Pibb",
-				"startTime": 1742704200,
+				"startTime": 1743309000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -68,7 +69,7 @@
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1742709600,
+				"startTime": 1743314400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -77,9 +78,9 @@
 				]
 			}
 		],
-		"closeTime": 1742710500,
+		"closeTime": 1743315300,
 		"ticker": [
-			"VRChat Beta uses are reminded to take cool sweeping drone shots of the club at all times."
+			"Proud to provide you with the freshest, organic, homegrown, grass-fed beats."
 		]
 	}
 }

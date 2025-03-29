@@ -28,7 +28,7 @@
 		"performers": [
 			{
 				"name": "MeOwOgai",
-				"startTime": 1743120000,
+				"startTime": 1743206400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -38,7 +38,7 @@
 			},
 			{
 				"name": "Raff Surion",
-				"startTime": 1742693400,
+				"startTime": 1743211800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -48,7 +48,7 @@
 			},
 			{
 				"name": "Juicy Sushi",
-				"startTime": 1743130800,
+				"startTime": 1743217200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -58,7 +58,7 @@
 			},
 			{
 				"name": "Pulse!",
-				"startTime": 1743136200,
+				"startTime": 1743222600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -68,7 +68,7 @@
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1743141600,
+				"startTime": 1743228000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -77,7 +77,7 @@
 				]
 			}
 		],
-		"closeTime": 1743142500,
+		"closeTime": 1743228900,
 		"ticker": [
 			"Proud to provide you with the freshest, organic, homegrown, grass-fed beats."
 		]
