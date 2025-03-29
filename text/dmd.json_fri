@@ -24,62 +24,60 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1743291900,
+		"displayStartTime": 1743205500,
 		"performers": [
 			{
-				"name": "Alasky",
-				"startTime": 1743292800,
+				"name": "MeOwOgai",
+				"startTime": 1743206400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'TO THE RESCUE!'",
-					"Visit Alasky's site at www.laskar.is"
+					"'You enter a special, magical dimension'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
-				"name": "Lyteweeb",
-				"startTime": 1743298200,
+				"name": "Raff Surion",
+				"startTime": 1743211800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our second new DJ of the weekend, Lyteweeb!",
-					"'Loh? Debut? #KasiAncorDulu'",
-					"Follow Lyteweeb at youtube.com/@letwibyt"
+					"'I'll have a number nine, a number nine large, a number six with extra sauce, a number seven, two number forty-fives, one wit' cheese, and a large soda'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Senky",
-				"startTime": 1743303600,
+				"name": "Juicy Sushi",
+				"startTime": 1743217200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'set the vibes up to 11'",
-					"Follow Senky at youtube.com/@SenkyDragon"
+					"'Fishy friday is a go!'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1743309000,
+				"name": "Pulse!",
+				"startTime": 1743222600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Board now for our final DJ of the evening!",
-					"'Still barking at the mailman!'",
-					"Follow Kandi at twitch.tv/djkandiwolf"
+					"Please welcome our new and also final DJ of the night, Pulse!",
+					"'Go all out so we can ball out'"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1743314400,
+				"startTime": 1743228000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you next week for more music!"
+					"See you tomorrow for more music!"
 				]
 			}
 		],
-		"closeTime": 1743315300,
+		"closeTime": 1743228900,
 		"ticker": [
 			"Proud to provide you with the freshest, organic, homegrown, grass-fed beats."
 		]
