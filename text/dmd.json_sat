@@ -27,44 +27,45 @@
 		"displayStartTime": 1743291900,
 		"performers": [
 			{
-				"name": "MeOwOgai",
+				"name": "Alasky",
 				"startTime": 1743292800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Trust in Trance'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
-				]
-			},
-			{
-				"name": "Raff Surion",
-				"startTime": 1743298200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'Woof bark woof woof bark!'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
-				]
-			},
-			{
-				"name": "Alasky",
-				"startTime": 1743303600,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'Fresh beats from the farmer's market!'",
+					"'TO THE RESCUE!'",
 					"Visit Alasky's site at www.laskar.is"
 				]
 			},
 			{
-				"name": "Pibb",
+				"name": "Lyteweeb",
+				"startTime": 1743298200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome our second new DJ of the weekend, Lyteweeb!",
+					"'Loh? Debut? #KasiAncorDulu'",
+					"Follow Lyteweeb at youtube.com/@letwibyt"
+				]
+			},
+			{
+				"name": "Senky",
+				"startTime": 1743303600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'set the vibes up to 11'",
+					"Follow Senky at youtube.com/@SenkyDragon"
+				]
+			},
+			{
+				"name": "DJ Kandi Wolf",
 				"startTime": 1743309000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Board now for our final DJ of the evening!",
-					"'Proudly powered by sugar!'",
-					"Follow Pibb at linktr.ee/DrPepperFerret"
+					"'Still barking at the mailman!'",
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
