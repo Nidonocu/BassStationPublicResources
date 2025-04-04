@@ -13,8 +13,7 @@
 		"bottom": "It's the Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"The only thing sleeping down here is the railway sleepers.",
-			"Did you join the VRChat Group yet? Yes? Good."
+			"Hey Japhet, how come your mom let's you have two sets?"
 		]
 	},
 	"info": {
@@ -24,62 +23,60 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1743810300,
+		"displayStartTime": 1743896700,
 		"performers": [
 			{
-				"name": "cdelansig",
-				"startTime": 1743811200,
+				"name": "Juicy Sushi",
+				"startTime": 1743897600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'You're nearly there, keep going'"
+					"'Unlike their evil twin \"DrySashimi\"'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "BassDemolitia",
-				"startTime": 1743816600,
+				"name": "Solstice",
+				"startTime": 1743903000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Just a little Further'",
-					"This is an express service to, UK Happy Hardcore.",
-					"Follow BassDemolitia on Twitter @RDovaus"
+					"'Sounds like bass birb in here!'"
 				]
 			},
 			{
-				"name": "Biochemicals",
-				"startTime": 1743822000,
+				"name": "Oktopu5",
+				"startTime": 1743908400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Don't Give Up Keep Moving'",
-					"Calling at: Drum and Base, and Dubstep.",
-					"Follow Biochemicals at youtube.com/@biochemicalspvp8718"
+					"'8 arms of spinning fury!'",
+					"Follow Oktopu5 at youtube.com/@Oktopu5"
 				]
 			},
 			{
 				"name": "Japhet",
-				"startTime": 1743827400,
+				"startTime": 1743913800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night is now boarding...",
-					"'Remember to be the change you want to see'",
+					"Board now for our final DJ of the evening!",
+					"'Remember to - Hey wait a minute, didn't I play yesterday?'",
 					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1743832800,
+				"startTime": 1743919200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you tomorrow for more music!"
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1743833700,
+		"closeTime": 1743956100,
 		"ticker": [
 			"If you see something that doesn't look right, try rotating it 180 degrees."
 		]
