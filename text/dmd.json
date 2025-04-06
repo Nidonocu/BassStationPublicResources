@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Part of your five-a-day",
-		"bottom": "It's the Bass Station!",
+		"top": "Awoominati Presents",
+		"bottom": "Rise of Dogma",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Hey Japhet, how come your mom let's you have two sets?"
+			"Hosted by, The Bass Station."
 		]
 	},
 	"info": {
@@ -23,62 +23,85 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1743896700,
+		"displayStartTime": 1743967800,
 		"performers": [
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1743897600,
+				"name": "Alecs Dyno",
+				"startTime": 1743969600,
                         	"delayMins": 0,
 				"genre": "N/A",
-				"ticker": [
-					"'Unlike their evil twin \"DrySashimi\"'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
-				]
+				"ticker": []
 			},
 			{
-				"name": "Solstice",
-				"startTime": 1743903000,
+				"name": "E Royale",
+				"startTime": 1743971400,
                         	"delayMins": 0,
 				"genre": "N/A",
-				"ticker": [
-					"'Sounds like bass birb in here!'"
-				]
+				"ticker": []
 			},
 			{
-				"name": "Oktopu5",
-				"startTime": 1743908400,
+				"name": "Alex Gray",
+				"startTime": 1743973200,
                         	"delayMins": 0,
 				"genre": "N/A",
-				"ticker": [
-					"'8 arms of spinning fury!'",
-					"Follow Oktopu5 at youtube.com/@Oktopu5"
-				]
+				"ticker": []
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1743913800,
+				"name": "Hi I'm Case",
+				"startTime": 1743975900,
                         	"delayMins": 0,
 				"genre": "N/A",
-				"ticker": [
-					"Board now for our final DJ of the evening!",
-					"'Remember to - Hey wait a minute, didn't I play yesterday?'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
-				]
+				"ticker": []
+			},
+			{
+				"name": "Bucker Fuskyote",
+				"startTime": 1743978600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": []
+			},
+			{
+				"name": "{ELSEIF}",
+				"startTime": 1743980400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": []
+			},
+			{
+				"name": "T1M3K33P3R",
+				"startTime": 1743982200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": []
+			},
+			{
+				"name": "Artifaxx",
+				"startTime": 1743987600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": []
+			},
+			{
+				"name": "BASSDOG",
+				"startTime": 1743991200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": []
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1743919200,
+				"startTime": 1743994800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you next week for more music!"
+					"Thank you for coming!"
 				]
 			}
 		],
-		"closeTime": 1743956100,
+		"closeTime": 1743992100,
 		"ticker": [
-			"If you see something that doesn't look right, try rotating it 180 degrees."
+			"Awoominati Presents: Rise of Dogma"
 		]
 	}
 }

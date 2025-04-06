@@ -1,0 +1,84 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "The Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join us for live DJs mixing every weekend!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
+		]
+	},
+	"event": {
+		"top": "Part of your five-a-day",
+		"bottom": "It's the Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Hey Japhet, how come your mom let's you have two sets?"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1743896700,
+		"performers": [
+			{
+				"name": "Juicy Sushi",
+				"startTime": 1743897600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Unlike their evil twin \"DrySashimi\"'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+				]
+			},
+			{
+				"name": "Solstice",
+				"startTime": 1743903000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Sounds like bass birb in here!'"
+				]
+			},
+			{
+				"name": "Oktopu5",
+				"startTime": 1743908400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'8 arms of spinning fury!'",
+					"Follow Oktopu5 at youtube.com/@Oktopu5"
+				]
+			},
+			{
+				"name": "Japhet",
+				"startTime": 1743913800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Board now for our final DJ of the evening!",
+					"'Remember to - Hey wait a minute, didn't I play yesterday?'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1743919200,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here.",
+					"See you next week for more music!"
+				]
+			}
+		],
+		"closeTime": 1743956100,
+		"ticker": [
+			"If you see something that doesn't look right, try rotating it 180 degrees."
+		]
+	}
+}
