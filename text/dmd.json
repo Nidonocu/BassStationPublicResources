@@ -48,49 +48,49 @@
 			},
 			{
 				"name": "Hi I'm Case",
-				"startTime": 1743975900,
+				"startTime": 1743976200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": []
 			},
 			{
 				"name": "Bucker Fuskyote",
-				"startTime": 1743978600,
+				"startTime": 1743978900,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": []
 			},
 			{
 				"name": "{ELSEIF}",
-				"startTime": 1743980400,
+				"startTime": 1743980700,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": []
 			},
 			{
 				"name": "T1M3K33P3R",
-				"startTime": 1743982200,
+				"startTime": 1743982500,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": []
 			},
 			{
 				"name": "Artifaxx",
-				"startTime": 1743987600,
+				"startTime": 1743987900,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": []
 			},
 			{
 				"name": "BASSDOG",
-				"startTime": 1743991200,
+				"startTime": 1743991500,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": []
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1743994800,
+				"startTime": 1743995100,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -99,7 +99,7 @@
 				]
 			}
 		],
-		"closeTime": 1743992100,
+		"closeTime": 1743992400,
 		"ticker": [
 			"Awoominati Presents: Rise of Dogma"
 		]
