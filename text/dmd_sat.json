@@ -1,6 +1,6 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
+		"top": "Welcome to",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Part of your five-a-day",
-		"bottom": "It's the Bass Station!",
+		"top": "Welcome to the",
+		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Hey Japhet, how come your mom let's you have two sets?"
+			"All camera drones must be secured on a leash or they may be captured and fed to our tame protogens"
 		]
 	},
 	"info": {
@@ -23,51 +23,49 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1743896700,
+		"displayStartTime": 1744501500,
 		"performers": [
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1743897600,
+				"name": "Wolfintank",
+				"startTime": 1744502400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Unlike their evil twin \"DrySashimi\"'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"Follow Juicy on twitch.tv/wolfintank and Bluesky @wolfintank.bsky.social"
 				]
 			},
 			{
-				"name": "Solstice",
-				"startTime": 1743903000,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1744507800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Sounds like bass birb in here!'"
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
-				"name": "Oktopu5",
-				"startTime": 1743908400,
+				"name": "Lyteweeb",
+				"startTime": 1744513200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'8 arms of spinning fury!'",
-					"Follow Oktopu5 at youtube.com/@Oktopu5"
+					"Follow Lyteweeb at youtube.com/@letwibyt"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1743913800,
+				"name": "MeOwOgai",
+				"startTime": 1744518600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Board now for our final DJ of the evening!",
-					"'Remember to - Hey wait a minute, didn't I play yesterday?'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"'Japhet is not a Jaffa cake'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1743919200,
+				"startTime": 1744524000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -76,9 +74,9 @@
 				]
 			}
 		],
-		"closeTime": 1743956100,
+		"closeTime": 1744524900,
 		"ticker": [
-			"If you see something that doesn't look right, try rotating it 180 degrees."
+			"So many jelly beans, so little time to shove them all up your nose."
 		]
 	}
 }

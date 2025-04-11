@@ -1,6 +1,6 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
+		"top": "Welcome to",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
@@ -9,12 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "The name is 'back,",
-		"bottom": "Club Fallback",
+		"top": "Welcome to the",
+		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Welcome back to Club Fallback! Where have you been?! We were getting worried!",
-			"Be sure to join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"All camera drones must be secured on a leash or they may be captured and fed to our tame protogens."
 		]
 	},
 	"info": {
@@ -24,52 +23,61 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1744332300,
+		"displayStartTime": 1744415100,
 		"performers": [
 			{
-				"name": "Midnight City",
-				"startTime": 1744333200,
+				"name": "Raff Surion",
+				"startTime": 1744416000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"An express service, direct to Drum and Base.",
-					"Follow Midnight City on Bluesky @midnightcitytv.bsky.social"
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "DJ PikaFox",
-				"startTime": 1744336800,
+				"name": "Monty",
+				"startTime": 1744421400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at Hardstyle, Hardcore and House.",
-					"Follow PikaFox on Bluesky @pikachu979.bsky.social"
+					"'Today I am serving can't'",
+					"Follow Monty on Bluesky @dumbdog.gay"
 				]
 			},
 			{
-				"name": "NightshadeLenar",
-				"startTime": 1744340400,
+				"name": "DJ_MEGA",
+				"startTime": 1744426800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Our final DJ of the night, board now for House and Trance.",
-					"Follow NightshadeLenar on Bluesky @nightshadelenar.bsky.social and twitch.tv/djnightshadelenar"
+					"Follow DJ_MEGA at youtube.com/@djmega888"
+				]
+			},
+			{
+				"name": "Japhet",
+				"startTime": 1744432200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now boarding...",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1744344000,
+				"startTime": 1744437600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you all next time!"
+					"See you tomorrow for more music!"
 				]
 			}
 		],
-		"closeTime": 1744344900,
+		"closeTime": 1744438500,
 		"ticker": [
-			"All camera drones must be secured on a leash or they may be captured and fed to our tame protogens."
+			"So many jelly beans, so little time to shove them all up your nose."
 		]
 	}
 }
