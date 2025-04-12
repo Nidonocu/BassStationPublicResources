@@ -13,7 +13,7 @@
 		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"All camera drones must be secured on a leash or they may be captured and fed to our tame protogens"
+			"All camera drones must be secured on a leash or they may be captured and fed to our tame protogens."
 		]
 	},
 	"info": {
@@ -23,58 +23,59 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1744501500,
+		"displayStartTime": 1744415100,
 		"performers": [
 			{
-				"name": "Wolfintank",
-				"startTime": 1744502400,
+				"name": "Raff Surion",
+				"startTime": 1744416000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Juicy on twitch.tv/wolfintank and Bluesky @wolfintank.bsky.social"
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1744507800,
+				"name": "Monty",
+				"startTime": 1744421400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Kandi at twitch.tv/djkandiwolf"
+					"'Today I am serving can't'",
+					"Follow Monty on Bluesky @dumbdog.gay"
 				]
 			},
 			{
-				"name": "Lyteweeb",
-				"startTime": 1744513200,
+				"name": "DJ_MEGA",
+				"startTime": 1744426800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Lyteweeb at youtube.com/@letwibyt"
+					"Follow DJ_MEGA at youtube.com/@djmega888"
 				]
 			},
 			{
-				"name": "MeOwOgai",
-				"startTime": 1744518600,
+				"name": "Japhet",
+				"startTime": 1744432200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Board now for our final DJ of the evening!",
-					"'Japhet is not a Jaffa cake'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"Final DJ of the night is now boarding...",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1744524000,
+				"startTime": 1744437600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you next week for more music!"
+					"See you tomorrow for more music!"
 				]
 			}
 		],
-		"closeTime": 1744524900,
+		"closeTime": 1744438500,
 		"ticker": [
 			"So many jelly beans, so little time to shove them all up your nose."
 		]
