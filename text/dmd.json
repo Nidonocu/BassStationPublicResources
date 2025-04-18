@@ -1,10 +1,11 @@
 {
 	"welcome": {
-		"top": "Welcome to",
-		"bottom": "The Bass Station!",
+		"top": "-- Station Closed --",
+		"bottom": "Happy Easter!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join us for live DJs mixing every weekend!",
+			"Thanks for dropping by, but the station is closed for the Easter holiday and to give our staff a break!",
+			"Swing by next week when we'll be back!",
 			"Join our VRChat group or visit us on Bluesky for news on our next events."
 		]
 	},
