@@ -1,11 +1,10 @@
 {
 	"welcome": {
-		"top": "-- Station Closed --",
-		"bottom": "Happy Easter!",
+		"top": "Welcome to the",
+		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Thanks for dropping by, but the station is closed for the Easter holiday and to give our staff a break!",
-			"Swing by next week when we'll be back!",
+			"Join us for live DJs mixing every weekend!",
 			"Join our VRChat group or visit us on Bluesky for news on our next events."
 		]
 	},
@@ -14,7 +13,7 @@
 		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"All camera drones must be secured on a leash or they may be captured and fed to our tame protogens"
+			"Please excuse the delay in station information, we had to clean the melted Easter chocolate out of the keyboard."
 		]
 	},
 	"info": {
@@ -24,49 +23,51 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1744501500,
+		"displayStartTime": 1745624700,
 		"performers": [
 			{
-				"name": "Wolfintank",
-				"startTime": 1744502400,
+				"name": "Raff Surion",
+				"startTime": 1745625600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Juicy on twitch.tv/wolfintank and Bluesky @wolfintank.bsky.social"
+					"'Woof Woof bark Woof'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1744507800,
+				"name": "Ktzlrmz",
+				"startTime": 1745631000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Kandi at twitch.tv/djkandiwolf"
-				]
-			},
-			{
-				"name": "Lyteweeb",
-				"startTime": 1744513200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Follow Lyteweeb at youtube.com/@letwibyt"
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
 				]
 			},
 			{
 				"name": "MeOwOgai",
-				"startTime": 1744518600,
+				"startTime": 1745636400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Board now for our final DJ of the evening!",
-					"'Japhet is not a Jaffa cake'",
+					"'I'm a husky, I have paws'",
 					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
+				"name": "Japhet",
+				"startTime": 1745641800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Board now for our final DJ of the evening!",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+				]
+			},
+			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1744524000,
+				"startTime": 1745647200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -75,9 +76,9 @@
 				]
 			}
 		],
-		"closeTime": 1744524900,
+		"closeTime": 1745648100,
 		"ticker": [
-			"So many jelly beans, so little time to shove them all up your nose."
+			"Tonight's event is one night only! We're still very full of Easter Candy and moving is hard right now."
 		]
 	}
 }
