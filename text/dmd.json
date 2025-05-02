@@ -1,7 +1,7 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station!",
+		"top": "Welcome to",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Join us for live DJs mixing every weekend!",
@@ -10,10 +10,10 @@
 	},
 	"event": {
 		"top": "Welcome to the",
-		"bottom": "Bass Station!",
+		"bottom": "bASS STATION!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Please excuse the delay in station information, we had to clean the melted Easter chocolate out of the keyboard."
+			"Remember, the B is silent."
 		]
 	},
 	"info": {
@@ -23,30 +23,11 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1745624700,
+		"displayStartTime": 1746229500,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1745625600,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'Woof Woof bark Woof'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
-				]
-			},
-			{
-				"name": "Ktzlrmz",
-				"startTime": 1745631000,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
-				]
-			},
-			{
 				"name": "MeOwOgai",
-				"startTime": 1745636400,
+				"startTime": 1746230400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -55,30 +36,50 @@
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1745641800,
+				"name": "BassDemolitia",
+				"startTime": 1746235800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Board now for our final DJ of the evening!",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"Follow BassDemolitia on Twitter @RDovaus"
+				]
+			},
+			{
+				"name": "B2B - Ktzlrmz + Shadowform",
+				"startTime": 1746241200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"It's time for some multi-DJ drifting! It's a Back-2-Back!",
+					"'I like bASS'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
+				]
+			},
+			{
+				"name": "Kro",
+				"startTime": 1746246600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now boarding...",
+					"'Why don't we call it A Men Break?'",
+					"Follow Kro at https://socials.kroren.art"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1745647200,
+				"startTime": 1746252000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you next week for more music!"
+					"See you tomorrow for more music!"
 				]
 			}
 		],
-		"closeTime": 1745648100,
+		"closeTime": 1746252900,
 		"ticker": [
-			"Tonight's event is one night only! We're still very full of Easter Candy and moving is hard right now."
+			"Passengers are reminded not to hog the dry ice machines... Wait, they aren't installed yet? Oh, next Tuesday..."
 		]
 	}
 }

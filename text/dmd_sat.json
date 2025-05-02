@@ -1,7 +1,7 @@
 {
 	"welcome": {
-		"top": "Welcome to",
-		"bottom": "The Bass Station!",
+		"top": "Welcome to the",
+		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Join us for live DJs mixing every weekend!",
@@ -10,10 +10,10 @@
 	},
 	"event": {
 		"top": "Welcome to the",
-		"bottom": "Bass Station!",
+		"bottom": "bASS STATION!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"All camera drones must be secured on a leash or they may be captured and fed to our tame protogens."
+			"Remember, the B is silent."
 		]
 	},
 	"info": {
@@ -23,61 +23,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1744415100,
+		"displayStartTime": 1746315900,
 		"performers": [
 			{
 				"name": "Raff Surion",
-				"startTime": 1744416000,
+				"startTime": 1746316800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
+					"'Woof Woof bark Woof'",
 					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Monty",
-				"startTime": 1744421400,
+				"name": "Centigray",
+				"startTime": 1746322200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Today I am serving can't'",
-					"Follow Monty on Bluesky @dumbdog.gay"
-				]
-			},
-			{
-				"name": "DJ_MEGA",
-				"startTime": 1744426800,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Follow DJ_MEGA at youtube.com/@djmega888"
+					"Please give a warm welcome to a new DJ at the Station, now arriving at Platform 2!",
+					"'The nuke is coming. It's filled with Boron, Arsenic, and Sulfer (B As S)'",
+					"Follow Centigray at linktr.ee/centigray"
 				]
 			},
 			{
 				"name": "Japhet",
-				"startTime": 1744432200,
+				"startTime": 1746327600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night is now boarding...",
 					"'Remember to be the change you want to see'",
 					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
+				"name": "V[AI]RUS",
+				"startTime": 1746333000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Our final DJ of the night is now boarding!",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
+				]
+			},
+			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1744437600,
+				"startTime": 1746338400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you tomorrow for more music!"
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1744438500,
+		"closeTime": 1746339300,
 		"ticker": [
-			"So many jelly beans, so little time to shove them all up your nose."
+			"Caution, undead and fishy stench levels are predicted to rise throughout the evening as our fearless leaders' sets approach."
 		]
 	}
 }
