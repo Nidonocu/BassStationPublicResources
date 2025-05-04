@@ -1,7 +1,7 @@
 {
 	"welcome": {
-		"top": "Welcome to",
-		"bottom": "The Bass Station!",
+		"top": "Welcome to the",
+		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Join us for live DJs mixing every weekend!",
@@ -23,63 +23,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1746229500,
+		"displayStartTime": 1746315900,
 		"performers": [
 			{
-				"name": "MeOwOgai",
-				"startTime": 1746230400,
+				"name": "Raff Surion",
+				"startTime": 1746316800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'I'm a husky, I have paws'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"'Woof Woof bark Woof'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "BassDemolitia",
-				"startTime": 1746235800,
+				"name": "Centigray",
+				"startTime": 1746322200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow BassDemolitia on Twitter @RDovaus"
+					"Please give a warm welcome to a new DJ at the Station, now arriving at Platform 2!",
+					"'The nuke is coming. It's filled with Boron, Arsenic, and Sulfer (B As S)'",
+					"Follow Centigray at linktr.ee/centigray"
 				]
 			},
 			{
-				"name": "B2B - Ktzlrmz + Shadowform",
-				"startTime": 1746241200,
+				"name": "Japhet",
+				"startTime": 1746327600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"It's time for some multi-DJ drifting! It's a Back-2-Back!",
-					"'I like bASS'",
-					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
-				"name": "Kro",
-				"startTime": 1746246600,
+				"name": "V[AI]RUS",
+				"startTime": 1746333000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night is now boarding...",
-					"'Why don't we call it A Men Break?'",
-					"Follow Kro at https://socials.kroren.art"
+					"Our final DJ of the night is now boarding!",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1746252000,
+				"startTime": 1746338400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you tomorrow for more music!"
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1746252900,
+		"closeTime": 1746339300,
 		"ticker": [
-			"Passengers are reminded not to hog the dry ice machines... Wait, they aren't installed yet? Oh, next Tuesday..."
+			"Caution, undead and fishy stench levels are predicted to rise throughout the evening as our fearless leaders' sets approach."
 		]
 	}
 }

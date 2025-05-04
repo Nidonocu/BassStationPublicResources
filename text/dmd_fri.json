@@ -1,0 +1,85 @@
+{
+	"welcome": {
+		"top": "Welcome to",
+		"bottom": "The Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join us for live DJs mixing every weekend!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
+		]
+	},
+	"event": {
+		"top": "Welcome to the",
+		"bottom": "bASS STATION!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Remember, the B is silent."
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1746229500,
+		"performers": [
+			{
+				"name": "MeOwOgai",
+				"startTime": 1746230400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+				]
+			},
+			{
+				"name": "BassDemolitia",
+				"startTime": 1746235800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow BassDemolitia on Twitter @RDovaus"
+				]
+			},
+			{
+				"name": "B2B - Ktzlrmz + Shadowform",
+				"startTime": 1746241200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"It's time for some multi-DJ drifting! It's a Back-2-Back!",
+					"'I like bASS'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
+				]
+			},
+			{
+				"name": "Kro",
+				"startTime": 1746246600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now boarding...",
+					"'Why don't we call it A Men Break?'",
+					"Follow Kro at https://socials.kroren.art"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1746252000,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here.",
+					"See you tomorrow for more music!"
+				]
+			}
+		],
+		"closeTime": 1746252900,
+		"ticker": [
+			"Passengers are reminded not to hog the dry ice machines... Wait, they aren't installed yet? Oh, next Tuesday..."
+		]
+	}
+}
