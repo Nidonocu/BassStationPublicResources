@@ -13,7 +13,7 @@
 		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"For one night only!"
+			"It's getting kind of warm, so please remember to drink often to not become a desiccated husk. Look what happened to Japhet."
 		]
 	},
 	"info": {
@@ -23,50 +23,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1746839160,
+		"displayStartTime": 1747441084,
 		"performers": [
 			{
-				"name": "DJ Keppy",
-				"startTime": 1746839161,
+				"name": "MeOwOgai",
+				"startTime": 1747441234,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Keppy at https://www.twitch.tv/keppyroo"
+					"'The Cake Was Never A Lie'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1746840600,
+				"name": "Centigray",
+				"startTime": 1747445400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'The Soosh is back'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
-				]
-			},
-			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1746846000,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Follow Kandi at twitch.tv/djkandiwolf"
+					"'Fallout is expected to rise periodically once this BAsS drops.'",
+					"Follow Centigray at linktr.ee/centigray"
 				]
 			},
 			{
 				"name": "Raff Surion",
-				"startTime": 1746851400,
+				"startTime": 1747450800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Our final DJ of the night is now boarding!",
-					"'Woof Woof bark Woof'",
+					"'Someone get this yote some bacon!'",
 					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
+				"name": "PandaTron",
+				"startTime": 1747456200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Our final DJ of the night is now boarding!",
+					"'they should have car salesman at orphanages'",
+					"Follow PandaTron at mixcloud.com/panda-tron"
+				]
+			},
+			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1746856800,
+				"startTime": 1747461600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -75,9 +77,9 @@
 				]
 			}
 		],
-		"closeTime": 1746857700,
+		"closeTime": 1747462500,
 		"ticker": [
-			"Wiggle your way onboard!"
+			"One night only tonight as Vai is sleeping with the fishes! Well.. Sleeping as a fish anyway."
 		]
 	}
 }
