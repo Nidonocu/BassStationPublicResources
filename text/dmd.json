@@ -5,16 +5,15 @@
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Join us for live DJs mixing every weekend!",
-			"Join our VRChat group or visit us on Bluesky for news on our next events.",
-			"We are sorry but the ampwave that normally makes silly messages appear here is on holiday, please check our Discord or Bluesky for details of this weekend's event!"
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
 		]
 	},
 	"event": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station!",
+		"top": "Wake up! It's time for",
+		"bottom": "Club Fallback!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"It's getting kind of warm, so please remember to drink often to not become a desiccated husk. Look what happened to Japhet."
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	},
 	"info": {
@@ -24,63 +23,51 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1747441084,
+		"displayStartTime": 1749775800,
 		"performers": [
 			{
-				"name": "MeOwOgai",
-				"startTime": 1747441234,
+				"name": "Mayflower",
+				"startTime": 1749776400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'The Cake Was Never A Lie'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"Follow Mayflower at linktr.ee/mayfl0wer__"
 				]
 			},
 			{
-				"name": "Centigray",
-				"startTime": 1747445400,
+				"name": "CackleCore",
+				"startTime": 1749780000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Fallout is expected to rise periodically once this BAsS drops.'",
-					"Follow Centigray at linktr.ee/centigray"
+					"Check out our DJ's work as an instructor at twitch.tv/soaringfitness"
 				]
 			},
 			{
-				"name": "Raff Surion",
-				"startTime": 1747450800,
+				"name": "Spacegolem",
+				"startTime": 1749783600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Someone get this yote some bacon!'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
-				]
-			},
-			{
-				"name": "PandaTron",
-				"startTime": 1747456200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Our final DJ of the night is now boarding!",
-					"'they should have car salesman at orphanages'",
-					"Follow PandaTron at mixcloud.com/panda-tron"
+					"Final DJ of the night now boarding...",
+					"Check out our DJ's avatar accessories at spacegolem.gumroad.com"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1747461600,
+				"startTime": 1749787200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you next week for more music!"
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1747462500,
+		"closeTime": 1749788100,
 		"ticker": [
-			"One night only tonight as Vai is sleeping with the fishes! Well.. Sleeping as a fish anyway."
+			"Summertime trains arriving on all platforms.......",
+			"Mind the Gap!"
 		]
 	}
 }
