@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Wake up! It's time for",
-		"bottom": "Club Fallback!",
+		"top": "Wake up sleepy-heads, its",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"You've been having a very strange dream..."
 		]
 	},
 	"info": {
@@ -23,39 +23,48 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1749775800,
+		"displayStartTime": 1749859200,
 		"performers": [
 			{
-				"name": "Mayflower",
-				"startTime": 1749776400,
+				"name": "Juicy Sushi",
+				"startTime": 1749859275,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Mayflower at linktr.ee/mayfl0wer__"
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "CackleCore",
-				"startTime": 1749780000,
+				"name": "Solstice",
+				"startTime": 1749864600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Check out our DJ's work as an instructor at twitch.tv/soaringfitness"
 				]
 			},
 			{
-				"name": "Spacegolem",
-				"startTime": 1749783600,
+				"name": "Alasky",
+				"startTime": 1749870000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night now boarding...",
-					"Check out our DJ's avatar accessories at spacegolem.gumroad.com"
+					"Visit Alasky's site at www.laskar.is"
+				]
+			},
+			{
+				"name": "A.V.E.S. Protocol",
+				"startTime": 1749875400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night now boarding.",
+					"'Hold birb gentle like hamburger'",
+					"Follow Aves @dj-aves.bsky.social or @DJ_Aves_ on Twitter"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1749787200,
+				"startTime": 1749880800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -64,10 +73,9 @@
 				]
 			}
 		],
-		"closeTime": 1749788100,
+		"closeTime": 1749880800,
 		"ticker": [
-			"Summertime trains arriving on all platforms.......",
-			"Mind the Gap!"
+			"Time to wake up creatures!"
 		]
 	}
 }
