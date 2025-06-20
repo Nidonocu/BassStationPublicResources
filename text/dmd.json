@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Wake up sleepy-heads, its",
+		"top": "Two nights return of",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"You've been having a very strange dream..."
+			"It may be cold in the station, but it's hot outside! Drink some water you nitwits!"
 		]
 	},
 	"info": {
@@ -23,59 +23,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1749859200,
+		"displayStartTime": 1750463100,
 		"performers": [
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1749859275,
+				"name": "Faint",
+				"startTime": 1750464000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"'Kickin the party off right! LETS GO!'",
+					"Follow Faint on Bluesky @faultyspeakers.bsky.social"
 				]
 			},
 			{
-				"name": "Solstice",
-				"startTime": 1749864600,
+				"name": "MeOwOgai",
+				"startTime": 1750469400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
+					"'I am a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
-				"name": "Alasky",
-				"startTime": 1749870000,
+				"name": "Taiko",
+				"startTime": 1750474800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Visit Alasky's site at www.laskar.is"
+					"'Hey did you know the 3rd anniversary of the Bass Station is coming next week?'",
+					"Visit Taiko on Tiktok @taiko.nb"
 				]
 			},
 			{
-				"name": "A.V.E.S. Protocol",
-				"startTime": 1749875400,
+				"name": "Japhet",
+				"startTime": 1750480200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night now boarding.",
-					"'Hold birb gentle like hamburger'",
-					"Follow Aves @dj-aves.bsky.social or @DJ_Aves_ on Twitter"
+					"Final DJ of the night now boarding!",
+					"'Remember To Be The Change You Want To See'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1749880800,
+				"startTime": 1750485600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time!"
+					"This evening terminates here.",
+					"See you tomorrow for more music!"
 				]
 			}
 		],
-		"closeTime": 1749880800,
+		"closeTime": 1750486500,
 		"ticker": [
-			"Time to wake up creatures!"
+			"Oh yes, let's all be fluffy creatures in a heatwave, that sounds like a great idea..."
 		]
 	}
 }

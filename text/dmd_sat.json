@@ -1,0 +1,87 @@
+{
+	"welcome": {
+		"top": "Welcome to",
+		"bottom": "The Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"It's out birthday soon! Stay in the loop for celebration announcements!",
+			"Join us for live DJs mixing every weekend!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
+		]
+	},
+	"event": {
+		"top": "The Bass Station wishes you all a",
+		"bottom": "Happy Summer Solstice!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"To avoid seeing the summer sun too early, keep your headset on securely at all times!"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1750549500,
+		"performers": [
+			{
+				"name": "Lyteweeb",
+				"startTime": 1750550400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'The Empty Deck Guy Is Back In The Station. #LW'",
+					"Follow Lyteweeb at youtube.com/@letwibyt"
+				]
+			},
+			{
+				"name": "Juicy Sushi",
+				"startTime": 1750555800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Beware my arch nemesis, DryTaquito!'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+				]
+			},
+			{
+				"name": "DJ Kandi Wolf",
+				"startTime": 1750561200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Hey did you know the 3rd anniversary of the Bass Station is coming next week?'",
+					"Hey... wait a second, this is the same message as yesterday. Japhet, are you sneaking ads in to the station dis-----",
+					"Follow Kandi at twitch.tv/djkandiwolf"
+				]
+			},
+			{
+				"name": "V[AI]RUS",
+				"startTime": 1750566600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now boarding...",
+					"'All the melodies of a heavily malfunctioning Microwave Oven!'",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1750572000,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here.",
+					"See you next week for our birthday event and more live music!"
+				]
+			}
+		],
+		"closeTime": 1750572900,
+		"ticker": [
+			"Passengers are reminded to drink heavily during the event. ... Water, drink water. ... No, not heavy water, that's... I give up."
+		]
+	}
+}
