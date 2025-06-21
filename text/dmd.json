@@ -1,19 +1,20 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station!",
+		"top": "Welcome to",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
+			"It's out birthday soon! Stay in the loop for celebration announcements!",
 			"Join us for live DJs mixing every weekend!",
 			"Join our VRChat group or visit us on Bluesky for news on our next events."
 		]
 	},
 	"event": {
-		"top": "Two nights return of",
-		"bottom": "The Bass Station!",
+		"top": "The Bass Station wishes you all a",
+		"bottom": "Happy Summer Solstice!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"It may be cold in the station, but it's hot outside! Drink some water you nitwits!"
+			"To avoid seeing the summer sun too early, keep your headset on securely at all times!"
 		]
 	},
 	"info": {
@@ -23,63 +24,64 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1750463100,
+		"displayStartTime": 1750549500,
 		"performers": [
 			{
-				"name": "Faint",
-				"startTime": 1750464000,
+				"name": "Lyteweeb",
+				"startTime": 1750550400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Kickin the party off right! LETS GO!'",
-					"Follow Faint on Bluesky @faultyspeakers.bsky.social"
+					"'The Empty Deck Guy Is Back In The Station. #LW'",
+					"Follow Lyteweeb at youtube.com/@letwibyt"
 				]
 			},
 			{
-				"name": "MeOwOgai",
-				"startTime": 1750469400,
+				"name": "Juicy Sushi",
+				"startTime": 1750555800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'I am a husky, I have paws'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"'Beware my arch nemesis, DryTaquito!'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "Taiko",
-				"startTime": 1750474800,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1750561200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"'Hey did you know the 3rd anniversary of the Bass Station is coming next week?'",
-					"Visit Taiko on Tiktok @taiko.nb"
+					"Hey... wait a second, this is the same message as yesterday. Japhet, are you sneaking ads in to the station dis-----",
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1750480200,
+				"name": "V[AI]RUS",
+				"startTime": 1750566600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night now boarding!",
-					"'Remember To Be The Change You Want To See'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"Final DJ of the night is now boarding...",
+					"'All the melodies of a heavily malfunctioning Microwave Oven!'",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1750485600,
+				"startTime": 1750572000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This evening terminates here.",
-					"See you tomorrow for more music!"
+					"This event terminates here.",
+					"See you next week for our birthday event and more live music!"
 				]
 			}
 		],
-		"closeTime": 1750486500,
+		"closeTime": 1750572900,
 		"ticker": [
-			"Oh yes, let's all be fluffy creatures in a heatwave, that sounds like a great idea..."
+			"Passengers are reminded to drink heavily during the event. ... Water, drink water. ... No, not heavy water, that's... I give up."
 		]
 	}
 }

@@ -1,0 +1,85 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join us for live DJs mixing every weekend!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
+		]
+	},
+	"event": {
+		"top": "Two nights return of",
+		"bottom": "The Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"It may be cold in the station, but it's hot outside! Drink some water you nitwits!"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1750463100,
+		"performers": [
+			{
+				"name": "Faint",
+				"startTime": 1750464000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Kickin the party off right! LETS GO!'",
+					"Follow Faint on Bluesky @faultyspeakers.bsky.social"
+				]
+			},
+			{
+				"name": "MeOwOgai",
+				"startTime": 1750469400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'I am a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+				]
+			},
+			{
+				"name": "Taiko",
+				"startTime": 1750474800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Hey did you know the 3rd anniversary of the Bass Station is coming next week?'",
+					"Visit Taiko on Tiktok @taiko.nb"
+				]
+			},
+			{
+				"name": "Japhet",
+				"startTime": 1750480200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night now boarding!",
+					"'Remember To Be The Change You Want To See'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1750485600,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This evening terminates here.",
+					"See you tomorrow for more music!"
+				]
+			}
+		],
+		"closeTime": 1750486500,
+		"ticker": [
+			"Oh yes, let's all be fluffy creatures in a heatwave, that sounds like a great idea..."
+		]
+	}
+}
