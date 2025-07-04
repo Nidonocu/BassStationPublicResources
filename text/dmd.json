@@ -9,12 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Welcome to our 3rd Anniversary",
-		"bottom": "at The Bass Station!",
+		"top": "Thank you for swinging by",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join us as we celebrate three years with 12 DJs over Friday and Saturday night!",
-			"Thank you to all of you that visit and have made Bass Station your home. <3"
+			"Due to celebratory excitement, there is a reduced service on all lines. - We're just on tonight and finishing early!",
+			"Happy 4th of July to our American passengers this evening!"
 		]
 	},
 	"info": {
@@ -24,158 +24,53 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1751067000,
+		"displayStartTime": 1751672700,
 		"performers": [
 			{
-				"name": "ManicLandIzzy",
-				"startTime": 1751068800,
+				"name": "Raff Surion",
+				"startTime": 1751673600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our first DJ and special guest performer, ManicLandIzzy!",
-					"First train of the night, departing for Techno.",
-					"Follow ManicLandIzzy on Bluesky @maniclandizzy.bsky.social",
-					"Did you know? The Original Bass Station 1.0 featured OSHA approved staircases, functional bathrooms, and a swimming pool!"
+					"'Woof Woof bark Woof'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Centigray",
-				"startTime": 1751072400,
+				"name": "Kishi",
+				"startTime": 1751679000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Departing  directly downtown to Dubstep.",
-					"Follow Centigray at linktr.ee/centigray",
-					"Did you know? The Original Bass Station 1.0 had to be shut down due to radioactive spider infestations."
+					"'Bass Goat ate the bass, we're working it out'",
+					"Follow Kishi on Bluesky @kishinose.bsky.social"
 				]
 			},
 			{
-				"name": "Bass Demolitia",
-				"startTime": 1751076000,
+				"name": "Wrath",
+				"startTime": 1751684400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at House and Main Stage.",
-					"Follow BassDemolitia on Twitter @RDovaus",
-					"Bass Station Facts: The Poopergeist is real. So is the hoard of plumber ghosts. They are servants to the Dark Lord Bassethliux. You have been warned."
+					"Final DJ of the night is now departing early!",
+					"'The trajectory of the sun and the moon tells me that it's going to be a good night'",
+					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
 				]
 			},
-			{
-				"name": "Outland1shVR",
-				"startTime": 1751079600,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Stopping service to Drum and Bass",
-					"Follow them on Twitter @Outland1shVR",
-					"Bass Station Info Blast: Originally upstairs had a Joe Bob's Chicken Shack that went out of business last year. We're turning it into the Bass Shop."
-				]
-			},
-			{
-				"name": "Juicy Sushi",
-				"startTime": 1751083200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Express service to Hard Dance",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social",
-					"The Bass Station is proud to announce that it doesn't have any pest issues, as all the walls are heavily lined with Asbestos."
-				]
-			},
-			{
-				"name": "MeOwOgai",
-				"startTime": 1751086800,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final DJ of the night is now boarding for Psytrance",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai",
-					"Bass Station Service News: The Station's Intoxication station at one point offered 'Dumb Bitch Juice', 'Pilk' and if you asked, 'Liquified Anxiety' which was distilled cortisol."
-				]
-			},
-			{
-				"name": "**SERVICE SUSPENDED**",
-				"startTime": 1751090400,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Return tomorrow when the party will continue!",
-					"Please vacate the instance promptly or your avatar will be towed and crushed into a Reference Cube."
-				]
-			},
-
-			{
-				"name": "KTZLRMZ",
-				"startTime": 1751155200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Now departing from platform 2 for Hard Dance",
-					"Follow Ktzlrmz at twitch.tv/maxe_killermiez",
-					"Bass Station Safety Advisory: Ballistic Frying Pans may be seen in flight due to local undead.... well at least one of the local undead."
-				]
-			},
-			{
-				"name": "SolStar",
-				"startTime": 1751158800,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Just missed the last train? Don't worry, this one is also going to Hard Dance!",
-					"Follow SolStar at mixcloud.com/SolsticeStarlight",
-					"Did you know? The Bass Station is confirmed haunted. Multiple Ghosts, undead, and a demon reside within the club. It's okay, they're cool. :3"
-				]
-			},
-			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1751162400,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Boarding now for Happy Hardcore!",
-					"Follow Kandi at twitch.tv/djkandiwolf",
-					"Did you know? The graves upstairs do not contain anything of value, they do however contain curses. Some particularly nasty ones."
-				]
-			},
-			{
-				"name": "T1M3K33P3R",
-				"startTime": 1751166000,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Please welcome our second special guest DJ of the weekend, T1M3K33P3R!",
-					"Taking a rhythmic ride down to Dub",
-					"Follow T1M3K33P3R on Bluesky @jackdoesmusic.bsky.social",
-					"Bass Station Geopolitical Fact: The Bass Station is canonically located in London. (Even though the staff are mostly from the United States)"
-				]
-			},
-			{
-				"name": "Japhet & V[AI]RUS - B2B!",
-				"startTime": 1751169600,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Coming to us LIVE and Back 2 Back, it's our lovely hosts!",
-					"Follow them on Bluesky @japhetbeans.bsky.social and @vairus.bsky.social",
-					"Bass Station timetable update: The 2nd Anniversary for the Bass Station was actually a month late, due to scheduling conflicts! (and maybe Japhet forgot to check his calendar...)",
-					"Fact checked Bass Station facts: The April Fools update for the club included such 'updates' like: A slip n slide, 7 new parking spots, time distortions, and rotating the club 86.3 degrees."
-				]
-			},
-
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1751176800,
+				"startTime": 1751689800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This party terminates here, thank you all for celebrating with us!",
-					"See you next time for more live music!"
+					"This event terminates here due to reduced service so the staff can go watch things explode.",
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1751177700,
+		"closeTime": 1751690700,
 		"ticker": [
-			"Welcome to the Bass Station, bringing you live DJs nearly every weekend since July 2022!"
+			"Passengers celebrating this evening are requested not to set off fireworks within the station - You may have noticed there is a roof, this won't end well."
 		]
 	}
 }

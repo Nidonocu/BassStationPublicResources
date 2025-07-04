@@ -67,15 +67,15 @@
 				]
 			},
 			{
-				"name": "**TERMINATES HERE**",
-				"startTime": 1750485600,
-				"delayMins": 0,
+				"name": "**SERVICE SUSPENDED**",
+				"startTime": 1751090400,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This evening terminates here.",
-					"See you tomorrow for more music!"
+					"Return tomorrow when the party will continue!",
+					"Please vacate the instance promptly or your avatar will be towed and crushed into a Reference Cube."
 				]
-			}
+			},
 		],
 		"closeTime": 1750486500,
 		"ticker": [
