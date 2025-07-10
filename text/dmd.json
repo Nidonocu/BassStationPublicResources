@@ -1,20 +1,20 @@
 {
 	"welcome": {
-		"top": "Happy Birthday to us!",
-		"bottom": "Three years of Bass Station!",
-		"displayOnPlatformAfterMinutes": 10,
-		"ticker": [
-			"Thank you all so much for your support over the last three years, and here's to many more!",
-			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
-		]
-	},
-	"event": {
-		"top": "Thank you for swinging by",
+		"top": "Welcome to",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Due to celebratory excitement, there is a reduced service on all lines. - We're just on tonight and finishing early!",
-			"Happy 4th of July to our American passengers this evening!"
+			"Join us for live DJs mixing every weekend!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
+		]
+	},
+	"event": {
+		"top": "The forecast calls for",
+		"bottom": "Club Fallback!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Be sure to visit iWAIT's special event this Saturday! See the poster for details!"
 		]
 	},
 	"info": {
@@ -24,53 +24,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1751672700,
+		"displayStartTime": 1752193800,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1751673600,
+				"name": "AMWolf",
+				"startTime": 1752195600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Woof Woof bark Woof'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"An heritage service, direct to ElectroSwing",
+					"Follow AMWolf on Bluesky @amwolf.bsky.social"
 				]
 			},
 			{
-				"name": "Kishi",
-				"startTime": 1751679000,
+				"name": "Cherry Dawgo",
+				"startTime": 1752199200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Bass Goat ate the bass, we're working it out'",
-					"Follow Kishi on Bluesky @kishinose.bsky.social"
+					"Calling at Tech House",
+					"Follow Cherry Dawgo at linktr.ee/cherrydawgo137"
 				]
 			},
 			{
-				"name": "Wrath",
-				"startTime": 1751684400,
+				"name": "Whitty",
+				"startTime": 1752202800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night is now departing early!",
-					"'The trajectory of the sun and the moon tells me that it's going to be a good night'",
-					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+					"Our final DJ of the night, board now for Melodic Bass",
+					"Follow Whitty at mixcloud.com/WhittyCat"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1751689800,
+				"startTime": 1752206400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here due to reduced service so the staff can go watch things explode.",
-					"See you next week for more music!"
+					"This event terminates here.",
+					"See you all next time!"
 				]
 			}
 		],
-		"closeTime": 1751690700,
+		"closeTime": 1752207300,
 		"ticker": [
-			"Passengers celebrating this evening are requested not to set off fireworks within the station - You may have noticed there is a roof, this won't end well."
+			"In the event of melting DJs, please apply more ice emoji!"
 		]
 	}
 }

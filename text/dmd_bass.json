@@ -1,0 +1,76 @@
+{
+	"welcome": {
+		"top": "Happy Birthday to us!",
+		"bottom": "Three years of Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Thank you all so much for your support over the last three years, and here's to many more!",
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
+		]
+	},
+	"event": {
+		"top": "Thank you for swinging by",
+		"bottom": "The Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Due to celebratory excitement, there is a reduced service on all lines. - We're just on tonight and finishing early!",
+			"Happy 4th of July to our American passengers this evening!"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1751672700,
+		"performers": [
+			{
+				"name": "Raff Surion",
+				"startTime": 1751673600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Woof Woof bark Woof'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
+				]
+			},
+			{
+				"name": "Kishi",
+				"startTime": 1751679000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Bass Goat ate the bass, we're working it out'",
+					"Follow Kishi on Bluesky @kishinose.bsky.social"
+				]
+			},
+			{
+				"name": "Wrath",
+				"startTime": 1751684400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now departing early!",
+					"'The trajectory of the sun and the moon tells me that it's going to be a good night'",
+					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1751689800,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here due to reduced service so the staff can go watch things explode.",
+					"See you next week for more music!"
+				]
+			}
+		],
+		"closeTime": 1751690700,
+		"ticker": [
+			"Passengers celebrating this evening are requested not to set off fireworks within the station - You may have noticed there is a roof, this won't end well."
+		]
+	}
+}
