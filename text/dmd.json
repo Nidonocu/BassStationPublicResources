@@ -1,20 +1,20 @@
 {
 	"welcome": {
-		"top": "Welcome to",
-		"bottom": "The Bass Station!",
+		"top": "Happy Birthday to us!",
+		"bottom": "Three years of Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join us for live DJs mixing every weekend!",
-			"Join our VRChat group or visit us on Bluesky for news on our next events."
+			"Thank you all so much for your support over the last three years, and here's to many more!",
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	},
 	"event": {
-		"top": "The forecast calls for",
-		"bottom": "Club Fallback!",
+		"top": "Hide underground till its cool",
+		"bottom": "at The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"Be sure to visit iWAIT's special event this Saturday! See the poster for details!"
+			"Tomorrow's service is not running because the trains have all melted, as have the staff.",
+			"Please instead checkout our friends at i.W.A.I.T. for their special event tomorrow evening! See the poster for details!"
 		]
 	},
 	"info": {
@@ -24,52 +24,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1752193800,
+		"displayStartTime": 1752277500,
 		"performers": [
 			{
-				"name": "AMWolf",
-				"startTime": 1752195600,
+				"name": "Raff Surion",
+				"startTime": 1752278400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"An heritage service, direct to ElectroSwing",
-					"Follow AMWolf on Bluesky @amwolf.bsky.social"
+					"'Woof Woof bark Woof'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Cherry Dawgo",
-				"startTime": 1752199200,
+				"name": "Juicy Sushi",
+				"startTime": 1752283800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at Tech House",
-					"Follow Cherry Dawgo at linktr.ee/cherrydawgo137"
+					"'time for the shork to get a bit trancy'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "Whitty",
-				"startTime": 1752202800,
+				"name": "Wrath",
+				"startTime": 1752289200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Our final DJ of the night, board now for Melodic Bass",
-					"Follow Whitty at mixcloud.com/WhittyCat"
+					"'Did you finish your meat dragon Carl?'",
+					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+				]
+			},
+			{
+				"name": "dingoyabuki",
+				"startTime": 1752294600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome our newest DJ and final performance tonight, dingoyabuki!",
+					"'90s rave!'",
+					"Follow dingoyabuki on Bluesky @dingoyabuki.bsky.social and Twitter @dingoyabuki"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1752206400,
+				"startTime": 1752300000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you all next time!"
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1752207300,
+		"closeTime": 1752300900,
 		"ticker": [
-			"In the event of melting DJs, please apply more ice emoji!"
+			"Passengers are reminded to consume lots of water frequently throughout the evening, but also to remember that this station has no working toilets. We're nothing if not cruel."
 		]
 	}
 }
