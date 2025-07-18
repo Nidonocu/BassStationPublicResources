@@ -9,12 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Hide underground till its cool",
+		"top": "Something special",
 		"bottom": "at The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Tomorrow's service is not running because the trains have all melted, as have the staff.",
-			"Please instead checkout our friends at i.W.A.I.T. for their special event tomorrow evening! See the poster for details!"
+			"Do not adjust your headset, this is normal, everything is normal."
 		]
 	},
 	"info": {
@@ -24,31 +23,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1752277500,
+		"displayStartTime": 1752882300,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1752278400,
+				"name": "MeOwOgai",
+				"startTime": 1752883200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Woof Woof bark Woof'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1752283800,
+				"name": "DJ_MEGA",
+				"startTime": 1752888600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'time for the shork to get a bit trancy'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"'now it's time for those who understand to understand'",
+					"Follow DJ_MEGA at youtube.com/@djmega888"
 				]
 			},
+			{
+				"name": "EMBER",
+				"startTime": 1752894000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Shake that shit!'",
+					"Follow EMBER on Bluesky @emberphoenix.bsky.social"
+				]
+			},
+			{
+				"name": "The White Crayon B2B xChillPhill",
+				"startTime": 1752899400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJs of the night now boarding with a Back-to-Back!",
+					"Follow White at linktr.ee/thewhitecrayon and xChillPhill at soundcloud.com/xChillphil"
+				]
+			},
+
+			{
+				"name": "**SERVICE SUSPENDED**",
+				"startTime": 1752904800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Return tomorrow when the party will continue!",
+					"Please vacate the instance promptly or your avatar will be towed and crushed into a Reference Cube."
+				]
+			},
+
 			{
 				"name": "Wrath",
-				"startTime": 1752289200,
+				"startTime": 1752969600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -57,19 +88,40 @@
 				]
 			},
 			{
-				"name": "dingoyabuki",
-				"startTime": 1752294600,
+				"name": "A.V.E.S. Protocol",
+				"startTime": 1752975000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our newest DJ and final performance tonight, dingoyabuki!",
-					"'90s rave!'",
-					"Follow dingoyabuki on Bluesky @dingoyabuki.bsky.social and Twitter @dingoyabuki"
+					"'AaAaAaAaAa'",
+					"Follow Aves @dj-aves.bsky.social or @DJ_Aves_ on Twitter"
 				]
 			},
 			{
+				"name": "DJ Kandi Wolf",
+				"startTime": 1752980400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Damn it my decks melted again'",
+					"Follow Kandi at twitch.tv/djkandiwolf"
+				]
+			},
+			{
+				"name": "V[AI]RUS",
+				"startTime": 1752985800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night now boarding...",
+					"'screams in 56kb'",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
+				]
+			},
+
+			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1752300000,
+				"startTime": 1752991200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -78,9 +130,9 @@
 				]
 			}
 		],
-		"closeTime": 1752300900,
+		"closeTime": 1752992100,
 		"ticker": [
-			"Passengers are reminded to consume lots of water frequently throughout the evening, but also to remember that this station has no working toilets. We're nothing if not cruel."
+			"You may experience unexpected location displacement this weekend. Do not panic. This is normal, and all part of the test."
 		]
 	}
 }
