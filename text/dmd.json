@@ -1,19 +1,19 @@
 {
 	"welcome": {
-		"top": "Happy Birthday to us!",
-		"bottom": "Three years of Bass Station!",
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Thank you all so much for your support over the last three years, and here's to many more!",
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	},
 	"event": {
-		"top": "Summer time tunes",
-		"bottom": "at The Bass Station!",
+		"top": "Happy Birthday to our demon",
+		"bottom": "JAPHET!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Thank you everyone who visited our test event last week! Hopefully we'll have more to show you soon!"
+			"Please wish our lovely undead DJ many happy returns. He doesn't look a day past 347.",
+			"Travel Alert: This week's event is Friday only!"
 		]
 	},
 	"info": {
@@ -23,105 +23,54 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1753487099,
+		"displayStartTime": 1754091900,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1753488023,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'Woof Woof bark Woof'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
-				]
-			},
-			{
-				"name": "Liquid Bass",
-				"startTime": 1753493400,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'LIQUID BASS // CLUB TOUR 2025'",
-					"Follow Liquid at https://linktr.ee/djliquidbass"
-				]
-			},
-			{
-				"name": "E_meow",
-				"startTime": 1753498800,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Follow E_meow on Bluesky @e-meow.bsky.social and https://emeow.bandcamp.com"
-				]
-			},
-			{
-				"name": "Kishi",
-				"startTime": 1753504200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final DJ of the night now boarding...",
-					"'REMEMBER! The goat goes BAAAAAAAA!'",
-					"Follow Kishi on Bluesky @kishinose.bsky.social"
-				]
-			},
-
-			{
-				"name": "**SERVICE SUSPENDED**",
-				"startTime": 1753509600,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Return tomorrow when the party will continue!",
-					"Please vacate the instance promptly or your avatar will be towed and crushed into a Reference Cube."
-				]
-			},
-
-			{
-				"name": "KTZLRMZ",
-				"startTime": 1753574400,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'Rindfleischetikettierungsuberwachungsaufgabenubertragungsgesetz'",
-					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
-				]
-			},
-			{
 				"name": "Juicy Sushi",
-				"startTime": 1753579800,
+				"startTime": 1754092800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Its shark week time for a frenzy!!'",
 					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "Solstice",
-				"startTime": 1753585200,
+				"name": "KTZLRMZ + Centigray",
+				"startTime": 1754098200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Birds can't be real, can they?!'",
-					"Follow Solstice at twitch.tv/solsticesonata"
+					"Now arriving with a Back to Back service!",
+					"'2 guys, one deck'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez",
+					"Follow Centigray at linktr.ee/centigray"
 				]
 			},
 			{
 				"name": "Japhet",
-				"startTime": 1753590600,
+				"startTime": 1754103600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Remember to be the change you want to see'",
+					"Please wish our favourite Bass Demon a Happy Birthday!",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+				]
+			},
+			{
+				"name": "PandaTron",
+				"startTime": 1754109000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now boarding...",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"'bim bam boom bop bam type of shit I completely understand'",
+					"Follow PandaTron at mixcloud.com/panda-tron"
 				]
 			},
-
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1753596000,
+				"startTime": 1754114400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -130,9 +79,9 @@
 				]
 			}
 		],
-		"closeTime": 1753596900,
+		"closeTime": 1754115300,
 		"ticker": [
-			"We're back downstairs again, mind the gap!"
+			"Please consume all birthday cake before boarding your train to prevent other passengers from asking to share."
 		]
 	}
 }
