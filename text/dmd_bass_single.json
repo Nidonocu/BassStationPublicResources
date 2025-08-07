@@ -1,0 +1,87 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
+		]
+	},
+	"event": {
+		"top": "Happy Birthday to our demon",
+		"bottom": "JAPHET!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Please wish our lovely undead DJ many happy returns. He doesn't look a day past 347.",
+			"Travel Alert: This week's event is Friday only!"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1754091900,
+		"performers": [
+			{
+				"name": "Juicy Sushi",
+				"startTime": 1754092800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+				]
+			},
+			{
+				"name": "KTZLRMZ + Centigray",
+				"startTime": 1754098200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Now arriving with a Back to Back service!",
+					"'2 guys, one deck'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez",
+					"Follow Centigray at linktr.ee/centigray"
+				]
+			},
+			{
+				"name": "Japhet",
+				"startTime": 1754103600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Remember to be the change you want to see'",
+					"Please wish our favourite Bass Demon a Happy Birthday!",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+				]
+			},
+			{
+				"name": "PandaTron",
+				"startTime": 1754109000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night now boarding...",
+					"'bim bam boom bop bam type of shit I completely understand'",
+					"Follow PandaTron at mixcloud.com/panda-tron"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1754114400,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here.",
+					"See you next week for more music!"
+				]
+			}
+		],
+		"closeTime": 1754115300,
+		"ticker": [
+			"Please consume all birthday cake before boarding your train to prevent other passengers from asking to share."
+		]
+	}
+}

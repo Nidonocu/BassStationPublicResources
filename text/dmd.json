@@ -1,19 +1,20 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station",
+		"top": "Welcome to",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
+			"Join us for live DJs mixing every weekend!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
 		]
 	},
 	"event": {
-		"top": "Happy Birthday to our demon",
-		"bottom": "JAPHET!",
+		"top": "CLUB FALLBACK:",
+		"bottom": "HEAT DAMAGE EDITION",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Please wish our lovely undead DJ many happy returns. He doesn't look a day past 347.",
-			"Travel Alert: This week's event is Friday only!"
+			"The lineup is here - and it's got more heat than your neighbor's broken AC unit!",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	},
 	"info": {
@@ -23,65 +24,53 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1754091900,
+		"displayStartTime": 1754613000,
 		"performers": [
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1754092800,
+				"name": "OyeM8",
+				"startTime": 1754614800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"A Multigenre service stopping at all stations",
+					"Follow OyeM8 at mixcloud.com/ImaGunnerVII"
 				]
 			},
 			{
-				"name": "KTZLRMZ + Centigray",
-				"startTime": 1754098200,
+				"name": "DJ Meowtastic",
+				"startTime": 1754618400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Now arriving with a Back to Back service!",
-					"'2 guys, one deck'",
-					"Follow Ktzlrmz at twitch.tv/maxe_killermiez",
-					"Follow Centigray at linktr.ee/centigray"
+					"Calling at Dubstep & Trap",
+					"Follow Meowtastic at linktr.ee/djmeowtastic"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1754103600,
+				"name": "MeOwOgai",
+				"startTime": 1754622000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Remember to be the change you want to see'",
-					"Please wish our favourite Bass Demon a Happy Birthday!",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
-				]
-			},
-			{
-				"name": "PandaTron",
-				"startTime": 1754109000,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final DJ of the night now boarding...",
-					"'bim bam boom bop bam type of shit I completely understand'",
-					"Follow PandaTron at mixcloud.com/panda-tron"
+					"Our final DJ of the night, board now for Goa Trance",
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1754114400,
+				"startTime": 1754625600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you next week for more music!"
+					"See you all next time!"
 				]
 			}
 		],
-		"closeTime": 1754115300,
+		"closeTime": 1754626500,
 		"ticker": [
-			"Please consume all birthday cake before boarding your train to prevent other passengers from asking to share."
+			""
 		]
 	}
 }
