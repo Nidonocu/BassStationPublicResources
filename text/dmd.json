@@ -1,20 +1,19 @@
 {
 	"welcome": {
-		"top": "Welcome to",
-		"bottom": "The Bass Station!",
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join us for live DJs mixing every weekend!",
-			"Join our VRChat group or visit us on Bluesky for news on our next events."
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	},
 	"event": {
-		"top": "CLUB FALLBACK:",
-		"bottom": "HEAT DAMAGE EDITION",
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"The lineup is here - and it's got more heat than your neighbor's broken AC unit!",
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Please wish our lovely undead DJ many happy returns. He doesn't look a day past 347.",
+			"Travel Alert: This week's event is Friday only!"
 		]
 	},
 	"info": {
@@ -24,53 +23,61 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1754613000,
+		"displayStartTime": 1754697417,
 		"performers": [
 			{
-				"name": "OyeM8",
-				"startTime": 1754614800,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"A Multigenre service stopping at all stations",
-					"Follow OyeM8 at mixcloud.com/ImaGunnerVII"
-				]
-			},
-			{
-				"name": "DJ Meowtastic",
-				"startTime": 1754618400,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Calling at Dubstep & Trap",
-					"Follow Meowtastic at linktr.ee/djmeowtastic"
-				]
-			},
-			{
 				"name": "MeOwOgai",
-				"startTime": 1754622000,
+				"startTime": 1754697600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Our final DJ of the night, board now for Goa Trance",
 					"'I'm a husky, I have paws'",
 					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
+				"name": "Centigray",
+				"startTime": 1754703000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Bippity Boppity Boo, you gonna get bass slapped too.'",
+					"Follow Centigray at linktr.ee/centigray"
+				]
+			},
+			{
+				"name": "ZARDON",
+				"startTime": 1754708400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'How do I bass?'"
+				]
+			},
+			{
+				"name": "PandaTron",
+				"startTime": 1754713800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night now boarding...",
+					"Follow PandaTron at mixcloud.com/panda-tron"
+				]
+			},
+			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1754625600,
+				"startTime": 1754719200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This event terminates here.",
-					"See you all next time!"
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1754626500,
+		"closeTime": 1754720100,
 		"ticker": [
-			""
+			"Please do not chew on the station staff, they will bite you back."
 		]
 	}
 }

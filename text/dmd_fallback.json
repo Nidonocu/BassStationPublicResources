@@ -1,0 +1,76 @@
+{
+	"welcome": {
+		"top": "Welcome to",
+		"bottom": "The Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join us for live DJs mixing every weekend!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
+		]
+	},
+	"event": {
+		"top": "CLUB FALLBACK:",
+		"bottom": "HEAT DAMAGE EDITION",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"The lineup is here - and it's got more heat than your neighbor's broken AC unit!",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1754613000,
+		"performers": [
+			{
+				"name": "OyeM8",
+				"startTime": 1754614800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"A Multigenre service stopping at all stations",
+					"Follow OyeM8 at mixcloud.com/ImaGunnerVII"
+				]
+			},
+			{
+				"name": "DJ Meowtastic",
+				"startTime": 1754618400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Calling at Dubstep & Trap",
+					"Follow Meowtastic at linktr.ee/djmeowtastic"
+				]
+			},
+			{
+				"name": "MeOwOgai",
+				"startTime": 1754622000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Our final DJ of the night, board now for Goa Trance",
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1754625600,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here.",
+					"See you all next time!"
+				]
+			}
+		],
+		"closeTime": 1754626500,
+		"ticker": [
+			""
+		]
+	}
+}
