@@ -12,8 +12,8 @@
 		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Please wish our lovely undead DJ many happy returns. He doesn't look a day past 347.",
-			"Travel Alert: This week's event is Friday only!"
+			"Travel Alert: This week's event is Friday only!",
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	},
 	"info": {
@@ -23,50 +23,51 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1754697417,
+		"displayStartTime": 1755301500,
 		"performers": [
 			{
-				"name": "MeOwOgai",
-				"startTime": 1754697600,
+				"name": "KTZLRMZ",
+				"startTime": 1755302400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'I'm a husky, I have paws'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"'It's called CANnabis, not CAN'Tabis.'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
 				]
 			},
 			{
-				"name": "Centigray",
-				"startTime": 1754703000,
+				"name": "A.V.E.S. Protocol",
+				"startTime": 1755307800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Bippity Boppity Boo, you gonna get bass slapped too.'",
-					"Follow Centigray at linktr.ee/centigray"
+					"'AaAaAaAaAa'",
+					"Follow Aves @dj-aves.bsky.social"
 				]
 			},
 			{
-				"name": "ZARDON",
-				"startTime": 1754708400,
+				"name": "DJ_MEGA",
+				"startTime": 1755313200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'How do I bass?'"
+					"Follow DJ_MEGA at youtube.com/@djmega888"
 				]
 			},
 			{
-				"name": "PandaTron",
-				"startTime": 1754713800,
+				"name": "Japhet",
+				"startTime": 1755318600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now boarding...",
-					"Follow PandaTron at mixcloud.com/panda-tron"
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1754719200,
+				"startTime": 1755324000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -75,9 +76,9 @@
 				]
 			}
 		],
-		"closeTime": 1754720100,
+		"closeTime": 1755324900,
 		"ticker": [
-			"Please do not chew on the station staff, they will bite you back."
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	}
 }
