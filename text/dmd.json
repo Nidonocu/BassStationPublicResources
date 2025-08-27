@@ -1,10 +1,11 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station",
+		"top": "See Poster for More Information",
+		"bottom": "Station Closed",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
+			"No event this weekend, join us with our friends at INTERLOPR this weekend instead! See the poster board for more details.",
+			"Join the new Bass Station group! https://vrc.group/BASS.2844"
 		]
 	},
 	"event": {
