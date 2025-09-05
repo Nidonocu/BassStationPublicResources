@@ -1,16 +1,15 @@
 {
 	"welcome": {
-		"top": "See Poster for More Information",
-		"bottom": "Station Closed",
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"No event this weekend, join us with our friends at INTERLOPR this weekend instead! See the poster board for more details.",
 			"Join the new Bass Station group! https://vrc.group/BASS.2844"
 		]
 	},
 	"event": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station",
+		"top": "It's cooling down at",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Follow us on Bluesky @bassstationvr.bsky.social",
@@ -24,51 +23,50 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1755906300,
+		"displayStartTime": 1757115900,
 		"performers": [
 			{
-				"name": "E_meow",
-				"startTime": 1755907200,
+				"name": "Wrath",
+				"startTime": 1757116800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow E_meow on Bluesky @e-meow.bsky.social or at emeow.bandcamp.com"
+					"'You must finish your work, Carl!'",
+					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
 				]
 			},
 			{
-				"name": "Raff Surion",
-				"startTime": 1755912600,
+				"name": "Faint",
+				"startTime": 1757122200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'There's no breaks on this train... wait?",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"Follow Faint on Bluesky @faultyspeakers.bsky.social"
 				]
 			},
 			{
-				"name": "Centigray",
-				"startTime": 1755918000,
+				"name": "DJ_MEGA",
+				"startTime": 1757127600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Welp, I got rear ended by Raff, and I'm still surprisingly here.'",
-					"Follow Centigray at linktr.ee/centigray"
+					"Follow DJ_MEGA at youtube.com/@djmega888"
 				]
 			},
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1755923400,
+				"name": "Kishi",
+				"startTime": 1757133000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now boarding...",
-					"'Fish Fry Friday.  Im hungry for some techno.'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"'We're currently extracting from the Bass Goat, just be patient.'",
+					"Follow Kishi on Bluesky @kishinose.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1755928800,
+				"startTime": 1757138400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -77,7 +75,7 @@
 				]
 			}
 		],
-		"closeTime": 1755929700,
+		"closeTime": 1757139300,
 		"ticker": [
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
