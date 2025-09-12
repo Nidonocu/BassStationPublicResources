@@ -23,50 +23,51 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1757115900,
+		"displayStartTime": 1757720700,
 		"performers": [
 			{
-				"name": "Wrath",
-				"startTime": 1757116800,
+				"name": "Raff Surion",
+				"startTime": 1757721600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'You must finish your work, Carl!'",
-					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Faint",
-				"startTime": 1757122200,
+				"name": "Juicy Sushi",
+				"startTime": 1757727000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Faint on Bluesky @faultyspeakers.bsky.social"
+					"'Sushi wants to test something'",
+					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
 				]
 			},
 			{
-				"name": "DJ_MEGA",
-				"startTime": 1757127600,
+				"name": "Centigray",
+				"startTime": 1757732400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow DJ_MEGA at youtube.com/@djmega888"
+					"'Gawd damn, my Lieutenant at work is a baddie.'",
+					"Follow Centigray at linktr.ee/centigray"
 				]
 			},
 			{
-				"name": "Kishi",
-				"startTime": 1757133000,
+				"name": "Japhet",
+				"startTime": 1757737800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now boarding...",
-					"'We're currently extracting from the Bass Goat, just be patient.'",
-					"Follow Kishi on Bluesky @kishinose.bsky.social"
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1757138400,
+				"startTime": 1757743200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -75,7 +76,7 @@
 				]
 			}
 		],
-		"closeTime": 1757139300,
+		"closeTime": 1757744100,
 		"ticker": [
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
