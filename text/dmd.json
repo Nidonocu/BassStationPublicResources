@@ -8,8 +8,8 @@
 		]
 	},
 	"event": {
-		"top": "It's cooling down at",
-		"bottom": "The Bass Station!",
+		"top": "Hi! You're at the",
+		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Follow us on Bluesky @bassstationvr.bsky.social",
@@ -23,51 +23,53 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1757720700,
+		"displayStartTime": 1758930300,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1757721600,
+				"name": "MeOwOgai",
+				"startTime": 1758931200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"Calling at: Goa Trance",
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1757727000,
+				"name": "Overclock",
+				"startTime": 1758936600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Sushi wants to test something'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
+					"'electric boogaloo or something'",
+					"Follow Overlock at @overclockampwave.bsky.social on Bluesky and youtube.com/@JcoolTheShipBuilder"
 				]
 			},
 			{
-				"name": "Centigray",
-				"startTime": 1757732400,
+				"name": "Wrath",
+				"startTime": 1758942000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Gawd damn, my Lieutenant at work is a baddie.'",
-					"Follow Centigray at linktr.ee/centigray"
+					"'Probably because I'm a dangerous sociopath with a long history of violence.'",
+					"Follow Wrath at https://www.youtube.com/@DJ_Wrath46"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1757737800,
+				"name": "V[AI]RUS",
+				"startTime": 1758947400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now boarding...",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					":v",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1757743200,
+				"startTime": 1758952800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -76,7 +78,7 @@
 				]
 			}
 		],
-		"closeTime": 1757744100,
+		"closeTime": 1758953400,
 		"ticker": [
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
