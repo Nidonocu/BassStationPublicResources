@@ -1,19 +1,20 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station",
-		"displayOnPlatformAfterMinutes": 10,
-		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844"
-		]
-	},
-	"event": {
-		"top": "Spoopy is now approaching",
+		"top": "Welcome to",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Please bare with us while we locate the ghosts, your haunting is very important to us.",
-			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
+			"Join us for live DJs mixing every weekend!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
+		]
+	},
+	"event": {
+		"top": "CLUB FALLBACK:",
+		"bottom": "RAVE FROM THE GRAVE",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"One night only. One haunted venue. All spine-rattling sound.",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	},
 	"info": {
@@ -23,63 +24,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1759535100,
+		"displayStartTime": 1760056200,
 		"performers": [
 			{
-				"name": "Mirrez",
-				"startTime": 1759536000,
+				"name": "Dua",
+				"startTime": 1760058000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'It's demon time.'",
-					"Follow Mirrez at twitch.tv/itsmirrez"
+					"A dearly departed train for Twitch and Psytrance",
+					"Follow Dua on Bluesky @duayinepu.bsky.social"
 				]
 			},
 			{
-				"name": "Overclock",
-				"startTime": 1759541400,
+				"name": "The White Crayon",
+				"startTime": 1760061600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Do I hear boss music?'",
-					"Follow Overlock at @overclockampwave.bsky.social on Bluesky and youtube.com/@JcoolTheShipBuilder"
+					"A haunted service for Industial Rawstyle and Hardcore",
+					"Follow TWC at linktr.ee/thewhitecrayon"
 				]
 			},
 			{
-				"name": "Centigray",
-				"startTime": 1759546800,
+				"name": "NightshadeLenar",
+				"startTime": 1760065200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Fallout is imminent. Bass is near. Stay outdoors or seek shelter if you are a pussy.'",
-					"Follow Centigray at linktr.ee/centigray"
-				]
-			},
-			{
-				"name": "Kishi",
-				"startTime": 1759552200,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final DJ of the night now boarding...",
-					"'Bass Goat charging, please give all the treats.'",
-					"Follow Kishi on Bluesky @kishinose.bsky.social"
+					"Your final destination tonight: Modular Techno",
+					"Follow NightshadeLenar at twitch.tv/nightshadelenar and @nightshadelenar on Twitter"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1759557600,
+				"startTime": 1760068800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next week for more music!"
+					"Good night out there, whatever you are~",
+					"This event terminates here."
 				]
 			}
 		],
-		"closeTime": 1759558200,
+		"closeTime": 1760069400,
 		"ticker": [
-			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
+			"Haunt the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	}
 }
