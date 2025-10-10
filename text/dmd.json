@@ -1,20 +1,19 @@
 {
 	"welcome": {
-		"top": "Welcome to",
-		"bottom": "The Bass Station!",
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join us for live DJs mixing every weekend!",
-			"Join our VRChat group or visit us on Bluesky for news on our next events."
+			"Join the new Bass Station group! https://vrc.group/BASS.2844"
 		]
 	},
 	"event": {
-		"top": "CLUB FALLBACK:",
-		"bottom": "RAVE FROM THE GRAVE",
+		"top": "Eeepy? No! Creepy!",
+		"bottom": "It's the Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"One night only. One haunted venue. All spine-rattling sound.",
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Please bare with us while we locate the ghosts, your haunting is very important to us.",
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	},
 	"info": {
@@ -24,52 +23,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1760056200,
+		"displayStartTime": 1760139900,
 		"performers": [
 			{
-				"name": "Dua",
-				"startTime": 1760058000,
+				"name": "cdelansig",
+				"startTime": 1760140800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"A dearly departed train for Twitch and Psytrance",
-					"Follow Dua on Bluesky @duayinepu.bsky.social"
+					"'hell yeah'",
+					"Follow cdelansig at twitch.tv/cdelansig and youtube.com/@cdelansigoffline"
+				]
+			},
+			{
+				"name": "chr7stophur",
+				"startTime": 1760146200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Say boo! to our first new DJ of the night!",
+					"'Savages, Monsters, and all thing's Scary and Nice. Dubstep.'",
+					"Follow chr7stophur on Instagram @krystofur_ or Soundcloud, search 'Krys Kannibal'"
 				]
 			},
 			{
 				"name": "The White Crayon",
-				"startTime": 1760061600,
+				"startTime": 1760151600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"A haunted service for Industial Rawstyle and Hardcore",
+					"Please welcome another new Bass Station event DJ arriving at platform 2, having been scoping the place out at Fallback last night!",
 					"Follow TWC at linktr.ee/thewhitecrayon"
 				]
 			},
 			{
-				"name": "NightshadeLenar",
-				"startTime": 1760065200,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1760157000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Your final destination tonight: Modular Techno",
-					"Follow NightshadeLenar at twitch.tv/nightshadelenar and @nightshadelenar on Twitter"
+					"Final DJ of the night now haunting...",
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1760068800,
+				"startTime": 1760162400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Good night out there, whatever you are~",
-					"This event terminates here."
+					"This event terminates here. Good night out there, whatever you are~",
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1760069400,
+		"closeTime": 1760163000,
 		"ticker": [
-			"Haunt the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	}
 }

@@ -1,0 +1,75 @@
+{
+	"welcome": {
+		"top": "Welcome to",
+		"bottom": "The Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join us for live DJs mixing every weekend!",
+			"Join our VRChat group or visit us on Bluesky for news on our next events."
+		]
+	},
+	"event": {
+		"top": "CLUB FALLBACK:",
+		"bottom": "RAVE FROM THE GRAVE",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"One night only. One haunted venue. All spine-rattling sound.",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1760056200,
+		"performers": [
+			{
+				"name": "Dua",
+				"startTime": 1760058000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"A dearly departed train for Twitch and Psytrance",
+					"Follow Dua on Bluesky @duayinepu.bsky.social"
+				]
+			},
+			{
+				"name": "The White Crayon",
+				"startTime": 1760061600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"A haunted service for Industial Rawstyle and Hardcore",
+					"Follow TWC at linktr.ee/thewhitecrayon"
+				]
+			},
+			{
+				"name": "NightshadeLenar",
+				"startTime": 1760065200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Your final destination tonight: Modular Techno",
+					"Follow NightshadeLenar at twitch.tv/nightshadelenar and @nightshadelenar on Twitter"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1760068800,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Good night out there, whatever you are~",
+					"This event terminates here."
+				]
+			}
+		],
+		"closeTime": 1760069400,
+		"ticker": [
+			"Haunt the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+		]
+	}
+}
