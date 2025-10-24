@@ -8,11 +8,11 @@
 		]
 	},
 	"event": {
-		"top": "Eeepy? No! Creepy!",
-		"bottom": "It's the Bass Station!",
+		"top": "Horrifically Delightful tunes",
+		"bottom": "at the Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Please bare with us while we locate the ghosts, your haunting is very important to us.",
+			"The ghosts have been located and are due to arrive within the next six to ten business days.",
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	},
@@ -23,52 +23,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1760139900,
+		"displayStartTime": 1761326309,
 		"performers": [
 			{
-				"name": "cdelansig",
-				"startTime": 1760140800,
+				"name": "KTZLRMZ",
+				"startTime": 1761350400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'hell yeah'",
-					"Follow cdelansig at twitch.tv/cdelansig and youtube.com/@cdelansigoffline"
+					"'i have no idea what i'm doing'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
 				]
 			},
 			{
-				"name": "chr7stophur",
-				"startTime": 1760146200,
+				"name": "Centigray",
+				"startTime": 1761355800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Say boo! to our first new DJ of the night!",
-					"'Savages, Monsters, and all thing's Scary and Nice. Dubstep.'",
-					"Follow chr7stophur on Instagram @krystofur_ or Soundcloud, search 'Krys Kannibal'"
+					"'Erbody in da Club out on Spotify!!!'",
+					"Follow Centigray at linktr.ee/centigray"
 				]
 			},
 			{
-				"name": "The White Crayon",
-				"startTime": 1760151600,
+				"name": "Solstice",
+				"startTime": 1761361200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome another new Bass Station event DJ arriving at platform 2, having been scoping the place out at Fallback last night!",
-					"Follow TWC at linktr.ee/thewhitecrayon"
+					"'Birds may not be real, but bass is.'",
+					"Follow Solstice at twitch.tv/solsticesonata"
 				]
 			},
 			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1760157000,
+				"name": "Japhet",
+				"startTime": 1761366600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night now haunting...",
-					"Follow Kandi at twitch.tv/djkandiwolf"
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1760162400,
+				"startTime": 1761372000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -77,7 +77,7 @@
 				]
 			}
 		],
-		"closeTime": 1760163000,
+		"closeTime": 1761372600,
 		"ticker": [
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
