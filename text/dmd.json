@@ -36,36 +36,26 @@
 				]
 			},
 			{
-				"name": "Beeb",
-				"startTime": 1762484400,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Calling at all stations for Multigenre",
-					"Follow Beeb on Bluesky @beeb.club"
-				]
-			},
-			{
 				"name": "ConductedMoon",
-				"startTime": 1762488000,
+				"startTime": 1762485600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
+					"Due to leaves on the line, the next DJ is here early!",
 					"Final train now departing for Hardstyle, Frenchcore and Hardcore"
 				]
 			},
 			{
-				"name": "**TERMINATES HERE**",
-				"startTime": 1762491600,
+				"name": "DJ Replacement Service",
+				"startTime": 1762489200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"See you all next time!",
-					"This event terminates here."
+					"Host's choice music!"
 				]
 			}
 		],
-		"closeTime": 1762492200,
+		"closeTime": 1762489800,
 		"ticker": [
 			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
