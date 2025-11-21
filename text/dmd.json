@@ -8,11 +8,10 @@
 		]
 	},
 	"event": {
-		"top": "Oh no, not again, it's",
+		"top": "5 for the price of 4 at",
 		"bottom": "the Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"If anything is on fire, don't worry, they just let Nidonocu turn things on this evening.",
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	},
@@ -23,41 +22,42 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1762562700,
+		"displayStartTime": 1763772300,
 		"performers": [
 			{
-				"name": "ttofu",
-				"startTime": 1762563600,
-                        	"delayMins": 0,
+				"name": "Raff Surion",
+				"startTime": 1763773200,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					":3",
-					"Follow ttofu at https://linktr.ee/ttofu"
+					"'Literally spinning tracks'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Centigray",
-				"startTime": 1762569000,
-                        	"delayMins": 0,
+				"name": "B2B: KTZLRMZ & Centigray",
+				"startTime": 1763778600,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Oh maaaan I'm almost out of the army bitchesss!'",
+					"'We are gonna ram a F150 in your building.'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez",
 					"Follow Centigray at linktr.ee/centigray"
 				]
 			},
 			{
-				"name": "A.V.E.S. Protocol",
-				"startTime": 1762574400,
+				"name": "Cherry Dawgo",
+				"startTime": 1763784000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'I have no idea what I'm doing'",
-					"Follow Aves @dj-aves.bsky.social"
+					"'I'm gonna cook to serve you up a UFO of Bass'",
+					"Follow Cherry Dawgo at linktr.ee/cherrydawgo137"
 				]
 			},
 			{
 				"name": "Japhet",
-				"startTime": 1762579800,
+				"startTime": 1763789400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -68,7 +68,7 @@
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1762585200,
+				"startTime": 1763794800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -77,7 +77,7 @@
 				]
 			}
 		],
-		"closeTime": 1762586100,
+		"closeTime": 1763795700,
 		"ticker": [
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
