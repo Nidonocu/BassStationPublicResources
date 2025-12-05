@@ -8,10 +8,11 @@
 		]
 	},
 	"event": {
-		"top": "5 for the price of 4 at",
+		"top": "Christmas Countdown at",
 		"bottom": "the Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
+			"Please do not lick any weird frozen patches of goo you find around the station concourse without the permission of station staff.",
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
 	},
@@ -22,53 +23,50 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1763772300,
+		"displayStartTime": 1764981900,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1763773200,
+				"name": "Aft3r",
+				"startTime": 1764982800,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Literally spinning tracks'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"Please welcome our first new DJ tonight that is now boarding, Aft3r!"
 				]
 			},
 			{
-				"name": "B2B: KTZLRMZ & Centigray",
-				"startTime": 1763778600,
+				"name": "MeOwOgai",
+				"startTime": 1764988200,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'We are gonna ram a F150 in your building.'",
-					"Follow Ktzlrmz at twitch.tv/maxe_killermiez",
-					"Follow Centigray at linktr.ee/centigray"
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
-				"name": "Cherry Dawgo",
-				"startTime": 1763784000,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1764993600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'I'm gonna cook to serve you up a UFO of Bass'",
-					"Follow Cherry Dawgo at linktr.ee/cherrydawgo137"
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1763789400,
+				"name": "SQUIDD",
+				"startTime": 1764999000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night now arriving...",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"Please welcome our second new, and last DJ of the night now arriving, SQUIDD!",
+					"'Mreowfunk'",
+					"Follow SQUIDD at Bluesky @itssquiddo.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1763794800,
+				"startTime": 1765004400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -77,7 +75,7 @@
 				]
 			}
 		],
-		"closeTime": 1763795700,
+		"closeTime": 1765005000,
 		"ticker": [
 			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
 		]
