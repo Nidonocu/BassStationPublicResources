@@ -1,0 +1,83 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the new Bass Station group! https://vrc.group/BASS.2844"
+		]
+	},
+	"event": {
+		"top": "Christmas Countdown at",
+		"bottom": "the Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Please do not lick any weird frozen patches of goo you find around the station concourse without the permission of station staff.",
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1764981900,
+		"performers": [
+			{
+				"name": "Aft3r",
+				"startTime": 1764982800,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome our first new DJ tonight that is now boarding, Aft3r!"
+				]
+			},
+			{
+				"name": "MeOwOgai",
+				"startTime": 1764988200,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+				]
+			},
+			{
+				"name": "DJ Kandi Wolf",
+				"startTime": 1764993600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow Kandi at twitch.tv/djkandiwolf"
+				]
+			},
+			{
+				"name": "SQUIDD",
+				"startTime": 1764999000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome our second new, and last DJ of the night now arriving, SQUIDD!",
+					"'Mreowfunk'",
+					"Follow SQUIDD at Bluesky @itssquiddo.bsky.social"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1765004400,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This night terminates here.",
+					"See you next week for more music!"
+				]
+			}
+		],
+		"closeTime": 1765005000,
+		"ticker": [
+			"Make sure to join our NEW VRChat group! https://vrc.group/BASS.2844"
+		]
+	}
+}
