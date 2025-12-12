@@ -56,17 +56,8 @@
 				]
 			},
 			{
-				"name": "Special Announcement !",
-				"startTime": 1765516800,
-				"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Listen in for some cool Club: Fallback news and pose for the Christmas photo!"
-				]
-			},
-			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1765517400,
+				"startTime": 1765516637,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
