@@ -1,21 +1,19 @@
 {
 	"welcome": {
-		"top": "Seasons Greetings from",
-		"bottom": "The Bass Station",
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join us for live DJs mixing every weekend!",
-			"Join our VRChat group or visit us on Bluesky for news on our next events."
+			"Join the new Bass Station group! https://vrc.group/BASS.2844"
 		]
 	},
 	"event": {
-		"top": "Wrap up warm for...",
-		"bottom": "Club: Fallback",
+		"top": "Christmas Countdown at",
+		"bottom": "the Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"The staff and performers of Club Fallback and the Bass Station wish you all the happiest of holidays for the year!",
-			"Stay around at the end of the evening for a group photo and special announcement!",
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Christmas mode activated! You also don't have to climb in through the sewer to get in any more! Hurray!",
+			"Make sure to join our NEW VRChat group! Click the button on the station platform!"
 		]
 	},
 	"info": {
@@ -25,51 +23,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1765503000,
+		"displayStartTime": 1765587000,
 		"performers": [
 			{
-				"name": "Wren Mouse",
-				"startTime": 1765504800,
-                        	"delayMins": 0,
+				"name": "Aft3r",
+				"startTime": 1765587600,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our first DJ of the evening!"
+					"Please welcome our first new DJ tonight that is now boarding... again, Aft3r!"
 				]
 			},
 			{
-				"name": "DataBass Beats",
-				"startTime": 1765508400,
-                        	"delayMins": 0,
+				"name": "MeOwOgai",
+				"startTime": 1765593000,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"DJ two arriving at Platform 2!"
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
-				"name": "Lau",
-				"startTime": 1765512000,
-				"delayMins": 0,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1765598400,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night now boarding...",
-					"Following Lau at https://lau-was-taken.carrd.co"
+					"Follow Kandi at twitch.tv/djkandiwolf"
+				]
+			},
+			{
+				"name": "SQUIDD",
+				"startTime": 1765603800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome our second new, and last DJ of the night now arriving, SQUIDD!",
+					"'Mreowfunk'",
+					"Follow SQUIDD at Bluesky @itssquiddo.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1765516637,
+				"startTime": 1765609200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next year for the new and improved Club: Fallback!"
+					"This night terminates here.",
+					"See you next week for more music!"
 				]
 			}
 		],
-		"closeTime": 1765518000,
+		"closeTime": 1765609800,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"Stay around at the end of the evening for a group photo and special announcement!"
+			"If any of tonight's music sounds familiar, you merely heard it in a dream, don't worry about it.",
+			"Please do not lick any weird frozen patches of goo you find around the station concourse without the permission of station staff.",
+			"Make sure to join our NEW VRChat group! Click the button on the station platform!"
 		]
 	}
 }
