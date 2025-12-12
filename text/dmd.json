@@ -57,7 +57,7 @@
 			},
 			{
 				"name": "Special Announcement !",
-				"startTime": 1765515600,
+				"startTime": 1765516800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -66,7 +66,7 @@
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1765516200,
+				"startTime": 1765517400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -75,7 +75,7 @@
 				]
 			}
 		],
-		"closeTime": 1765516800,
+		"closeTime": 1765518000,
 		"ticker": [
 			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
 			"Stay around at the end of the evening for a group photo and special announcement!"
