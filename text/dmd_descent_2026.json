@@ -19,7 +19,7 @@
             "name": "MeOwOgai",
             "startTime": 1767124800,
             "genre": "Psytrance",
-            "team": 1,
+            "stage": 1,
             "VJ": "MeOwOgai",
             "LD": "Lirodon"
         },
@@ -27,7 +27,7 @@
             "name": "Rawada",
             "startTime": 1767128400,
             "genre": "Rock",
-            "team": 1,
+            "stage": 1,
             "VJ": "Rawada",
             "LD": "Lirodon"
         },
@@ -35,7 +35,7 @@
             "name": "ViperAshes",
             "startTime": 1767132000,
             "genre": "Hardstyle & Bass House",
-            "team": 2,
+            "stage": 2,
             "VJ": "ViperAshes",
             "LD": "Lirodon"
         },
@@ -43,7 +43,7 @@
             "name": "ManicLandIzzy",
             "startTime": 1767135600,
             "genre": "Synthwave",
-            "team": 2,
+            "stage": 2,
             "VJ": "ManicLandIzzy",
             "LD": "Lirodon"
         },
@@ -51,7 +51,7 @@
             "name": "Raff",
             "startTime": 1767139200,
             "genre": "Breaks",
-            "team": 3,
+            "stage": 3,
             "VJ": "Lirodon",
             "LD": "Lirodon"
         },
@@ -59,7 +59,7 @@
             "name": "Nahmii",
             "startTime": 1767142800,
             "genre": "Dubstep",
-            "team": 3,
+            "stage": 3,
             "VJ": "QUINN",
             "LD": "Kuropper"
         },
@@ -67,7 +67,7 @@
             "name": "The White Crayon",
             "startTime": 1767146400,
             "genre": "Industrial Hardcore & Raw",
-            "team": 4,
+            "stage": 4,
             "VJ": "WVR_NET",
             "LD": "Lirodon"
         },
@@ -75,7 +75,7 @@
             "name": "gamenite",
             "startTime": 1767150000,
             "genre": "J-core",
-            "team": 4,
+            "stage": 4,
             "VJ": "QUINN",
             "LD": "Lirodon"
         },
@@ -83,7 +83,7 @@
             "name": "Japhet",
             "startTime": 1767153600,
             "genre": "EDM, Hard Dance & Hard Tech",
-            "team": 5,
+            "stage": 5,
             "VJ": "Japhet",
             "LD": "Kuropper"
         },
@@ -91,7 +91,7 @@
             "name": "CLØUT",
             "startTime": 1767157200,
             "genre": "Genrefluid",
-            "team": 5,
+            "stage": 5,
             "VJ": "CLØUT",
             "LD": "Lirodon"
         },
@@ -99,7 +99,7 @@
             "name": "LylacSky",
             "startTime": 1767160800,
             "genre": "Melodic Techno",
-            "team": 6,
+            "stage": 6,
             "VJ": "LylacSky",
             "LD": "Lirodon"
         },
@@ -107,7 +107,7 @@
             "name": "djlonelygirl",
             "startTime": 1767164400,
             "genre": "Experimental, Dubstep & Grime",
-            "team": 6,
+            "stage": 6,
             "VJ": "",
             "LD": "Lirodon"
         },
@@ -126,7 +126,7 @@
             "name": "Nevermourn",
             "startTime": 1767211800,
             "genre": "Drum and Bass",
-            "team": 2,
+            "stage": 2,
             "VJ": "Nevermourn",
             "LD": "Lirodon"
         },
@@ -134,7 +134,7 @@
             "name": "Caustic Crab",
             "startTime": 1767215400,
             "genre": "J-core",
-            "team": 3,
+            "stage": 3,
             "VJ": "Lirodon",
             "LD": "Lirodon"
         },
@@ -142,7 +142,7 @@
             "name": "DRACONIUM",
             "startTime": 1767219000,
             "genre": "Drum and Bass, Industrial & Synthwave",
-            "team": 6,
+            "stage": 6,
             "VJ": "Lirodon",
             "LD": "Kuropper"
         },
@@ -150,7 +150,7 @@
             "name": "L1L1TH - CDXDR & Lirodon",
             "startTime": 1767222600,
             "genre": "Industrial, Synthwave & Hard Dance",
-            "team": 6,
+            "stage": 6,
             "VJ": "Lirodon",
             "LD": "Rae"
         },
@@ -158,7 +158,7 @@
             "name": "Shrooky",
             "startTime": 1767226200,
             "genre": "Cyberpunk",
-            "team": 1,
+            "stage": 1,
             "VJ": "Shrooky",
             "LD": "Lirodon"
         },
@@ -166,7 +166,7 @@
             "name": "PandaTron",
             "startTime": 1767229800,
             "genre": "Trap & Midtempo",
-            "team": 4,
+            "stage": 4,
             "VJ": "",
             "LD": ""
         },
@@ -174,7 +174,7 @@
             "name": "Draven",
             "startTime": 1767233400,
             "genre": "Genrefluid",
-            "team": 5,
+            "stage": 5,
             "VJ": "Draven",
             "LD": ""
         },
@@ -182,7 +182,7 @@
             "name": "StrawbabyShiki",
             "startTime": 1767237000,
             "genre": "Industrial Rock & Metal",
-            "team": 6,
+            "stage": 6,
             "VJ": "",
             "LD": ""
         },
@@ -190,7 +190,7 @@
             "name": "2N - Loprov & Kazuki",
             "startTime": 1767240600,
             "genre": "Genrefluid",
-            "team": 6,
+            "stage": 6,
             "VJ": "",
             "LD": "Lirodon"
         },
@@ -198,7 +198,7 @@
             "name": "Cacklecore",
             "startTime": 1767244200,
             "genre": "Hard Techno",
-            "team": 6,
+            "stage": 6,
             "VJ": "",
             "LD": "Lirodon"
         },
@@ -206,7 +206,7 @@
             "name": "Fyrefoxx",
             "startTime": 1767247800,
             "genre": "Midtempo",
-            "team": 6,
+            "stage": 6,
             "VJ": "Korroki Aternak",
             "LD": "Lirodon"
         },
@@ -214,7 +214,7 @@
             "name": "DJ Foxy",
             "startTime": 1767251100,
             "genre": "Hardstyle",
-            "team": 6,
+            "stage": 6,
             "VJ": "Lirodon",
             "LD": "Kuropper"
         },
