@@ -1,7 +1,7 @@
 {
     "messages": {
         "pre": "Welcome to Omega XXVI! The proceedings will begin at ",
-        "inter": "We'll be back tomorrow at ",
+        "inter": "We'll be back at ",
         "post": "Thank you for going down in history with us! Happy New Year!"
     },
     "displayActive": [
