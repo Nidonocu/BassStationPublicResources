@@ -1,0 +1,86 @@
+{
+    "messages": {
+        "pre": "Welcome to Omega XXVI! The proceedings will begin at ",
+        "inter": "That's it for today! We'll be back tomorrow at ",
+        "post": "Thank you for going down in history with us! Happy New Year!"
+    },
+    "displayActive": [
+        {
+            "start": 1767085200,
+            "end": 1767086400
+        },
+        {
+            "start": 1767087000,
+            "end": 1767088500
+        }
+    ],
+    "performers": [
+        {
+            "name": "MeOwOgai",
+            "startTime": 1767085320,
+            "genre": "Psytrance",
+            "stage": 1,
+            "VJ": "MeOwOgai",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Rawada",
+            "startTime": 1767085500,
+            "genre": "Rock",
+            "stage": 1,
+            "VJ": "Rawada",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "ViperAshes",
+            "startTime": 1767085800,
+            "genre": "Hardstyle & Bass House",
+            "stage": 2,
+            "VJ": "ViperAshes",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Close",
+            "startTime": 1767086100,
+            "genre": "Return tomorrow for NYE!",
+            "stage": 0,
+            "VJ": "",
+            "LD": ""
+        },
+
+
+
+        {
+            "name": "Nevermourn",
+            "startTime": 1767087300,
+            "genre": "Drum and Bass",
+            "stage": 2,
+            "VJ": "Nevermourn",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Caustic Crab",
+            "startTime": 1767087600,
+            "genre": "J-core",
+            "stage": 3,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "DRACONIUM",
+            "startTime": 1767087900,
+            "genre": "Drum and Bass, Industrial & Synthwave",
+            "stage": 6,
+            "VJ": "Lirodon",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "Close",
+            "startTime": 1767088200,
+            "genre": "The end!",
+            "stage": 0,
+            "VJ": "",
+            "LD": ""
+        }
+    ]
+}
