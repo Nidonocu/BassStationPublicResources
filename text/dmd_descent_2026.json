@@ -7,7 +7,7 @@
     "displayActive": [
         {
             "start": 1767124200,
-            "end": 1767168600
+            "end": 1767168900
         },
         {
             "start": 1767211200,
@@ -25,7 +25,7 @@
         },
         {
             "name": "Rawada",
-            "startTime": 1767128400,
+            "startTime": 1767128700,
             "genre": "Rock",
             "stage": 1,
             "VJ": "Rawada",
@@ -33,7 +33,7 @@
         },
         {
             "name": "ViperAshes",
-            "startTime": 1767132000,
+            "startTime": 1767132300,
             "genre": "Hardstyle & Bass House",
             "stage": 2,
             "VJ": "ViperAshes",
@@ -41,7 +41,7 @@
         },
         {
             "name": "ManicLandIzzy",
-            "startTime": 1767135600,
+            "startTime": 1767135900,
             "genre": "Synthwave",
             "stage": 2,
             "VJ": "ManicLandIzzy",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Raff",
-            "startTime": 1767139200,
+            "startTime": 1767139500,
             "genre": "Breaks",
             "stage": 3,
             "VJ": "Lirodon",
@@ -57,7 +57,7 @@
         },
         {
             "name": "Nahmii",
-            "startTime": 1767142800,
+            "startTime": 1767143100,
             "genre": "Dubstep",
             "stage": 3,
             "VJ": "QUINN",
@@ -65,7 +65,7 @@
         },
         {
             "name": "The White Crayon",
-            "startTime": 1767146400,
+            "startTime": 1767146700,
             "genre": "Industrial Hardcore & Raw",
             "stage": 4,
             "VJ": "WVR_NET",
@@ -73,7 +73,7 @@
         },
         {
             "name": "gamenite",
-            "startTime": 1767150000,
+            "startTime": 1767150300,
             "genre": "J-core",
             "stage": 4,
             "VJ": "QUINN",
@@ -81,7 +81,7 @@
         },
         {
             "name": "Japhet",
-            "startTime": 1767153600,
+            "startTime": 1767153900,
             "genre": "EDM, Hard Dance & Hard Tech",
             "stage": 5,
             "VJ": "Japhet",
@@ -89,7 +89,7 @@
         },
         {
             "name": "CLØUT",
-            "startTime": 1767157200,
+            "startTime": 1767157500,
             "genre": "Genrefluid",
             "stage": 5,
             "VJ": "CLØUT",
@@ -97,7 +97,7 @@
         },
         {
             "name": "LylacSky",
-            "startTime": 1767160800,
+            "startTime": 1767161100,
             "genre": "Melodic Techno",
             "stage": 6,
             "VJ": "LylacSky",
@@ -105,7 +105,7 @@
         },
         {
             "name": "djlonelygirl",
-            "startTime": 1767164400,
+            "startTime": 1767164700,
             "genre": "Experimental, Dubstep & Grime",
             "stage": 6,
             "VJ": "",
@@ -113,7 +113,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1767168000,
+            "startTime": 1767168300,
             "genre": "Return tomorrow for NYE!",
             "stage": 0,
             "VJ": "",
