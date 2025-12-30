@@ -6,18 +6,18 @@
     },
     "displayActive": [
         {
-            "start": 1767085200,
-            "end": 1767086400
+            "start": 1767089400,
+            "end": 1767090600
         },
         {
-            "start": 1767087000,
-            "end": 1767088500
+            "start": 1767091200,
+            "end": 1767092100
         }
     ],
     "performers": [
         {
             "name": "MeOwOgai",
-            "startTime": 1767085320,
+            "startTime": 1767089700,
             "genre": "Psytrance",
             "stage": 1,
             "VJ": "MeOwOgai",
@@ -25,23 +25,15 @@
         },
         {
             "name": "Rawada",
-            "startTime": 1767085500,
+            "startTime": 1767090000,
             "genre": "Rock",
             "stage": 1,
             "VJ": "Rawada",
             "LD": "Lirodon"
         },
         {
-            "name": "ViperAshes",
-            "startTime": 1767085800,
-            "genre": "Hardstyle & Bass House",
-            "stage": 2,
-            "VJ": "ViperAshes",
-            "LD": "Lirodon"
-        },
-        {
             "name": "Close",
-            "startTime": 1767086100,
+            "startTime": 1767090300,
             "genre": "Return tomorrow for NYE!",
             "stage": 0,
             "VJ": "",
@@ -52,7 +44,7 @@
 
         {
             "name": "Nevermourn",
-            "startTime": 1767087300,
+            "startTime": 1767091260,
             "genre": "Drum and Bass",
             "stage": 2,
             "VJ": "Nevermourn",
@@ -60,23 +52,15 @@
         },
         {
             "name": "Caustic Crab",
-            "startTime": 1767087600,
+            "startTime": 1767091500,
             "genre": "J-core",
             "stage": 3,
             "VJ": "Lirodon",
             "LD": "Lirodon"
         },
         {
-            "name": "DRACONIUM",
-            "startTime": 1767087900,
-            "genre": "Drum and Bass, Industrial & Synthwave",
-            "stage": 6,
-            "VJ": "Lirodon",
-            "LD": "Kuropper"
-        },
-        {
             "name": "Close",
-            "startTime": 1767088200,
+            "startTime": 1767091800,
             "genre": "The end!",
             "stage": 0,
             "VJ": "",
