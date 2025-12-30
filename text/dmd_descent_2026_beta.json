@@ -112,9 +112,9 @@
             "LD": "Lirodon"
         },
         {
-            "name": "Closing till tomorrow",
-            "startTime": 1767164400,
-            "genre": "",
+            "name": "Close",
+            "startTime": 1767168000,
+            "genre": "Return tomorrow for NYE!",
             "stage": 0,
             "VJ": "",
             "LD": ""
@@ -219,9 +219,9 @@
             "LD": "Kuropper"
         },
         {
-            "name": "The End!",
+            "name": "Close",
             "startTime": 1767254400,
-            "genre": "",
+            "genre": "The end!",
             "stage": 0,
             "VJ": "",
             "LD": ""
