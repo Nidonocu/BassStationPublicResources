@@ -1,0 +1,230 @@
+{
+    "messages": {
+        "pre": "Welcome to Omega XXVI! The proceedings will begin at ",
+        "inter": "That's it for today! We'll be back tomorrow at ",
+        "post": "Thank you for going down in history with us! Happy New Year!"
+    },
+    "displayActive": [
+        {
+            "start": 1767060937,
+            "end": 1767168600
+        },
+        {
+            "start": 1767211200,
+            "end": 1767255300
+        }
+    ],
+    "performers": [
+        {
+            "name": "MeOwOgai",
+            "startTime": 1767124800,
+            "genre": "Psytrance",
+            "stage": 1,
+            "VJ": "MeOwOgai",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Rawada",
+            "startTime": 1767128400,
+            "genre": "Rock",
+            "stage": 1,
+            "VJ": "Rawada",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "ViperAshes",
+            "startTime": 1767132000,
+            "genre": "Hardstyle & Bass House",
+            "stage": 2,
+            "VJ": "ViperAshes",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "ManicLandIzzy",
+            "startTime": 1767135600,
+            "genre": "Synthwave",
+            "stage": 2,
+            "VJ": "ManicLandIzzy",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Raff",
+            "startTime": 1767139200,
+            "genre": "Breaks",
+            "stage": 3,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Nahmii",
+            "startTime": 1767142800,
+            "genre": "Dubstep",
+            "stage": 3,
+            "VJ": "QUINN",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "The White Crayon",
+            "startTime": 1767146400,
+            "genre": "Industrial Hardcore & Raw",
+            "stage": 4,
+            "VJ": "WVR_NET",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "gamenite",
+            "startTime": 1767150000,
+            "genre": "J-core",
+            "stage": 4,
+            "VJ": "QUINN",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Japhet",
+            "startTime": 1767153600,
+            "genre": "EDM, Hard Dance & Hard Tech",
+            "stage": 5,
+            "VJ": "Japhet",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "CLØUT",
+            "startTime": 1767157200,
+            "genre": "Genrefluid",
+            "stage": 5,
+            "VJ": "CLØUT",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "LylacSky",
+            "startTime": 1767160800,
+            "genre": "Melodic Techno",
+            "stage": 6,
+            "VJ": "LylacSky",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "djlonelygirl",
+            "startTime": 1767164400,
+            "genre": "Experimental, Dubstep & Grime",
+            "stage": 6,
+            "VJ": "",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Closing till tomorrow",
+            "startTime": 1767164400,
+            "genre": "",
+            "stage": 0,
+            "VJ": "",
+            "LD": ""
+        },
+
+
+
+        {
+            "name": "Nevermourn",
+            "startTime": 1767211800,
+            "genre": "Drum and Bass",
+            "stage": 2,
+            "VJ": "Nevermourn",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Caustic Crab",
+            "startTime": 1767215400,
+            "genre": "J-core",
+            "stage": 3,
+            "VJ": "Lirodon",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "DRACONIUM",
+            "startTime": 1767219000,
+            "genre": "Drum and Bass, Industrial & Synthwave",
+            "stage": 6,
+            "VJ": "Lirodon",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "L1L1TH - CDXDR & Lirodon",
+            "startTime": 1767222600,
+            "genre": "Industrial, Synthwave & Hard Dance",
+            "stage": 6,
+            "VJ": "Lirodon",
+            "LD": "Rae"
+        },
+        {
+            "name": "Shrooky",
+            "startTime": 1767226200,
+            "genre": "Cyberpunk",
+            "stage": 1,
+            "VJ": "Shrooky",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "PandaTron",
+            "startTime": 1767229800,
+            "genre": "Trap & Midtempo",
+            "stage": 4,
+            "VJ": "",
+            "LD": ""
+        },
+        {
+            "name": "Draven",
+            "startTime": 1767233400,
+            "genre": "Genrefluid",
+            "stage": 5,
+            "VJ": "Draven",
+            "LD": ""
+        },
+        {
+            "name": "StrawbabyShiki",
+            "startTime": 1767237000,
+            "genre": "Industrial Rock & Metal",
+            "stage": 6,
+            "VJ": "",
+            "LD": ""
+        },
+        {
+            "name": "2N - Loprov & Kazuki",
+            "startTime": 1767240600,
+            "genre": "Genrefluid",
+            "stage": 6,
+            "VJ": "",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Cacklecore",
+            "startTime": 1767244200,
+            "genre": "Hard Techno",
+            "stage": 6,
+            "VJ": "",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "Fyrefoxx",
+            "startTime": 1767247800,
+            "genre": "Midtempo",
+            "stage": 6,
+            "VJ": "Korroki Aternak",
+            "LD": "Lirodon"
+        },
+        {
+            "name": "DJ Foxy",
+            "startTime": 1767251100,
+            "genre": "Hardstyle",
+            "stage": 6,
+            "VJ": "Lirodon",
+            "LD": "Kuropper"
+        },
+        {
+            "name": "The End!",
+            "startTime": 1767254400,
+            "genre": "",
+            "stage": 0,
+            "VJ": "",
+            "LD": ""
+        }
+    ]
+}
