@@ -168,7 +168,7 @@
             "genre": "Trap & Midtempo",
             "stage": 4,
             "VJ": "",
-            "LD": ""
+            "LD": "Lirodon"
         },
         {
             "name": "Draven",
@@ -176,7 +176,7 @@
             "genre": "Genrefluid",
             "stage": 5,
             "VJ": "Draven",
-            "LD": ""
+            "LD": "Lirodon"
         },
         {
             "name": "StrawbabyShiki",
@@ -184,7 +184,7 @@
             "genre": "Industrial Rock & Metal",
             "stage": 6,
             "VJ": "",
-            "LD": ""
+            "LD": "Lirodon"
         },
         {
             "name": "2N - Loprov & Kazuki",
@@ -212,7 +212,7 @@
         },
         {
             "name": "DJ Foxy",
-            "startTime": 1767251100,
+            "startTime": 1767251400,
             "genre": "Hardstyle",
             "stage": 6,
             "VJ": "Lirodon",
