@@ -7,7 +7,7 @@
     "displayActive": [
         {
             "start": 1767124200,
-            "end": 1767168900
+            "end": 1767168120
         },
         {
             "start": 1767211200,
@@ -89,7 +89,7 @@
         },
         {
             "name": "CLØUT",
-            "startTime": 1767157500,
+            "startTime": 1767157335,
             "genre": "Genrefluid",
             "stage": 5,
             "VJ": "CLØUT",
@@ -97,7 +97,7 @@
         },
         {
             "name": "LylacSky",
-            "startTime": 1767161100,
+            "startTime": 1767160800,
             "genre": "Melodic Techno",
             "stage": 6,
             "VJ": "LylacSky",
@@ -105,7 +105,7 @@
         },
         {
             "name": "djlonelygirl",
-            "startTime": 1767164700,
+            "startTime": 1767164400,
             "genre": "Experimental, Dubstep & Grime",
             "stage": 6,
             "VJ": "",
@@ -113,7 +113,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1767168300,
+            "startTime": 1767168000,
             "genre": "Return tomorrow for NYE!",
             "stage": 0,
             "VJ": "",
