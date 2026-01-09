@@ -1,19 +1,18 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station",
+		"top": "Happy New Year from",
+		"bottom": "The Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"Join the new Bass Station group! https://vrc.group/BASS.2844"
 		]
 	},
 	"event": {
-		"top": "Christmas Countdown at",
-		"bottom": "the Bass Station!",
+		"top": "Happy New Year from",
+		"bottom": "The Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Christmas mode activated! You also don't have to climb in through the sewer to get in any more! Hurray!",
-			"Make sure to join our NEW VRChat group! Click the button on the station platform!"
+			"We didn't forget to take the decorations down, we just can't find the box for them..."
 		]
 	},
 	"info": {
@@ -23,50 +22,49 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1765587000,
+		"displayStartTime": 1768005900,
 		"performers": [
 			{
-				"name": "Aft3r",
-				"startTime": 1765587600,
+				"name": "Stereo",
+				"startTime": 1768006800,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our first new DJ tonight that is now boarding... again, Aft3r!"
+					"Follow Stereo at mixcloud.com/StereoAmpwave"
 				]
 			},
 			{
-				"name": "MeOwOgai",
-				"startTime": 1765593000,
+				"name": "cdelansig",
+				"startTime": 1768012200,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'I'm a husky, I have paws'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"'i know i cant sleep but the voices in my head go brrrr'",
+					"Follow cdelansig at twitch.tv/cdelansig and youtube.com/@cdelansigoffline"
 				]
 			},
 			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1765598400,
+				"name": "A.V.E.S. Protocol",
+				"startTime": 1768017600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Kandi at twitch.tv/djkandiwolf"
+					"Follow Aves @dj-aves.bsky.social"
 				]
 			},
 			{
-				"name": "SQUIDD",
-				"startTime": 1765603800,
+				"name": "PandaTron",
+				"startTime": 1768023000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our second new, and last DJ of the night now arriving, SQUIDD!",
-					"'Mreowfunk'",
-					"Follow SQUIDD at Bluesky @itssquiddo.bsky.social"
+					"Final DJ of the night is now boarding!",
+					"Follow PandaTron at mixcloud.com/panda-tron"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1765609200,
+				"startTime": 1768028400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -75,10 +73,9 @@
 				]
 			}
 		],
-		"closeTime": 1765609800,
+		"closeTime": 1768029000,
 		"ticker": [
-			"If any of tonight's music sounds familiar, you merely heard it in a dream, don't worry about it.",
-			"Please do not lick any weird frozen patches of goo you find around the station concourse without the permission of station staff.",
+			"Welcome back, we hope you all had a great New Year and wish you all a happy 2026!",
 			"Make sure to join our NEW VRChat group! Click the button on the station platform!"
 		]
 	}
