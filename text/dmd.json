@@ -1,18 +1,20 @@
 {
 	"welcome": {
-		"top": "Happy New Year from",
-		"bottom": "The Bass Station",
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844"
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Live DJs and music every other Friday!"
 		]
 	},
 	"event": {
-		"top": "Happy New Year from",
+		"top": "Come in from the cold at",
 		"bottom": "The Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"We didn't forget to take the decorations down, we just can't find the box for them..."
+			"Okay look, we like the pretty lights, they can stay up a bit more for Aves birthday.",
+			".... Oh right, Aves birthday! Happy birthday bird!"
 		]
 	},
 	"info": {
@@ -22,60 +24,64 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1768005900,
+		"displayStartTime": 1769215500,
 		"performers": [
 			{
-				"name": "Stereo",
-				"startTime": 1768006800,
+				"name": "Raff Surion",
+				"startTime": 1769216400,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Stereo at mixcloud.com/StereoAmpwave"
+					"'I may have broke it'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "cdelansig",
-				"startTime": 1768012200,
+				"name": "KTZLRMZ",
+				"startTime": 1769221800,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'i know i cant sleep but the voices in my head go brrrr'",
-					"Follow cdelansig at twitch.tv/cdelansig and youtube.com/@cdelansigoffline"
+					"'the french may not be fried, but i for sure am'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
+				]
+			},
+			{
+				"name": "hmage",
+				"startTime": 1769227200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome the DJ now arriving at Platform 2 for their first time at the Bass Station, hmage!",
+					"'I eat tea'",
+					"Follow hmage on Bluesky @hmage.net"
 				]
 			},
 			{
 				"name": "A.V.E.S. Protocol",
-				"startTime": 1768017600,
-                        	"delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Follow Aves @dj-aves.bsky.social"
-				]
-			},
-			{
-				"name": "PandaTron",
-				"startTime": 1768023000,
+				"startTime": 1769232600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night is now boarding!",
-					"Follow PandaTron at mixcloud.com/panda-tron"
+					"IT'S HIS BIRTHDAY, TELL HIM HAPPY BIRTHDAY!!",
+					"Follow Aves @dj-aves.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1768028400,
+				"startTime": 1769238000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This night terminates here.",
-					"See you next week for more music!"
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1768029000,
+		"closeTime": 1769238600,
 		"ticker": [
-			"Welcome back, we hope you all had a great New Year and wish you all a happy 2026!",
+			"Bass Station is now once every two weeks to give us more time to prepare each event!",
 			"Make sure to join our NEW VRChat group! Click the button on the station platform!"
 		]
 	}
