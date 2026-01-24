@@ -1,0 +1,88 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Live DJs and music every other Friday!"
+		]
+	},
+	"event": {
+		"top": "Come in from the cold at",
+		"bottom": "The Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Okay look, we like the pretty lights, they can stay up a bit more for Aves birthday.",
+			".... Oh right, Aves birthday! Happy birthday bird!"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1769215500,
+		"performers": [
+			{
+				"name": "Raff Surion",
+				"startTime": 1769216400,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'I may have broke it'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
+				]
+			},
+			{
+				"name": "KTZLRMZ",
+				"startTime": 1769221800,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'the french may not be fried, but i for sure am'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
+				]
+			},
+			{
+				"name": "hmage",
+				"startTime": 1769227200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome the DJ now arriving at Platform 2 for their first time at the Bass Station, hmage!",
+					"'I eat tea'",
+					"Follow hmage on Bluesky @hmage.net"
+				]
+			},
+			{
+				"name": "Aves",
+				"startTime": 1769232600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now boarding!",
+					"IT'S HIS BIRTHDAY, TELL HIM HAPPY BIRTHDAY!!",
+					"Follow Aves @dj-aves.bsky.social"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1769238000,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This night terminates here.",
+					"See you soon again for more music!"
+				]
+			}
+		],
+		"closeTime": 1769238600,
+		"ticker": [
+			"Bass Station is now once every two weeks to give us more time to prepare each event!",
+			"Make sure to join our NEW VRChat group! Click the button on the station platform!"
+		]
+	}
+}
