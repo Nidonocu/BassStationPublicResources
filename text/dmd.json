@@ -28,7 +28,7 @@
 		"performers": [
 			{
 				"name": "Beeb",
-				"startTime": 1769900400,
+				"startTime": 1769902304,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -37,7 +37,7 @@
 			},
 			{
 				"name": "hmage",
-				"startTime": 1769817600,
+				"startTime": 1769904000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -46,7 +46,7 @@
 			},
 			{
 				"name": "Dua",
-				"startTime": 1769821200,
+				"startTime": 1769907600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -55,7 +55,7 @@
 			},
 			{
 				"name": "DataBass Beats",
-				"startTime": 1769824800,
+				"startTime": 1769911200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -64,7 +64,7 @@
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1769828400,
+				"startTime": 1769914800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
