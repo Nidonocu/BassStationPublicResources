@@ -9,12 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Happy Birthday to our own",
-		"bottom": "DataBass!",
+		"top": "Engineering coolness at",
+		"bottom": "The Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Welcome to this special Club Fallback event celebrating the birthday of our founder, DataBass AKA TheOnlyMonochrome!",
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Strange experiments are underway! There will be more to see soon!",
+			"What's that about our roof? It's a perfectly normal roof, what are you talking about...?"
 		]
 	},
 	"info": {
@@ -24,59 +24,60 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1769900880,
+		"displayStartTime": 1770425100,
 		"performers": [
 			{
-				"name": "Beeb",
-				"startTime": 1769902304,
-                        	"delayMins": 0,
+				"name": "Stereo",
+				"startTime": 1770426000,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Beeb on Bluesky @beeb.club"
+					"Follow Stereo at mixcloud.com/StereoAmpwave"
 				]
 			},
 			{
-				"name": "hmage",
-				"startTime": 1769904000,
-                        	"delayMins": 0,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1770431400,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow hmage on Bluesky @hmage.net"
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
-				"name": "Dua",
-				"startTime": 1769907600,
+				"name": "DJ_MEGA",
+				"startTime": 1770436800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Dua on Bluesky @duayinepu.bsky.social"
+					"Follow DJ_MEGA at youtube.com/@djmega888"
 				]
 			},
 			{
-				"name": "DataBass Beats",
-				"startTime": 1769911200,
-				"delayMins": 0,
+				"name": "Centigray",
+				"startTime": 1770442200,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night now and the birthday protogen themselves is now arriving at Platform 2!"
+					"Final DJ of the night is now boarding!",
+					"Follow Centigray at linktr.ee/centigray"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1769914800,
+				"startTime": 1770447600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time for the first regular Club Fallback event!"
+					"This night terminates here.",
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1769915400,
+		"closeTime": 1770448500,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"Please be aware the ceiling is still there, it just looks cool now! Flying and tall creatures are advised to mind their heads."
+			"None of the DJs posted any funny messages this week to put here, alas they are bereft of whit and vigour. Or maybe it was vinegar. One of the two.",
+			"Bass Station is now once every two weeks to give us more time to prepare each event!"
 		]
 	}
 }
