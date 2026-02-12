@@ -9,12 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Engineering coolness at",
-		"bottom": "The Bass Station",
+		"top": "<3 Club: Fallback <3",
+		"bottom": "~Love on the Decks~",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Strange experiments are underway! There will be more to see soon!",
-			"What's that about our roof? It's a perfectly normal roof, what are you talking about...?"
+			"Love is in the air... or maybe that's just the fog machine...",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	},
 	"info": {
@@ -24,60 +24,49 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1770425100,
+		"displayStartTime": 1770947100,
 		"performers": [
 			{
-				"name": "Stereo",
-				"startTime": 1770426000,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Follow Stereo at mixcloud.com/StereoAmpwave"
-				]
-			},
-			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1770431400,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Follow Kandi at twitch.tv/djkandiwolf"
-				]
-			},
-			{
-				"name": "DJ_MEGA",
-				"startTime": 1770436800,
+				"name": "hmage",
+				"startTime": 1770948000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow DJ_MEGA at youtube.com/@djmega888"
+					"Follow hmage on Bluesky @hmage.net"
 				]
 			},
 			{
-				"name": "Centigray",
-				"startTime": 1770442200,
+				"name": "Skunkset",
+				"startTime": 1770951600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night is now boarding!",
-					"Follow Centigray at linktr.ee/centigray"
+					"Follow Skunkset on Bluesky @skunkset.bsky.social"
+				]
+			},
+			{
+				"name": "NightshadeLenar",
+				"startTime": 1770955200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow NightshadeLenar on Bluesky @nightshadelenar.bsky.social or at twitch.tv/nightshadelenar"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1770447600,
+				"startTime": 1770958800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This night terminates here.",
-					"See you soon again for more music!"
+					"This event terminates here.",
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1770448500,
+		"closeTime": 1770959400,
 		"ticker": [
-			"None of the DJs posted any funny messages this week to put here, alas they are bereft of whit and vigour. Or maybe it was vinegar. One of the two.",
-			"Bass Station is now once every two weeks to give us more time to prepare each event!"
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	}
 }

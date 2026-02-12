@@ -1,0 +1,83 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Live DJs and music every other Friday!"
+		]
+	},
+	"event": {
+		"top": "Engineering coolness at",
+		"bottom": "The Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Strange experiments are underway! There will be more to see soon!",
+			"What's that about our roof? It's a perfectly normal roof, what are you talking about...?"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1770425100,
+		"performers": [
+			{
+				"name": "Stereo",
+				"startTime": 1770426000,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow Stereo at mixcloud.com/StereoAmpwave"
+				]
+			},
+			{
+				"name": "DJ Kandi Wolf",
+				"startTime": 1770431400,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow Kandi at twitch.tv/djkandiwolf"
+				]
+			},
+			{
+				"name": "DJ_MEGA",
+				"startTime": 1770436800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow DJ_MEGA at youtube.com/@djmega888"
+				]
+			},
+			{
+				"name": "Centigray",
+				"startTime": 1770442200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now boarding!",
+					"Follow Centigray at linktr.ee/centigray"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1770447600,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This night terminates here.",
+					"See you soon again for more music!"
+				]
+			}
+		],
+		"closeTime": 1770448500,
+		"ticker": [
+			"None of the DJs posted any funny messages this week to put here, alas they are bereft of whit and vigour. Or maybe it was vinegar. One of the two.",
+			"Bass Station is now once every two weeks to give us more time to prepare each event!"
+		]
+	}
+}
