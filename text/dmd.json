@@ -9,12 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "<3 Club: Fallback <3",
-		"bottom": "~Love on the Decks~",
+		"top": "Music, Lights, Creatures, it's",
+		"bottom": "The Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Love is in the air... or maybe that's just the fog machine...",
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"I keep running out of ideas for silly things to write! Should we let you leave messages for your friends here? Let us know in the Discord!"
 		]
 	},
 	"info": {
@@ -24,49 +23,64 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1770947100,
+		"displayStartTime": 1771634700,
 		"performers": [
 			{
-				"name": "hmage",
-				"startTime": 1770948000,
-                        	"delayMins": 0,
+				"name": "Wolfintank",
+				"startTime": 1771635600,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow hmage on Bluesky @hmage.net"
+					"'Not to be confused with Horseinboat'",
+					"Follow Wolfintank on twitch.tv/wolfintank and Bluesky @wolfintank.bsky.social"
 				]
 			},
 			{
-				"name": "Skunkset",
-				"startTime": 1770951600,
-                        	"delayMins": 0,
+				"name": "Raff Surion",
+				"startTime": 1771641000,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Skunkset on Bluesky @skunkset.bsky.social"
+					"'Woof bark woof woof bark bark arf woof bark awoo'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "NightshadeLenar",
-				"startTime": 1770955200,
+				"name": "Bassdrop",
+				"startTime": 1771646400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow NightshadeLenar on Bluesky @nightshadelenar.bsky.social or at twitch.tv/nightshadelenar"
+					"'something about chicken nuggets'",
+					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social"
+				]
+			},
+			{
+				"name": "MeOwOgai",
+				"startTime": 1771651800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now boarding!",
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1770958800,
+				"startTime": 1771657200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time!"
+					"This night terminates here.",
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1770959400,
+		"closeTime": 1771657800,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Please welcome back Wolfintank and Bassdrop this evening returning for the first time in a while! ... Okay, we admit it, they each fell down between the cushions in some of the couches and we finally dug them out.",
+			"Bass Station is now once every two weeks to give us more time to prepare each event!"
 		]
 	}
 }
