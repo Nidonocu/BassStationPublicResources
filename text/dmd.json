@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Music, Lights, Creatures, it's",
+		"top": "Certified 99% fish free, it's",
 		"bottom": "The Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"I keep running out of ideas for silly things to write! Should we let you leave messages for your friends here? Let us know in the Discord!"
+			"Any attempts by fishing obsessed creatures to catch our resident shark will result in being made to locate and then clean the toilets."
 		]
 	},
 	"info": {
@@ -23,52 +23,51 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1771634700,
+		"displayStartTime": 1772844300,
 		"performers": [
 			{
-				"name": "Wolfintank",
-				"startTime": 1771635600,
+				"name": "LINKUS",
+				"startTime": 1772845200,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Not to be confused with Horseinboat'",
-					"Follow Wolfintank on twitch.tv/wolfintank and Bluesky @wolfintank.bsky.social"
+					"Please welcome our first DJ of the night and new to the Bass Station, LINKUS!",
+					"'9 out of 10 doctors agree, Linkus is awesome. the other doctor is a big nerd.'"
 				]
 			},
 			{
-				"name": "Raff Surion",
-				"startTime": 1771641000,
+				"name": "E-Meow",
+				"startTime": 1772850600,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Woof bark woof woof bark bark arf woof bark awoo'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"'Please remember to use proper safety equipment around the speakers. This includes Eye Protection.'",
+					"Follow E-Meow on Bluesky @e-meow.bsky.social or at emeow.bandcamp.com"
 				]
 			},
 			{
-				"name": "Bassdrop",
-				"startTime": 1771646400,
+				"name": "Solstice",
+				"startTime": 1772856000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'something about chicken nuggets'",
-					"Follow Bassdrop on Bluesky @celerontheprotogen.bsky.social"
+					"'Less CAW more WUB!'",
+					"Follow Solstice at twitch.tv/solsticesonata"
 				]
 			},
 			{
-				"name": "MeOwOgai",
-				"startTime": 1771651800,
+				"name": "BassDemolitia",
+				"startTime": 1772861400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night is now boarding!",
-					"'I'm a husky, I have paws'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"\"It's never 'too late'.\""
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1771657200,
+				"startTime": 1772866800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -77,9 +76,8 @@
 				]
 			}
 		],
-		"closeTime": 1771657800,
+		"closeTime": 1772867400,
 		"ticker": [
-			"Please welcome back Wolfintank and Bassdrop this evening returning for the first time in a while! ... Okay, we admit it, they each fell down between the cushions in some of the couches and we finally dug them out.",
 			"Bass Station is now once every two weeks to give us more time to prepare each event!"
 		]
 	}
