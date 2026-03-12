@@ -9,11 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Certified 99% fish free, it's",
-		"bottom": "The Bass Station",
+		"top": "Wishing you a very lucky",
+		"bottom": "Club Fallback",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Any attempts by fishing obsessed creatures to catch our resident shark will result in being made to locate and then clean the toilets."
+			"A happy St. Patrick's Day to all our musical travelers tonight!",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	},
 	"info": {
@@ -23,62 +24,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1772844300,
+		"displayStartTime": 1773363000,
 		"performers": [
 			{
-				"name": "LINKUS",
-				"startTime": 1772845200,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Please welcome our first DJ of the night and new to the Bass Station, LINKUS!",
-					"'9 out of 10 doctors agree, Linkus is awesome. the other doctor is a big nerd.'"
-				]
-			},
-			{
-				"name": "E-Meow",
-				"startTime": 1772850600,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'Please remember to use proper safety equipment around the speakers. This includes Eye Protection.'",
-					"Follow E-Meow on Bluesky @e-meow.bsky.social or at emeow.bandcamp.com"
-				]
-			},
-			{
-				"name": "Solstice",
-				"startTime": 1772856000,
+				"name": "Beeb",
+				"startTime": 1773363600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Less CAW more WUB!'",
-					"Follow Solstice at twitch.tv/solsticesonata"
+					"Calling at Hard Techno, Midtempo and Dubstep",
+					"Follow Beeb on Bluesky @beeb.club"
 				]
 			},
 			{
-				"name": "BassDemolitia",
-				"startTime": 1772861400,
+				"name": "DJ Cringe",
+				"startTime": 1773367200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the night is now boarding!",
-					"\"It's never 'too late'.\""
+					"Express service to EDM & Dubstep",
+					"Follow DJ Cringe via https://beetledink.crd.co"
+				]
+			},
+			{
+				"name": "Overclock",
+				"startTime": 1773370800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final service, boarding for MainStage and Hardstyle",
+					"Follow Overlock at @overclockampwave.bsky.social on Bluesky and youtube.com/@JcoolTheShipBuilder"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1772866800,
+				"startTime": 1773374400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This night terminates here.",
-					"See you soon again for more music!"
+					"This event terminates here.",
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1772867400,
+		"closeTime": 1773375000,
 		"ticker": [
-			"Bass Station is now once every two weeks to give us more time to prepare each event!"
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	}
 }

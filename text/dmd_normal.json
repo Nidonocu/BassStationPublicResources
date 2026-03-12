@@ -1,0 +1,84 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Live DJs and music every other Friday!"
+		]
+	},
+	"event": {
+		"top": "Certified 99% fish free, it's",
+		"bottom": "The Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Any attempts by fishing obsessed creatures to catch our resident shark will result in being made to locate and then clean the toilets."
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1772844300,
+		"performers": [
+			{
+				"name": "LINKUS",
+				"startTime": 1772845200,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome our first DJ of the night and new to the Bass Station, LINKUS!",
+					"'9 out of 10 doctors agree, Linkus is awesome. the other doctor is a big nerd.'"
+				]
+			},
+			{
+				"name": "E-Meow",
+				"startTime": 1772850600,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Please remember to use proper safety equipment around the speakers. This includes Eye Protection.'",
+					"Follow E-Meow on Bluesky @e-meow.bsky.social or at emeow.bandcamp.com"
+				]
+			},
+			{
+				"name": "Solstice",
+				"startTime": 1772856000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'Less CAW more WUB!'",
+					"Follow Solstice at twitch.tv/solsticesonata"
+				]
+			},
+			{
+				"name": "BassDemolitia",
+				"startTime": 1772861400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now boarding!",
+					"\"It's never 'too late'.\""
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1772866800,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This night terminates here.",
+					"See you soon again for more music!"
+				]
+			}
+		],
+		"closeTime": 1772867400,
+		"ticker": [
+			"Bass Station is now once every two weeks to give us more time to prepare each event!"
+		]
+	}
+}
