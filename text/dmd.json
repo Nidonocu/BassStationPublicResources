@@ -9,12 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Wishing you a very lucky",
-		"bottom": "Club Fallback",
+		"top": "Say goodbye to winter blues at",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"A happy St. Patrick's Day to all our musical travelers tonight!",
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Spring is finally coming to a close! Here's to brighter days ahead!",
+			"Watch out for moving timezones! Bass Station might be slightly shifted for you this week!"
 		]
 	},
 	"info": {
@@ -24,52 +24,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1773363000,
+		"displayStartTime": 1774050300,
 		"performers": [
 			{
-				"name": "Beeb",
-				"startTime": 1773363600,
-                        	"delayMins": 0,
+				"name": "Faint",
+				"startTime": 1774051200,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at Hard Techno, Midtempo and Dubstep",
-					"Follow Beeb on Bluesky @beeb.club"
+					"'Rumor has it, this one likes to leave ovens on as a prank'",
+					"Follow Faint on Bluesky @faultyspeakers.bsky.social"
 				]
 			},
 			{
-				"name": "DJ Cringe",
-				"startTime": 1773367200,
-                        	"delayMins": 0,
+				"name": "Aves",
+				"startTime": 1774056600,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Express service to EDM & Dubstep",
-					"Follow DJ Cringe via https://beetledink.crd.co"
+					"'did i leave the oven on?'",
+					"Follow Aves @dj-aves.bsky.social"
 				]
 			},
 			{
-				"name": "Overclock",
-				"startTime": 1773370800,
+				"name": "Centigray",
+				"startTime": 1774062000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final service, boarding for MainStage and Hardstyle",
-					"Follow Overlock at @overclockampwave.bsky.social on Bluesky and youtube.com/@JcoolTheShipBuilder"
+					"'Is it hot in here or is it just me? Aaoooga.'",
+					"Follow Centigray at linktr.ee/centigray"
+				]
+			},
+			{
+				"name": "Lulsy",
+				"startTime": 1774067400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome our final DJ for the night and new to the Bass Station, Lulsy!",
+					"'What the dawg doin'",
+					"Follow Lulsy on Bluesky @lulsy.bsky.social or Twitter @LulsyVR"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1773374400,
+				"startTime": 1774067400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time!"
+					"This night terminates here.",
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1773375000,
+		"closeTime": 1774073400,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Watch out for moving timezones! Bass Station might be slightly shifted for you this week!"
 		]
 	}
 }
