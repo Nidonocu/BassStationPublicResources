@@ -9,12 +9,13 @@
 		]
 	},
 	"event": {
-		"top": "Say goodbye to winter blues at",
-		"bottom": "The Bass Station!",
+		"top": "Happy Easter from",
+		"bottom": "Club Fallback!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Spring is finally coming to a close! Here's to brighter days ahead!",
-			"Watch out for moving timezones! Bass Station might be slightly shifted for you this week!"
+			"We wish all our musical passengers to be full of eggs this evening! ... That's not weird right?",
+			"For the benefit of our European passengers, we're now starting a little bit sooner in the evening!",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	},
 	"info": {
@@ -24,63 +25,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1774050300,
+		"displayStartTime": 1775166300,
 		"performers": [
 			{
-				"name": "Faint",
-				"startTime": 1774051200,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'Rumor has it, this one likes to leave ovens on as a prank'",
-					"Follow Faint on Bluesky @faultyspeakers.bsky.social"
-				]
-			},
-			{
-				"name": "Aves",
-				"startTime": 1774056600,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'did i leave the oven on?'",
-					"Follow Aves @dj-aves.bsky.social"
-				]
-			},
-			{
-				"name": "Centigray",
-				"startTime": 1774062000,
+				"name": "DJ Nikko Cat",
+				"startTime": 1775167200,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Is it hot in here or is it just me? Aaoooga.'",
-					"Follow Centigray at linktr.ee/centigray"
+					"Express service to Hardstyle",
+					"Follow Nikko at mixcloud.com/DjNikkoCatOfficial"
 				]
 			},
 			{
-				"name": "Lulsy",
-				"startTime": 1774067400,
+				"name": "Skunkset",
+				"startTime": 1775170800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our final DJ for the night and new to the Bass Station, Lulsy!",
-					"'What the dawg doin'",
-					"Follow Lulsy on Bluesky @lulsy.bsky.social or Twitter @LulsyVR"
+					"Direct train to Futurefunk",
+					"Follow Skunkset on Bluesky @skunkset.bsky.social"
+				]
+			},
+			{
+				"name": "DJ Amyotte",
+				"startTime": 1775174400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final train now boarding. Calling at House, Top 40 and Dance.",
+					"Follow Amyotte at twitch.tv/dj_amyotte and mixcloud.com/DJ_Amyotte"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1774067400,
+				"startTime": 1775178000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This night terminates here.",
-					"See you soon again for more music!"
+					"This event terminates here.",
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1774073400,
+		"closeTime": 1775178600,
 		"ticker": [
-			"Watch out for moving timezones! Bass Station might be slightly shifted for you this week!"
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	}
 }
