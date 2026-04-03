@@ -10,12 +10,10 @@
 	},
 	"event": {
 		"top": "Happy Easter from",
-		"bottom": "Club Fallback!",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"We wish all our musical passengers to be full of eggs this evening! ... That's not weird right?",
-			"For the benefit of our European passengers, we're now starting a little bit sooner in the evening!",
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"We wish all our musical passengers to be full of eggs this evening! ... That's not weird right?"
 		]
 	},
 	"info": {
@@ -25,52 +23,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1775166300,
+		"displayStartTime": 1775259900,
 		"performers": [
 			{
-				"name": "DJ Nikko Cat",
-				"startTime": 1775167200,
-                        	"delayMins": 0,
+				"name": "Wrath",
+				"startTime": 1775260800,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Express service to Hardstyle",
-					"Follow Nikko at mixcloud.com/DjNikkoCatOfficial"
+					"'I'm just here for the memes'",
+					"Follow Wrath at youtube.com/@DJ_Wrath46"
 				]
 			},
 			{
-				"name": "Skunkset",
-				"startTime": 1775170800,
-                        	"delayMins": 0,
+				"name": "Raff Surion",
+				"startTime": 1775266200,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Direct train to Futurefunk",
-					"Follow Skunkset on Bluesky @skunkset.bsky.social"
+					"'Slut 2 please? .... Dammit, I meant to say slot.'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "DJ Amyotte",
-				"startTime": 1775174400,
+				"name": "Japhet",
+				"startTime": 1775271600,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final train now boarding. Calling at House, Top 40 and Dance.",
-					"Follow Amyotte at twitch.tv/dj_amyotte and mixcloud.com/DJ_Amyotte"
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+				]
+			},
+			{
+				"name": "V[AI]RUS",
+				"startTime": 1775277000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome our final DJ for the night and our other creature in charge...",
+					"< Broken Microwave Noises >",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1775178000,
+				"startTime": 1775282400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time!"
+					"This night terminates here.",
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1775178600,
+		"closeTime": 1775283000,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Our station staff are currently working their way through their own weights in chocolate. Please lend us your support in this difficult time."
 		]
 	}
 }

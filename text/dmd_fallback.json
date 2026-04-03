@@ -1,0 +1,76 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Live DJs and music every other Friday!"
+		]
+	},
+	"event": {
+		"top": "Happy Easter from",
+		"bottom": "Club Fallback!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"We wish all our musical passengers to be full of eggs this evening! ... That's not weird right?",
+			"For the benefit of our European passengers, we're now starting a little bit sooner in the evening!",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1775166300,
+		"performers": [
+			{
+				"name": "DJ Nikko Cat",
+				"startTime": 1775167200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Express service to Hardstyle",
+					"Follow Nikko at mixcloud.com/DjNikkoCatOfficial"
+				]
+			},
+			{
+				"name": "Skunkset",
+				"startTime": 1775170800,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Direct train to Futurefunk",
+					"Follow Skunkset on Bluesky @skunkset.bsky.social"
+				]
+			},
+			{
+				"name": "DJ Amyotte",
+				"startTime": 1775174400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final train now boarding. Calling at House, Top 40 and Dance.",
+					"Follow Amyotte at twitch.tv/dj_amyotte and mixcloud.com/DJ_Amyotte"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1775178000,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here.",
+					"See you next time!"
+				]
+			}
+		],
+		"closeTime": 1775178600,
+		"ticker": [
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+		]
+	}
+}
