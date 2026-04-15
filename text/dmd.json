@@ -9,11 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Happy Easter from",
-		"bottom": "The Bass Station!",
+		"top": "You've arrived at",
+		"bottom": "Club Fallback!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"We wish all our musical passengers to be full of eggs this evening! ... That's not weird right?"
+			"For the benefit of our European passengers, we're now starting a little bit sooner in the evening!",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	},
 	"info": {
@@ -23,63 +24,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1775259900,
+		"displayStartTime": 1776375900,
 		"performers": [
 			{
-				"name": "Wrath",
-				"startTime": 1775260800,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'I'm just here for the memes'",
-					"Follow Wrath at youtube.com/@DJ_Wrath46"
-				]
-			},
-			{
-				"name": "Raff Surion",
-				"startTime": 1775266200,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"'Slut 2 please? .... Dammit, I meant to say slot.'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
-				]
-			},
-			{
-				"name": "Japhet",
-				"startTime": 1775271600,
+				"name": "Dua",
+				"startTime": 1776376800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"Direct train to Psy-Techno",
+					"Follow Dua on Bluesky @duayinepu.bsky.social"
 				]
 			},
 			{
-				"name": "V[AI]RUS",
-				"startTime": 1775277000,
+				"name": "DJ Tsiran",
+				"startTime": 1776380400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome our final DJ for the night and our other creature in charge...",
-					"< Broken Microwave Noises >",
-					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
+					"Express service to Progressive House",
+					"Follow Tsiran on Bluesky @farinvikka.bsky.social"
+				]
+			},
+			{
+				"name": "HMage",
+				"startTime": 1776384000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final train now arriving, calling at Progressive Trance only.",
+					"Follow hmage on Bluesky @hmage.net"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1775282400,
+				"startTime": 1776387600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This night terminates here.",
-					"See you soon again for more music!"
+					"This event terminates here.",
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1775283000,
+		"closeTime": 1776388200,
 		"ticker": [
-			"Our station staff are currently working their way through their own weights in chocolate. Please lend us your support in this difficult time."
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
 		]
 	}
 }
