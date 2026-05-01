@@ -9,12 +9,13 @@
 		]
 	},
 	"event": {
-		"top": "You've arrived at",
-		"bottom": "Club Fallback!",
+		"top": "Wait, it can't be, it's",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"For the benefit of our European passengers, we're now starting a little bit sooner in the evening!",
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Where did you all go last time? I was left here alone with no one to scroll text in front of! ;_;",
+			"...",
+			"The management requests that staff members do not attempt to make passengers anthropomorphise the information signs."
 		]
 	},
 	"info": {
@@ -24,52 +25,61 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1776375900,
+		"displayStartTime": 1777679100,
 		"performers": [
 			{
-				"name": "Dua",
-				"startTime": 1776376800,
-                        	"delayMins": 0,
+				"name": "ttofu",
+				"startTime": 1777680000,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Direct train to Psy-Techno",
-					"Follow Dua on Bluesky @duayinepu.bsky.social"
+					":3",
+					"Follow ttofu at https://linktr.ee/ttofu"
 				]
 			},
 			{
-				"name": "DJ Tsiran",
-				"startTime": 1776380400,
-                        	"delayMins": 0,
+				"name": "DJ Kandi Wolf",
+				"startTime": 1777685400,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Express service to Progressive House",
-					"Follow Tsiran on Bluesky @farinvikka.bsky.social"
+					"Follow Kandi at twitch.tv/djkandiwolf"
 				]
 			},
 			{
-				"name": "HMage",
-				"startTime": 1776384000,
+				"name": "Chaotic N",
+				"startTime": 1777690800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final train now arriving, calling at Progressive Trance only.",
-					"Follow hmage on Bluesky @hmage.net"
+					"Now arriving at Platform 2, a special group performance by multiple DJs!"
+				]
+			},
+			{
+				"name": "PandaTron",
+				"startTime": 1777696200,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ of the night is now boarding!",
+					"'insert witty quote here'",
+					"Follow PandaTron at mixcloud.com/panda-tron"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1776387600,
+				"startTime": 1777701600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time!"
+					"This night terminates here.",
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1776388200,
+		"closeTime": 1777702200,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832"
+			"Join the new Bass Station group! https://vrc.group/BASS.2844"
 		]
 	}
 }
