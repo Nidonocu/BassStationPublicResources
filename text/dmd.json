@@ -9,13 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Wait, it can't be, it's",
+		"top": "Too excited? It's time for",
 		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Where did you all go last time? I was left here alone with no one to scroll text in front of! ;_;",
-			"...",
-			"The management requests that staff members do not attempt to make passengers anthropomorphise the information signs."
+			"Any strange reports of 'new ampwaves' are rumour and certainly no kind of guerrilla marketing campaign."
 		]
 	},
 	"info": {
@@ -25,50 +23,51 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1777679100,
+		"displayStartTime": 1778888700,
 		"performers": [
 			{
-				"name": "ttofu",
-				"startTime": 1777680000,
+				"name": "Raff Surion",
+				"startTime": 1778889600,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					":3",
-					"Follow ttofu at https://linktr.ee/ttofu"
+					"'Fresh Organic House in Your Grocer's Produce Department'",
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1777685400,
+				"name": "Thunder_Kick",
+				"startTime": 1778895000,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Kandi at twitch.tv/djkandiwolf"
+					"'Funkle'",
+					"Follow Thunder_Kick at twitch.tv/thundykick"
 				]
 			},
 			{
-				"name": "Chaotic N",
-				"startTime": 1777690800,
+				"name": "DJ Umbral Ursa",
+				"startTime": 1778900400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Now arriving at Platform 2, a special group performance by multiple DJs!"
+					"Please welcome DJ Umbral Ursa for their first arrival at The Bass Station!",
+					"'\"Dance or GTFO\" - joking, joking!'"
 				]
 			},
 			{
-				"name": "PandaTron",
-				"startTime": 1777696200,
+				"name": "Splatterpaint",
+				"startTime": 1778905800,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night is now boarding!",
-					"'insert witty quote here'",
-					"Follow PandaTron at mixcloud.com/panda-tron"
+					"Follow Splatterpaint via their links at linktr.ee/CelerontheProtogen"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1777701600,
+				"startTime": 1778911200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -77,7 +76,7 @@
 				]
 			}
 		],
-		"closeTime": 1777702200,
+		"closeTime": 1778911800,
 		"ticker": [
 			"Join the new Bass Station group! https://vrc.group/BASS.2844"
 		]
