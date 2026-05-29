@@ -9,11 +9,12 @@
 		]
 	},
 	"event": {
-		"top": "Too excited? It's time for",
-		"bottom": "The Bass Station!",
+		"top": "New Amp, who dis?!",
+		"bottom": "AUXWAVE RELEASE PARTY!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Any strange reports of 'new ampwaves' are rumour and certainly no kind of guerrilla marketing campaign."
+			"Welcome to the BASS STATION, where we are celebrating the release of the Auxwave, our club founder Vivi's new avatar!",
+			"Check out the Public avatars in The Bass Shop upstairs!"
 		]
 	},
 	"info": {
@@ -23,51 +24,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1778888700,
+		"displayStartTime": 1780098300,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1778889600,
+				"name": "KTZLRMZ",
+				"startTime": 1780099200,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Fresh Organic House in Your Grocer's Produce Department'",
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"'this could be your ad'",
+					"Follow Ktzlrmz at twitch.tv/maxe_killermiez"
 				]
 			},
 			{
-				"name": "Thunder_Kick",
-				"startTime": 1778895000,
+				"name": "Overclock",
+				"startTime": 1780104600,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Funkle'",
-					"Follow Thunder_Kick at twitch.tv/thundykick"
+					"'Tine to up the Ampe!'",
+					"Follow Overlock at @overclockampwave.bsky.social on Bluesky and youtube.com/@JcoolTheShipBuilder"
 				]
 			},
 			{
-				"name": "DJ Umbral Ursa",
-				"startTime": 1778900400,
+				"name": "cdelansig",
+				"startTime": 1780110000,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Please welcome DJ Umbral Ursa for their first arrival at The Bass Station!",
-					"'\"Dance or GTFO\" - joking, joking!'"
+					"'yeah'",
+					"Follow cdelansig at twitch.tv/cdelansig and youtube.com/@cdelansigoffline"
 				]
 			},
 			{
-				"name": "Splatterpaint",
-				"startTime": 1778905800,
+				"name": "Japhet",
+				"startTime": 1780115400,
                         	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"Final DJ of the night is now boarding!",
-					"Follow Splatterpaint via their links at linktr.ee/CelerontheProtogen"
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1778911200,
+				"startTime": 1780120800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
@@ -76,9 +78,10 @@
 				]
 			}
 		],
-		"closeTime": 1778911800,
+		"closeTime": 1780121400,
 		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844"
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Try out the new Auxwave, a new ampwave base by Vivi in the Bass Shop upstairs!"
 		]
 	}
 }
