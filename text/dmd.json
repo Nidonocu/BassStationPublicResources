@@ -9,12 +9,13 @@
 		]
 	},
 	"event": {
-		"top": "Reconnect at",
-		"bottom": "The Bass Station",
+		"top": "Melting Down at",
+		"bottom": "Club Fallback!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Don't worry about your UltraVox Prism going offline! Let's perk up those post Furality blues!",
-			"Check out The Bass Shop upstairs and the avatars by our club founders. We've got Vivi's new ampwave, the Auxwave and Blizz's Screenwave!"
+			"It's not too hot to dance right? Well, actually we've already had two decks turn in to soup, I'm sure it's fine though...",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Check back tomorrow for Bass Station's 4th Birthday, see the poster for details!"
 		]
 	},
 	"info": {
@@ -24,60 +25,53 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1781307900,
+		"displayStartTime": 1782423900,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1781308800,
-                "delayMins": 0,
+				"name": "Skunkset",
+				"startTime": 1782424800,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"Calling at Dancefloor Drum & Bass",
+					"Follow Skunkset on Bluesky @skunkset.bsky.social"
 				]
 			},
 			{
-				"name": "DJ Kandi Wolf",
-				"startTime": 1781314200,
-                "delayMins": 0,
+				"name": "Volonus",
+				"startTime": 1782428400,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Kandi at twitch.tv/djkandiwolf"
+					"Direct train to Hard Techno",
+					"Follow Volonus on Bluesky @volonus.bsky.social"
 				]
 			},
 			{
-				"name": "Juicy Sushi",
-				"startTime": 1781319600,
-                "delayMins": 0,
+				"name": "Umbral Ursa",
+				"startTime": 1782432000,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Sushi is returning'",
-					"Follow Juicy on Bluesky @yuudokukawa.bsky.social"
-				]
-			},
-			{
-				"name": "Mask",
-				"startTime": 1781325000,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Please welcome to the Bass Station for the first time our final DJ of the night, Mask!",
-					"Follow Mask at twitch.tv/mask9691"
+					"Final train now arriving, calling at Dance Floor Trance, PsyTrance, and Trance-based Dubstep.",
+					"Follow Umbral Ursa on Bluesky @jurann.bsky.social and twitch.tv/urzapolariz"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1781330400,
+				"startTime": 1782435600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This night terminates here.",
-					"See you soon again for more music!"
+					"This event terminates here.",
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1781331000,
+		"closeTime": 1782436200,
 		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844"
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Check back tomorrow for Bass Station's 4th Birthday, see the poster for details!"
 		]
 	}
 }
