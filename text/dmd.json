@@ -1,21 +1,21 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station",
+		"top": "Four Years of the",
+		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
+			"Happy Birthday... to us! We hope you enjoy our birthday festival!",
 			"Join the new Bass Station group! https://vrc.group/BASS.2844",
 			"Live DJs and music every other Friday!"
 		]
 	},
 	"event": {
-		"top": "Melting Down at",
-		"bottom": "Club Fallback!",
+		"top": "Happy Birthday to",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"It's not too hot to dance right? Well, actually we've already had two decks turn in to soup, I'm sure it's fine though...",
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"Check back tomorrow for Bass Station's 4th Birthday, see the poster for details!"
+			"Four years of making noise with you all! Some of it was even music!",
+			"Passengers are reminded that the management are not responsible for any injuries caused by standing too close to the paws..."
 		]
 	},
 	"info": {
@@ -25,53 +25,72 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1782423900,
+		"displayStartTime": 1782521100,
 		"performers": [
 			{
-				"name": "Skunkset",
-				"startTime": 1782424800,
-                        	"delayMins": 0,
+				"name": "Raff Surion",
+				"startTime": 1782522000,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at Dancefloor Drum & Bass",
-					"Follow Skunkset on Bluesky @skunkset.bsky.social"
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Volonus",
-				"startTime": 1782428400,
-                        	"delayMins": 0,
+				"name": "The White Crayon",
+				"startTime": 1782525600,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Direct train to Hard Techno",
-					"Follow Volonus on Bluesky @volonus.bsky.social"
+					"Follow White at https://linktr.ee/thewhitecrayon"
 				]
 			},
 			{
-				"name": "Umbral Ursa",
-				"startTime": 1782432000,
-                        	"delayMins": 0,
+				"name": "Solstice",
+				"startTime": 1782529200,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final train now arriving, calling at Dance Floor Trance, PsyTrance, and Trance-based Dubstep.",
-					"Follow Umbral Ursa on Bluesky @jurann.bsky.social and twitch.tv/urzapolariz"
+					"'Sushi is returning'",
+					"Follow Solstice at twitch.tv/solsticesonata"
+				]
+			},
+			{
+				"name": "PandaTron",
+				"startTime": 1782532800,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow PandaTron at mixcloud.com/panda-tron"
+				]
+			},
+			{
+				"name": "B2B - Japhet & V[AI]RUS",
+				"startTime": 1782536400,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Please welcome our Club owners, live and Back to Back!",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social",
+					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1782435600,
+				"startTime": 1782540000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time!"
+					"This night terminates here.",
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1782436200,
+		"closeTime": 1782540600,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"Check back tomorrow for Bass Station's 4th Birthday, see the poster for details!"
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Passengers are advised to avoid the normal station concourse due to the festival equipment in use being slightly ticklish."
 		]
 	}
 }
