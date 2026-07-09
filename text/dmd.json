@@ -10,12 +10,12 @@
 		]
 	},
 	"event": {
-		"top": "Happy Birthday to",
-		"bottom": "The Bass Station!",
+		"top": "Time to cool down at",
+		"bottom": "Club Fallback!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Four years of making noise with you all! Some of it was even music!",
-			"Passengers are reminded that the management are not responsible for any injuries caused by standing too close to the paws..."
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Bass Station is celebrating their 4th birthday with this big stage! We hope you enjoy!"
 		]
 	},
 	"info": {
@@ -25,71 +25,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1782521100,
+		"displayStartTime": 1783633800,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1782522000,
-                "delayMins": 0,
+				"name": "Lumine",
+				"startTime": 1783634400,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"Calling at Techno and Hardstyle",
+					"Follow Lumine at linktr.ee/centrystudios"
 				]
 			},
 			{
 				"name": "The White Crayon",
-				"startTime": 1782527400,
-                "delayMins": 0,
+				"startTime": 1783638000,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow White at https://linktr.ee/thewhitecrayon"
+					"Special service to Industrial Hardcore and Rawstyle",
+					"Follow The White Crayon at linktr.ee/thewhitecrayon"
 				]
 			},
 			{
-				"name": "Solstice",
-				"startTime": 1782531000,
-                "delayMins": 0,
+				"name": "King",
+				"startTime": 1783641600,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Sushi is returning'",
-					"Follow Solstice at twitch.tv/solsticesonata"
-				]
-			},
-			{
-				"name": "PandaTron",
-				"startTime": 1782534600,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Follow PandaTron at mixcloud.com/panda-tron"
-				]
-			},
-			{
-				"name": "B2B - Japhet & V[AI]RUS",
-				"startTime": 1782538200,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Please welcome our Club owners, live and Back to Back!",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social",
-					"Follow V[AI]RUS on Bluesky @vairus.bsky.social"
+					"Final DJ now arriving, with an express service to Hypnotic HardGroove!",
+					"Listen to more of King's sets at youtube.com/@GhilliedXI"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1782541800,
+				"startTime": 1783645200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This night terminates here.",
-					"See you soon again for more music!"
+					"This event terminates here.",
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1782542400,
+		"closeTime": 1783645800,
 		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
 			"Passengers are advised to avoid the normal station concourse due to the festival equipment in use being slightly ticklish."
 		]
 	}
