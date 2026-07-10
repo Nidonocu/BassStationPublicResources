@@ -10,12 +10,12 @@
 		]
 	},
 	"event": {
-		"top": "Time to cool down at",
-		"bottom": "Club Fallback!",
+		"top": "Summer continues overground at",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"Bass Station is celebrating their 4th birthday with this big stage! We hope you enjoy!"
+			"Improvements continue with our big amp friend! And we even found the balloons!",
+			"Passengers are reminded that the management are not responsible for any injuries caused by standing too close to the paws..."
 		]
 	},
 	"info": {
@@ -25,52 +25,70 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1783633800,
+		"displayStartTime": 1783727100,
 		"performers": [
 			{
-				"name": "Lumine",
-				"startTime": 1783634400,
-                        	"delayMins": 0,
+				"name": "Liquid Bass",
+				"startTime": 1783728000,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at Techno and Hardstyle",
-					"Follow Lumine at linktr.ee/centrystudios"
+					"'losing again (but i dont have the time)'",
+					"Follow Liquid at https://linktr.ee/djliquidbass"
 				]
 			},
 			{
-				"name": "The White Crayon",
-				"startTime": 1783638000,
-                        	"delayMins": 0,
+				"name": "RVDIUS",
+				"startTime": 1783733400,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Special service to Industrial Hardcore and Rawstyle",
-					"Follow The White Crayon at linktr.ee/thewhitecrayon"
+					"'The blast radius is filled with bass, I suggest you go in it.'",
+					"Listen to more from RVDIUS at soundcloud.com/rvdius_dubz"
 				]
 			},
 			{
-				"name": "King",
-				"startTime": 1783641600,
-                        	"delayMins": 0,
+				"name": "Echos From The Past",
+				"startTime": 1783738800,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ now arriving, with an express service to Hypnotic HardGroove!",
-					"Listen to more of King's sets at youtube.com/@GhilliedXI"
+				]
+			},
+			{
+				"name": "Umbral Ursa",
+				"startTime": 1783744200,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow Umbral Ursa on Bluesky @jurann.bsky.social and twitch.tv/urzapolariz"
+				]
+			},
+			{
+				"name": "Splatterpaint",
+				"startTime": 1783746900,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Out final (and bonus!) DJ of the night!",
+					"'The poopergeist is lurking nearby'",
+					"Follow Splatterpaint via their links at linktr.ee/CelerontheProtogen"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1783645200,
+				"startTime": 1783749600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time!"
+					"This night terminates here.",
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1783645800,
+		"closeTime": 1783750200,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
 			"Passengers are advised to avoid the normal station concourse due to the festival equipment in use being slightly ticklish."
 		]
 	}

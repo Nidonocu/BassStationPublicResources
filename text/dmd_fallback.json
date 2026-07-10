@@ -1,0 +1,77 @@
+{
+	"welcome": {
+		"top": "Four Years of the",
+		"bottom": "Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Happy Birthday... to us! We hope you enjoy our birthday festival!",
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Live DJs and music every other Friday!"
+		]
+	},
+	"event": {
+		"top": "Time to cool down at",
+		"bottom": "Club Fallback!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Bass Station is celebrating their 4th birthday with this big stage! We hope you enjoy!"
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1783633800,
+		"performers": [
+			{
+				"name": "Lumine",
+				"startTime": 1783634400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Calling at Techno and Hardstyle",
+					"Follow Lumine at linktr.ee/centrystudios"
+				]
+			},
+			{
+				"name": "The White Crayon",
+				"startTime": 1783638000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Special service to Industrial Hardcore and Rawstyle",
+					"Follow The White Crayon at linktr.ee/thewhitecrayon"
+				]
+			},
+			{
+				"name": "King",
+				"startTime": 1783641600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ now arriving, with an express service to Hypnotic HardGroove!",
+					"Listen to more of King's sets at youtube.com/@GhilliedXI"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1783645200,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here.",
+					"See you next time!"
+				]
+			}
+		],
+		"closeTime": 1783645800,
+		"ticker": [
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Passengers are advised to avoid the normal station concourse due to the festival equipment in use being slightly ticklish."
+		]
+	}
+}
