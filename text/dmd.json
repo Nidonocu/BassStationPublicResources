@@ -10,12 +10,13 @@
 		]
 	},
 	"event": {
-		"top": "Summer continues overground at",
-		"bottom": "The Bass Station!",
+		"top": "Welcome all to",
+		"bottom": "Club Fallback!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Improvements continue with our big amp friend! And we even found the balloons!",
-			"Passengers are reminded that the management are not responsible for any injuries caused by standing too close to the paws..."
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Bass Station is celebrating their 4th birthday with this big stage! We hope you enjoy!",
+			"Club Fallback will be returning to it's later start time next month!"
 		]
 	},
 	"info": {
@@ -25,71 +26,53 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1783727100,
+		"displayStartTime": 1784843400,
 		"performers": [
 			{
-				"name": "Liquid Bass",
-				"startTime": 1783728000,
-                "delayMins": 0,
+				"name": "Skunkset",
+				"startTime": 1784844000,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'losing again (but i dont have the time)'",
-					"Follow Liquid at https://linktr.ee/djliquidbass"
+					"Calling at House, Garage, Electropop and Digicore!",
+					"Follow Skunkset on Bluesky @skunkset.bsky.social"
 				]
 			},
 			{
-				"name": "RVDIUS",
-				"startTime": 1783733400,
-                "delayMins": 0,
+				"name": "Venix",
+				"startTime": 1784847600,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'The blast radius is filled with bass, I suggest you go in it.'",
-					"Listen to more from RVDIUS at soundcloud.com/rvdius_dubz"
-				]
-			},
-			{
-				"name": "Echos From The Past",
-				"startTime": 1783738800,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
+					"Express Service to Dubstep",
+					"Follow Venix at youtube.com/@Dj_Venix"
 				]
 			},
 			{
 				"name": "Umbral Ursa",
-				"startTime": 1783744200,
-                "delayMins": 0,
+				"startTime": 1784851200,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
+					"Final DJ now arriving, with an express service to Trancestep!",
 					"Follow Umbral Ursa on Bluesky @jurann.bsky.social and twitch.tv/urzapolariz"
 				]
 			},
 			{
-				"name": "Splatterpaint",
-				"startTime": 1783746900,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Out final (and bonus!) DJ of the night!",
-					"'The poopergeist is lurking nearby'",
-					"Follow Splatterpaint via their links at linktr.ee/CelerontheProtogen"
-				]
-			},
-			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1783749600,
+				"startTime": 1784854800,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This night terminates here.",
-					"See you soon again for more music!"
+					"This event terminates here.",
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1783750200,
+		"closeTime": 1784855400,
 		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844",
-			"Passengers are advised to avoid the normal station concourse due to the festival equipment in use being slightly ticklish."
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Club Fallback will be returning to it's later start time next month!"
 		]
 	}
 }
