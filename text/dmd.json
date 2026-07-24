@@ -10,13 +10,12 @@
 		]
 	},
 	"event": {
-		"top": "Welcome all to",
-		"bottom": "Club Fallback!",
+		"top": "Summer Party Wrap up at",
+		"bottom": "The Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"Bass Station is celebrating their 4th birthday with this big stage! We hope you enjoy!",
-			"Club Fallback will be returning to it's later start time next month!"
+			"Last chance to see the big amp! We return underground next month!",
+			"Passengers are reminded that the management are not responsible for any injuries caused by standing too close to the paws..."
 		]
 	},
 	"info": {
@@ -26,53 +25,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1784843400,
+		"displayStartTime": 1784937000,
 		"performers": [
 			{
-				"name": "Skunkset",
-				"startTime": 1784844000,
-                        	"delayMins": 0,
+				"name": "Raff Surion",
+				"startTime": 1784937600,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at House, Garage, Electropop and Digicore!",
-					"Follow Skunkset on Bluesky @skunkset.bsky.social"
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
 				]
 			},
 			{
-				"name": "Venix",
-				"startTime": 1784847600,
-                        	"delayMins": 0,
+				"name": "Solstice",
+				"startTime": 1784943000,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Express Service to Dubstep",
-					"Follow Venix at youtube.com/@Dj_Venix"
+					"'WE NEED MORE BASS. 4 the Bass Station.'",
+					"Follow Solstice at twitch.tv/solsticesonata"
 				]
 			},
 			{
-				"name": "Umbral Ursa",
-				"startTime": 1784851200,
-                        	"delayMins": 0,
+				"name": "RVDIUS",
+				"startTime": 1784948400,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ now arriving, with an express service to Trancestep!",
-					"Follow Umbral Ursa on Bluesky @jurann.bsky.social and twitch.tv/urzapolariz"
+					"'My uncle is a Vikings fan. Take that information and do whatever you want with it. xD'",
+					"Listen to more from RVDIUS at soundcloud.com/rvdius_dubz"
+				]
+			},
+			{
+				"name": "MeOwOgai",
+				"startTime": 1784953800,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ evening now arriving!",
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1784854800,
+				"startTime": 1784959200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time!"
+					"This night terminates here.",
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1784855400,
+		"closeTime": 1784959800,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"Club Fallback will be returning to it's later start time next month!"
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Passengers are advised to avoid the normal station concourse due to the festival equipment in use being slightly ticklish."
 		]
 	}
 }
