@@ -1,21 +1,21 @@
 {
 	"welcome": {
-		"top": "Four Years of the",
-		"bottom": "Bass Station!",
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Happy Birthday... to us! We hope you enjoy our birthday festival!",
 			"Join the new Bass Station group! https://vrc.group/BASS.2844",
 			"Live DJs and music every other Friday!"
 		]
 	},
 	"event": {
-		"top": "Summer Party Wrap up at",
-		"bottom": "The Bass Station!",
+		"top": "Back to the Roots of",
+		"bottom": "Club Fallback!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Last chance to see the big amp! We return underground next month!",
-			"Passengers are reminded that the management are not responsible for any injuries caused by standing too close to the paws..."
+			"Celebrating three years of Club Fallback!",
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Bass Station is celebrating their own 4th birthday with this big stage for one last night!"			
 		]
 	},
 	"info": {
@@ -25,63 +25,51 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1784937000,
+		"displayStartTime": 1786063500,
 		"performers": [
 			{
-				"name": "Raff Surion",
-				"startTime": 1784937600,
-                "delayMins": 0,
+				"name": "Wren Mouse",
+				"startTime": 1786064400,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow Raff on Bluesky @raffsurion.bsky.social"
+					"Direct train to Breakbeat"
 				]
 			},
 			{
-				"name": "Solstice",
-				"startTime": 1784943000,
-                "delayMins": 0,
+				"name": "DJ Tsiran",
+				"startTime": 1786068000,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'WE NEED MORE BASS. 4 the Bass Station.'",
-					"Follow Solstice at twitch.tv/solsticesonata"
+					"Express Service to Liquid Drum and Bass"
 				]
 			},
 			{
-				"name": "RVDIUS",
-				"startTime": 1784948400,
-                "delayMins": 0,
+				"name": "Databass Beats",
+				"startTime": 1786071600,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'My uncle is a Vikings fan. Take that information and do whatever you want with it. xD'",
-					"Listen to more from RVDIUS at soundcloud.com/rvdius_dubz"
-				]
-			},
-			{
-				"name": "MeOwOgai",
-				"startTime": 1784953800,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final DJ evening now arriving!",
-					"'I'm a husky, I have paws'",
-					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+					"Final DJ now arriving, calling at: House."
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1784959200,
+				"startTime": 1786075200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This night terminates here.",
-					"See you soon again for more music!"
+					"This event terminates here.",
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1784959800,
+		"closeTime": 1786075800,
 		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844",
-			"Passengers are advised to avoid the normal station concourse due to the festival equipment in use being slightly ticklish."
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"We're celebrating three years of Club Fallback!",
+			"Club Fallback is now back to starting at it's later time of 8pm US Central Time / 2am British Summer Time"
 		]
 	}
 }

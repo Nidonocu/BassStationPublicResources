@@ -1,0 +1,86 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Live DJs and music every other Friday!"
+		]
+	},
+	"event": {
+		"top": "Summer Party Wrap up at",
+		"bottom": "The Bass Station!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Last chance to see the big amp! We return underground next month!",
+			"Passengers are reminded that the management are not responsible for any injuries caused by standing too close to the paws..."
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1784937000,
+		"performers": [
+			{
+				"name": "Raff Surion",
+				"startTime": 1784937600,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Follow Raff on Bluesky @raffsurion.bsky.social"
+				]
+			},
+			{
+				"name": "Solstice",
+				"startTime": 1784943000,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'WE NEED MORE BASS. 4 the Bass Station.'",
+					"Follow Solstice at twitch.tv/solsticesonata"
+				]
+			},
+			{
+				"name": "RVDIUS",
+				"startTime": 1784948400,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"'My uncle is a Vikings fan. Take that information and do whatever you want with it. xD'",
+					"Listen to more from RVDIUS at soundcloud.com/rvdius_dubz"
+				]
+			},
+			{
+				"name": "MeOwOgai",
+				"startTime": 1784953800,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final DJ evening now arriving!",
+					"'I'm a husky, I have paws'",
+					"Follow MeOwOgai at @meowogai.bsky.social on Bluesky and mixcloud.com/MeOwOgai"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1784959200,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This night terminates here.",
+					"See you soon again for more music!"
+				]
+			}
+		],
+		"closeTime": 1784959800,
+		"ticker": [
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Passengers are advised to avoid the normal station concourse due to the festival equipment in use being slightly ticklish."
+		]
+	}
+}
