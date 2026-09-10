@@ -1,21 +1,20 @@
 {
 	"welcome": {
-		"top": "Four Years of the",
-		"bottom": "Bass Station!",
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Happy Birthday... to us! We hope you enjoy our birthday festival!",
 			"Join the new Bass Station group! https://vrc.group/BASS.2844",
 			"Live DJs and music every other Friday!"
 		]
 	},
 	"event": {
-		"top": "Birthday Bonanza at the",
-		"bottom": "Bass Station",
+		"top": "Welcome to a very normal",
+		"bottom": "Club Fallback!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"By special request of the demon in charge, the big amp is staying up for one more week!",
-			"We promise to clean up downstairs and fix what happened to the ceiling down there before next time..."
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"We're back underground, and cooling down!"			
 		]
 	},
 	"info": {
@@ -25,63 +24,52 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1786146300,
+		"displayStartTime": 1789087500,
 		"performers": [
 			{
-				"name": "cdelansig",
-				"startTime": 1786147200,
-                "delayMins": 0,
+				"name": "DJ Nikko Cat",
+				"startTime": 1789088400,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow cdelansig at twitch.tv/cdelansig and youtube.com/@cdelansigoffline"
+					"Calling at Hardstyle",
+					"Follow Nikko at mixcloud.com/DjNikkoCatOfficial"
 				]
 			},
 			{
-				"name": "Echos from the Past",
-				"startTime": 1786152600,
-                "delayMins": 0,
+				"name": "Pastel Folf",
+				"startTime": 1789092000,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"melodic schranzformation",
-					"Listen to more at soundcloud.com/rotr-records"
+					"Express Service to Trance"
 				]
 			},
 			{
-				"name": "Solstice",
-				"startTime": 1786158000,
-                "delayMins": 0,
+				"name": "NightshadeLenar",
+				"startTime": 1789095600,
+                        	"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Birthdays need More Bass. <3",
-					"Follow Solstice at twitch.tv/solsticesonata"
-				]
-			},
-			{
-				"name": "Japhet",
-				"startTime": 1786163400,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final and Birthday DJ of the evening now arriving!",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"Forsooth! Ye last jockey of discs for this night doth depart, heading forth to Celtic Metal and Medieval Rock!",
+					"Follow NightshadeLenar on Bluesky @nightshadelenar.bsky.social or at twitch.tv/nightshadelenar"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1786168800,
+				"startTime": 1789099200,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This night terminates here.",
-					"See you soon again for more music!"
+					"This event terminates here.",
+					"See you next time!"
 				]
 			}
 		],
-		"closeTime": 1786169400,
+		"closeTime": 1789099800,
 		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844",
-			"Happy Birthday to our big boney demon in charge, Japhet!"
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Club Fallback is now back to starting at it's later time of 8pm US Central Time / 2am British Summer Time"
 		]
 	}
 }
