@@ -9,12 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Welcome to a very normal",
-		"bottom": "Club Fallback!",
+		"top": "Awoominati Records x TransPaws",
+		"bottom": "at the Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"We're back underground, and cooling down!"			
+			"Welcome to 7 hours of DJs at this special partnership event between Awoominati Records and the TransPaws community!"
 		]
 	},
 	"info": {
@@ -24,52 +23,78 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1789087500,
+		"displayStartTime": 1789252378,
 		"performers": [
 			{
-				"name": "DJ Nikko Cat",
-				"startTime": 1789088400,
-                        	"delayMins": 0,
+				"name": "OSVLD",
+				"startTime": 1789250400,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at Hardstyle",
-					"Follow Nikko at mixcloud.com/DjNikkoCatOfficial"
+					"Now boarding for Heavy Bass"
 				]
 			},
 			{
-				"name": "Pastel Folf",
-				"startTime": 1789092000,
-                        	"delayMins": 0,
+				"name": "ELSEIF",
+				"startTime": 1789254000,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Express Service to Trance"
+					"Express service to E.D.M."
 				]
 			},
 			{
-				"name": "NightshadeLenar",
-				"startTime": 1789095600,
-                        	"delayMins": 0,
+				"name": "Alecs Dyno",
+				"startTime": 1789257600,
+                "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Forsooth! Ye last jockey of discs for this night doth depart, heading forth to Celtic Metal and Medieval Rock!",
-					"Follow NightshadeLenar on Bluesky @nightshadelenar.bsky.social or at twitch.tv/nightshadelenar"
+					"Calling at Pop, Rock, and Hip Hop."
+				]
+			},
+			{
+				"name": "Winkzee",
+				"startTime": 1789261200,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Late train for 140 Trap and Dubstep"
+				]
+			},
+			{
+				"name": "Whitty",
+				"startTime": 1789264800,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Direct service to Melodic Bass",
+					"Follow Whitty at mixcloud.com/WhittyCat"
+				]
+			},
+			{
+				"name": "Arryth",
+				"startTime": 1789268400,
+                "delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Final train and DJ of the night, now departing for Multigenre Bass"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1789099200,
+				"startTime": 1789272000,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"This event terminates here.",
-					"See you next time!"
+					"This night terminates here.",
+					"Thank you for coming!"
 				]
 			}
 		],
-		"closeTime": 1789099800,
+		"closeTime": 1789272600,
 		"ticker": [
-			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
-			"Club Fallback is now back to starting at it's later time of 8pm US Central Time / 2am British Summer Time"
+			"Follow us on Bluesky @transpaws.bsky.social",
+			"Check out our Discord at discord.gg/transpaws"
 		]
 	}
 }

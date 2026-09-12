@@ -1,0 +1,75 @@
+{
+	"welcome": {
+		"top": "Welcome to the",
+		"bottom": "Bass Station",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Live DJs and music every other Friday!"
+		]
+	},
+	"event": {
+		"top": "Welcome to a very normal",
+		"bottom": "Club Fallback!",
+		"displayOnPlatformAfterMinutes": 10,
+		"ticker": [
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"We're back underground, and cooling down!"			
+		]
+	},
+	"info": {
+		"pages": [
+			"Initial"
+		],
+		"pageDisplayTime": 0
+	},
+	"schedule": {
+		"displayStartTime": 1789087500,
+		"performers": [
+			{
+				"name": "DJ Nikko Cat",
+				"startTime": 1789088400,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Calling at Hardstyle",
+					"Follow Nikko at mixcloud.com/DjNikkoCatOfficial"
+				]
+			},
+			{
+				"name": "Pastel Folf",
+				"startTime": 1789092000,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Express Service to Trance"
+				]
+			},
+			{
+				"name": "NightshadeLenar",
+				"startTime": 1789095600,
+                        	"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"Forsooth! Ye last jockey of discs for this night doth depart, heading forth to Celtic Metal and Medieval Rock!",
+					"Follow NightshadeLenar on Bluesky @nightshadelenar.bsky.social or at twitch.tv/nightshadelenar"
+				]
+			},
+			{
+				"name": "**TERMINATES HERE**",
+				"startTime": 1789099200,
+				"delayMins": 0,
+				"genre": "N/A",
+				"ticker": [
+					"This event terminates here.",
+					"See you next time!"
+				]
+			}
+		],
+		"closeTime": 1789099800,
+		"ticker": [
+			"Join the Fallback VRChat group at: https://vrc.group/FLLBCK.3832",
+			"Club Fallback is now back to starting at it's later time of 8pm US Central Time / 2am British Summer Time"
+		]
+	}
+}
