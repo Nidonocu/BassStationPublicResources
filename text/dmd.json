@@ -9,11 +9,11 @@
 		]
 	},
 	"event": {
-		"top": "Awoominati Records x TransPaws",
-		"bottom": "at the Bass Station",
+		"top": "Welcome back to the",
+		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Welcome to 7 hours of DJs at this special partnership event between Awoominati Records and the TransPaws community!"
+			"We're finally back to normal! And I'm sure nothing strange will happen for a while now... That would be crazy..."
 		]
 	},
 	"info": {
@@ -23,78 +23,63 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1789252378,
+		"displayStartTime": 1789775100,
 		"performers": [
 			{
-				"name": "OSVLD",
-				"startTime": 1789250400,
+				"name": "Liquid Bass",
+				"startTime": 1789776000,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Now boarding for Heavy Bass"
+					"'Redemption time'",
+					"Follow Liquid at https://linktr.ee/djliquidbass"
 				]
 			},
 			{
-				"name": "ELSEIF",
-				"startTime": 1789254000,
+				"name": "_pegasys",
+				"startTime": 1789781400,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Express service to E.D.M."
+					"Follow _pegasys at https://linktr.ee/djpegasys"
 				]
 			},
 			{
-				"name": "Alecs Dyno",
-				"startTime": 1789257600,
+				"name": "RVDIUS",
+				"startTime": 1789786800,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Calling at Pop, Rock, and Hip Hop."
+					"'I'm being eaten by roaches cause I'm just too damn sweet...and I have uranium in my blood.'",
+					"Listen to more from RVDIUS at soundcloud.com/rvdius_dubz"
 				]
 			},
 			{
-				"name": "Winkzee",
-				"startTime": 1789261200,
+				"name": "Japhet",
+				"startTime": 1789792200,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Late train for 140 Trap and Dubstep"
-				]
-			},
-			{
-				"name": "Whitty",
-				"startTime": 1789264800,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Direct service to Melodic Bass",
-					"Follow Whitty at mixcloud.com/WhittyCat"
-				]
-			},
-			{
-				"name": "Arryth",
-				"startTime": 1789268400,
-                "delayMins": 0,
-				"genre": "N/A",
-				"ticker": [
-					"Final train and DJ of the night, now departing for Multigenre Bass"
+					"Final DJ of the evening now arriving...",
+					"'Remember to be the change you want to see'",
+					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1789272000,
+				"startTime": 1789797600,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This night terminates here.",
-					"Thank you for coming!"
+					"See you soon again for more music!"
 				]
 			}
 		],
-		"closeTime": 1789272600,
+		"closeTime": 1789798200,
 		"ticker": [
-			"Follow us on Bluesky @transpaws.bsky.social",
-			"Check out our Discord at discord.gg/transpaws"
+			"Join the new Bass Station group! https://vrc.group/BASS.2844",
+			"Back down to the underground we go! Welcome back to the station!"
 		]
 	}
 }
