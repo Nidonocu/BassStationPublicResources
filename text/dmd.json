@@ -1,11 +1,12 @@
 {
 	"welcome": {
-		"top": "Welcome to the",
-		"bottom": "Bass Station",
+		"top": "Created by creatures, we're",
+		"bottom": "The Bass Station",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844",
-			"Live DJs and music every other Friday!"
+			"We're saying NO to unfiltered AI slop filling up VRChat!",
+			"Join the No AI Group (NOAI.3843) or click the button on the information sign at Spawn!",
+			"We have live DJs and new music every other Friday, you can join our own Group too! (BASS.2844 or click the button on the panel downstairs!)"
 		]
 	},
 	"event": {
