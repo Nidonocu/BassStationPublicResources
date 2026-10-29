@@ -5,16 +5,18 @@
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
 			"We're saying NO to unfiltered AI slop filling up VRChat!",
-			"Join the No AI Group (NOAI.3843) or click the button on the information sign at Spawn!",
-			"We have live DJs and new music every other Friday, you can join our own Group too! (BASS.2844 or click the button on the panel downstairs!)"
+			"Join the No AI Group (NOAI.3843) or click the button on the information sign at the Entrance!",
+			"We have live DJs every other Friday, you can join our own Group too! (BASS.2844 or click the button on the panel downstairs!)"
 		]
 	},
 	"event": {
-		"top": "Welcome back to the",
+		"top": "Happy Halloween from the",
 		"bottom": "Bass Station!",
 		"displayOnPlatformAfterMinutes": 10,
 		"ticker": [
-			"We're finally back to normal! And I'm sure nothing strange will happen for a while now... That would be crazy..."
+			"Regardless of what he claims, one of our resident undead owners is currently undergoing raised levels of ectoplasm. We urge all visitors to watch their step.",
+			"Passengers are also advised to not lick the blue goo.",
+			"... We said do NOT lick the goo. Do NOT! Stop it!"
 		]
 	},
 	"info": {
@@ -24,63 +26,64 @@
 		"pageDisplayTime": 0
 	},
 	"schedule": {
-		"displayStartTime": 1789775100,
+		"displayStartTime": 1793403900,
 		"performers": [
 			{
-				"name": "Liquid Bass",
-				"startTime": 1789776000,
+				"name": "Echos from the Past",
+				"startTime": 1793404800,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'Redemption time'",
-					"Follow Liquid at https://linktr.ee/djliquidbass"
+					"'pans, pots and metal barrels'",
+					"Listen to more from Echos from the Past at soundcloud.com/rotr-records"
 				]
 			},
 			{
-				"name": "_pegasys",
-				"startTime": 1789781400,
+				"name": "Aves",
+				"startTime": 1793410200,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Follow _pegasys at https://linktr.ee/djpegasys"
+					"'I'm back bitches'",
+					"Follow Aves @dj-aves.bsky.social"
 				]
 			},
 			{
 				"name": "RVDIUS",
-				"startTime": 1789786800,
+				"startTime": 1793415600,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"'I'm being eaten by roaches cause I'm just too damn sweet...and I have uranium in my blood.'",
+					"'May the Wubz be with you'",
 					"Listen to more from RVDIUS at soundcloud.com/rvdius_dubz"
 				]
 			},
 			{
-				"name": "Japhet",
-				"startTime": 1789792200,
+				"name": "Solstice",
+				"startTime": 1793421000,
                 "delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
-					"Final DJ of the evening now arriving...",
-					"'Remember to be the change you want to see'",
-					"Follow Japhet at Bluesky @japhetbeans.bsky.social"
+					"Our ~terminal~ DJ of the night is now approaching...",
+					"'Bustin' makes me feel good!'",
+					"Follow Solstice at twitch.tv/solsticesonata"
 				]
 			},
 			{
 				"name": "**TERMINATES HERE**",
-				"startTime": 1789797600,
+				"startTime": 1793426400,
 				"delayMins": 0,
 				"genre": "N/A",
 				"ticker": [
 					"This night terminates here.",
-					"See you soon again for more music!"
+					"Good night out there, whatever you are~!"
 				]
 			}
 		],
-		"closeTime": 1789798200,
+		"closeTime": 1793427000,
 		"ticker": [
-			"Join the new Bass Station group! https://vrc.group/BASS.2844",
-			"Back down to the underground we go! Welcome back to the station!"
+			"Join the Bass Station group! https://vrc.group/BASS.2844",
+			"Due to high levels of spooky, some DJs might be late~"
 		]
 	}
 }
